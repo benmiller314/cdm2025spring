@@ -50,6 +50,10 @@ nav ul {
 	list-style-type: none;
 }
 
+nav.alert ul {
+	margin-bottom: 0;
+}
+
 .navbar-dark .navbar-nav .nav-link {
 	color: rgba(255, 255, 255, 0.7);		/* up from alpha 0.5 in Bootstrap */
 }
@@ -58,6 +62,17 @@ nav ul {
 	text-decoration: underline;
 }
 
+/* Bottom menu for next / previous lesson navigation */
+ul#lesson-nav {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul#lesson-nav a {
+	font-size: medium;
+    color: aliceblue;
 }
 
 
