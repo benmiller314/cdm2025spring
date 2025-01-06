@@ -5,47 +5,55 @@ banneralt: "banner: It's dangerous to go alone. Take this!"
 bannertitle: "image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."
 ---
 
-*This set of resources will likely expand as we move forward; feel free to suggest others that you come across!* (You can fork the repo, <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">edit this page</a>, and file a pull request! Or just email me. That works, too.)
-
-
 # Resources
 
-Table of contents:
-* [Services at Pitt](#services-at-pitt)
-* [Help with Git and GitHub](#help-with-git-and-github)
-* [Free and Licensed Images, Sounds, and Other Assets](#free-and-licensed-images-sounds-and-other-assets)
-   - [Sounds and Music](#sounds-and-music)
-   - [Visuals](#visuals)
-   - [Web Frameworks](#web-frameworks-and-libraries)
-* [Advice and Examples](#advice-and-examples)
-   - [Audio Editing / Soundwriting](#audio)
-   - [Visual Rhetoric and Design](#visual)
-   - [Web Design](#web-design)
-   <!-- - [Interactive Narrative](#twine--interactive-narrative) -->
-* [File Compression](#file-compression)
-* [Other Resource Roundups](#other-resource-roundups)
+This set of resources will likely expand as we move forward; <strong>feel free to suggest others that you come across!</strong> (You can fork the repo, <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">edit this page</a>, and file a pull request! Or just email me. That works, too.)
+
+
+<div class="alert alert-info">NB: Searching on your own is also good! It's how I find these things, after all. But note that a Large Language Model like ChatGPT is not, in itself, a search; it's attempting to recreate language it's found elsewhere. Same goes for Google's AI Overview, actually! <em>Look for the sources</em> so you can see more clearly how to adapt advice from their context to your own.
+</div>
+
+## Table of contents {#resources-toc}
+<nav aria-labelledby="resources-toc">
+    <ul>
+      <li><a href="#services-at-pitt">Services at Pitt</a></li>
+      <li><a href="#hardware-and-software">Hardware and Software Expectations</a></li>
+      <li><a href="#help-with-git-and-github">Help with Git and GitHub</a></li>
+      <li><a href="#assets">Free and Licensed Images, Sounds, and Other Assets</a>
+        <ul>
+          <li><a href="#sounds-and-music">Sounds and Music</a></li>
+          <li><a href="#visuals">Visuals</a></li>
+          <li><a href="#web-frameworks-and-libraries">Web Frameworks</a></li>
+        </ul>
+      </li>
+      <li><a href="#advice-and-examples">Advice and Examples</a>
+        <ul>
+          <li><a href="#audio">Audio Editing / Soundwriting</a></li>
+          <li><a href="#visual">Visual Rhetoric and Design</a></li>
+          <li><a href="#web-design">Web Design</a>
+     <!-- - [Interactive Narrative](#twine--interactive-narrative) --></li>
+        </ul>
+      </li>
+      <li><a href="#file-compression">File Compression</a></li>
+      <li><a href="#other-resource-roundups">Other Resource Roundups</a></li>
+    </ul>
+</nav>
 
 ## Services at Pitt
 <dl>
-<dt><a href="https://my.pitt.edu/task/all/cssd-linkedinlearning">LinkedIn Learning tutorials</a></dt>
-<dd>
-<p>This is a portal for high-quality, often in-depth, video and screencast tutorials for a wide variety of digital tools: from audio, image, and video editing, to web design, to photography and graphic design, to programming languages. Your tuition dollars give you access while you're at Pitt; might as well take advantage while you can!</p> <figure class="float-right"><img src="assets/img/linked-in-learning-start-button.png" alt="The start button follows the 'LinkedIn Learning' header and a heart button to 'Add Favorite'." /></figure>
-<p>You'll need to <strong>log in first through my.pitt</strong>, click the Start button to access the video library, and then search within that or come back here for a direct link. Otherwise, it'll try to get you to sign up or log in through LinkedIn, which is probably not what you meant to do.</p>
-<p>I particularly recommend the following starting points:
-<ul>
-  <li id="lil-audacity"><strong><a href="https://www.linkedin.com/learning/learning-audacity-2/jump-into-the-world-of-audio-editing">Learning Audacity</a></strong>: overall a short and sweet introduction that still highlights the reasons for certain features. If two hours isn't your idea of short and sweet, you can focus in on <a href="https://www.linkedin.com/learning/learning-audacity-2/selecting-and-zooming">Selecting and Zooming</a>, <a href="https://www.linkedin.com/learning/learning-audacity-2/add-tracks">Add Tracks</a>, and the whole <a href="https://www.linkedin.com/learning/learning-audacity-2/make-selections">Basic Editing</a> section.</li>
-  <li id="lil-gimp"><strong><a href="https://www.linkedin.com/learning/gimp-essential-training-4/edit-your-images-for-free-with-gimp">GIMP Essential Training</a></strong>: a longer course, with over five hours of content, because GIMP is quite powerful and that power involves a lot of complexity. Must-know sections include a <a href="https://www.linkedin.com/learning/gimp-essential-training-4/tour-the-gimp-interface">tour of the GIMP interface</a>; an <a href="https://www.linkedin.com/learning/gimp-essential-training-4/explore-gimp-tools">overview of the toolbox</a>, so you know which tool sections you might want to watch and which you can skip for now; and the whole section on <a href="https://www.linkedin.com/learning/gimp-essential-training-4/understanding-layers">Understanding Layers</a>. The first two videos in <a href="https://www.linkedin.com/learning/gimp-essential-training-4/rectangle-select-tool">Work with Selections</a> are also pretty important, as they discuss features (like options to add/subtract/intersect current selection) that apply to all selection tools. Those sections alone would total about 45 minutes... if you kept to the 1x playback speed. As a follow-up, or to get your creative juices flowing, you may want to check out the quick (usually 1 minute or less) videos in the related course, <a href="https://www.linkedin.com/learning/gimp-quick-tips">GIMP Quick Tips</a>.</li>
-  <li id="lil-ps">You also have access to Photoshop, which you can <a href="https://www.technology.pitt.edu/software/adobe-creative-cloud-students">access for free while you're at Pitt</a> through Pitt's Creative Cloud license. (NB: That page says it'll take an hour to verify you; just be patient, and you'll get access to all 40 programs without having to pay. After graduation is a different story.) If you do go that route, a good LIL course for beginners is <strong><a href="https://www.linkedin.com/learning/introducing-photoshop/welcome-to-the-home-screen">Introducing Photoshop</a></strong> (about 3 hours). Potentially all of it is relevant, but I'd start with: <a href="https://www.linkedin.com/learning/introducing-photoshop/a-bright-and-confident-beginning">The course overview</a> (2:27); <a href="https://www.linkedin.com/learning/introducing-photoshop/introducing-the-photoshop-interface">Introducing the Photoshop interface</a> (2:59); <a href="https://www.linkedin.com/learning/introducing-photoshop/understanding-selections-and-layers">Understanding selections and layers</a> (7:05); <a href="https://www.linkedin.com/learning/introducing-photoshop/modifying-the-opacity-value">modifying the opacity value</a> of a layer (2:06); free transforming with <a href="https://www.linkedin.com/learning/introducing-photoshop/scale-rotate-and-move">scale, rotate, and move</a> (2:05); and <a href="https://www.linkedin.com/learning/introducing-photoshop/formatting-text-from-the-properties-panel">formatting text</a> (4:07).</li></ul>
-</p>
-</dd>
+<dt><a href="https://pitt.libguides.com/assistanceresources/home">Pitt and Community Assistance Resources</a></dt>
+<dd>This annotated list of links is not specific to digital media, but rather addresses the underlying supports you need to learn: things like food, clothing, housing, and health. If you find yourself struggling to obtain or maintain your basic needs, there are resources to help you! <div class="alert alert-warning"><strong>In a crisis situation,</strong>&nbsp;at any time of the day or night, you can reach a trained professional through the&nbsp;<a href="https://www.studentaffairs.pitt.edu/cc/crisisemergency/" target="_blank">University Counseling Center’s</a>&nbsp;24/7 hotline (412-648-7930 ) or through the&nbsp;<a href="https://www.upmc.com/services/behavioral-health/resolve-crisis-services" target="_blank">resolve Crisis Services</a>&nbsp;(1-888-796-8226).</div></dd>
 
-<dt><a href="http://dmap.pitt.edu/">DMAP site</a></dt>
-<dd>The English department maintains a Digital Media And Pedagogy site with a number of useful resources, including <a href="http://dmap.pitt.edu/equipment">recording equipment</a> you can check out, easy-to-reserve office hours with either a grad student or faculty digital media consultant (see the sidebar), and a way to reserve the DMAP studio (CL 463) for up to eight people.</dd>
+<dt><a href="https://pitt.libguides.com/equipment">Hillman Library Media Equipment Lending Program</a></dt>
+<dd>Did you know you can borrow high-quality microphones from the library? It's true! They also have video equipment (though less relevant for our class, sorry again) and tutorials on how to use it all. While we're talking Hillman, it's also worth noting that they have a <a href="https://library.pitt.edu/whisper-room">sound-isolated recording space</a> (the Whisper Room). If you're having trouble with background noise, it could be worth making a reservation!</dd>
 
 <dt><a href="http://writingcenter.pitt.edu/">Pitt Writing Center</a></dt>
 <dd>Though not every consultant will have experience in multimodal composing or digital media, some will; but more importantly, the Writing Center's emphases on process-oriented reflection and rhetorical thinking makes every consultant a useful sounding board for developing ideas, getting feedback from an outside reader, and getting organized for revision and reflection. It's a good idea to <a href="http://writingcenter.pitt.edu/undergraduate-services">plan for your visit</a> and to make an appointment before you go.</dd>
+<!--
+<dt><a href="http://dmap.pitt.edu/">DMAP site</a></dt>
+<dd>The English department maintains a Digital Media And Pedagogy site with a number of useful resources, including <a href="http://dmap.pitt.edu/equipment">recording equipment</a> you can check out, easy-to-reserve office hours with either a grad student or faculty digital media consultant (see the sidebar), and a way to reserve the DMAP studio (CL 463) for up to eight people.</dd> -->
 
-<dt><a href="http://www.studentaffairs.pitt.edu/drs/">Disability Resources</a></dt>
+<dt><a href="https://www.diversity.pitt.edu/disability-resources-services/disability-resources-services">Disability Resources</a></dt>
 <dd>If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Office of Disability Resources and Services, 140 William Pitt Union, 412-648-7890 / 412-624-3346 (Fax), as early as possible in the term. Disability Resources and Services will verify your disability and determine reasonable accommodations for this course.</dd>
 
 <dt><a href="http://www.studentaffairs.pitt.edu/cc/">Counseling Services</a></dt>
@@ -56,6 +64,36 @@ Table of contents:
 
 </dl>
 
+*[Back to table of contents](#resources-toc)*
+
+## Hardware and Software Expectations {#hardware-and-software}
+
+All of the software for this class is designed to be cross-platform, but that usually means it’s been developed and tested for Mac and Windows operating systems, and often Linux as well. It is not guaranteed that it will work for ChromeOS or iOS, so _if your primary device is a tablet, you may need to complete most of your work on lab computers or through web interfaces_, which are not always as fully featured.
+
+If you’re worried about file storage, I highly recommend (but don’t require) getting an **external hard drive**, which is also a great solution for regularly backing up your most important files more generally.
+
+Beyond your computer, you may need to make original sound recordings and/or take original photographs; a **cell phone of recent vintage** should be enough, or you can borrow equipment from Pitt.
+
+In addition, you’re going to want **headphones**, pretty often: our first unit deals with sound, and beyond that, you might well want some sonic isolation even in non-aural units.
+
+### Required Software
+
+You are responsible for downloading and installing the following software packages, all of which cost zero dollars:
+
+* [Git](https://git-scm.com/). Version control software for the command line.
+    - I’m going to highly recommend the GUIs (graphical user interfaces) available for both Mac and Windows: go to [https://desktop.github.com/](https://desktop.github.com/).
+    - If you prefer the command line, Mac users may wish to install git via Homebrew(https://brew.sh/); Windows users may wish to install [GitBash](https://gitforwindows.org/).
+* Audacity (https://www.audacityteam.org/). Audio editing toolkit.
+    - In addition to the main application, you may want the ffmpeg plugin to import and export in a wider variety of file formats. Look for separate download instructions on the page where you download Audacity.
+* GIMP (https://www.gimp.org/). The GNU Image Manipulation Program.
+    - If you strongly prefer Photoshop (which is not free, but which Pitt tuition does license), talk to me; I’ll probably allow it, but may also ask for a rationale / feature comparison.
+* Visual Studio Code (https://code.visualstudio.com/) or Pulsar Editor (https://pulsar-edit.dev/). A cross-platform plain-text editor, with syntax highlighting and other features to support programming.
+    - Alternatives like Notepad++ (for Windows) and TextWrangler (for Mac) are acceptable, but you cannot use something like Microsoft Word for this.
+* A full-featured open-source web browser, such as [Chrome](https://www.google.com/chrome/dr/download) or [Firefox](https://www.mozilla.org/en-US/firefox), will serve you best in the web unit for inspecting design elements while on the page. Safari and Edge can do it, but not quite as well; and Internet Explorer just isn’t all there.
+
+I recommend downloading these at your earliest convenience.
+
+*[Back to table of contents](#resources-toc)*
 
 ## Help with Git and GitHub
 <dl>
@@ -65,9 +103,8 @@ Table of contents:
 <dt><a href="https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV">Git and GitHub for Poets</a></dt>
 <dd>A delightfully nerdy, yet strangely accessible, playlist of tutorial videos on using GitHub and Git (in that order) to keep track of changes to a text file. A great way to learn more about the features that make these tools appealing to coders and non-coders alike.</dd>
 
-<dt><a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop">Getting Started with GitHub Desktop</a></dt>
-<dt><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop">Contributing and Collaborating using GitHub Desktop</a></dt>
-<dd>The official documentation for using the GH Desktop application, a GUI (graphical user interface) that gives you more flexibility than the GitHub website, but also a more user-friendly appearance (including next-step-in-the-workflow suggestions) than command-line git. See especially the section, part of the second page linked above, about <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch">making changes in a branch</a>.</dd>
+<dt><a href="https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop">Getting Started with GitHub Desktop</a></dt>
+<dd>The official documentation for using the GH Desktop application, a GUI (graphical user interface) that gives you more flexibility than the GitHub website, but also a more user-friendly appearance (including next-step-in-the-workflow suggestions) than command-line git. See especially the section about <a href="https://docs.github.com/en/desktop/making-changes-in-a-branch/managing-branches-in-github-desktop">making changes in a branch</a>.</dd>
 
 <dt>What to do if your files are too large for GitHub</dt>
 <dd><p>If you get an error message telling you that you can't push to GitHub because your files are too large, try <a href="https://git-lfs.github.com/">Git Large File Storage</a> (git-lfs): it stores large files on a separate server, and converts the file in your GH repo into a tiny pointer file. The <a href="https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/versioning-large-files">documentation</a> is pretty clear, though it does involve a little command-line fu at times. (Nothing major: you can just follow the steps.) And when it's all set up, it works in GitHub Desktop pretty seamlessly.</p>
@@ -91,7 +128,10 @@ Table of contents:
 
 </dl>
 
-## Free and Licensed Images, Sounds, and Other Assets
+*[Back to table of contents](#resources-toc)*
+
+
+## Free and Licensed Images, Sounds, and Other Assets {#assets}
 In this section:
 - [Sounds and Music](#sounds-and-music)
 - [Visuals](#visuals)
@@ -125,6 +165,9 @@ In this section:
 
 </dl>
 
+*[Back to main table of contents](#resources-toc)* |
+*[Back to assets table of contents](#assets)*
+
 ### Visuals
 <dl>
 <dt><a href="https://unsplash.com/">Unsplash</a></dt>
@@ -151,6 +194,9 @@ In this section:
 
 <dt><a href="https://fontjoy.com/">Font Joy</a></dt>
 <dd>Font pairs are generated by mapping a number of features (x-height, obliqueness, stroke thickness, etc) and using a deep learning algorithm to suggest fonts that share some features while contrasting in others. The interface makes it easiest to just shuffle until you see something you like, but you can also click the menu button for a more organized list of contrasting fonts to narrow your search space. Thanks to Mason (CDM 2021 Spring) for suggesting this resource!</dd>
+
+*[Back to main table of contents](#resources-toc)* |
+*[Back to assets table of contents](#assets)*
 
 ### Web Frameworks and Libraries
 <dl>
@@ -193,17 +239,39 @@ In this section:
 </dd>
 </dl>
 
+*[Back to main table of contents](#resources-toc)* |
+*[Back to assets table of contents](#assets)*
+
+
 ## Advice and Examples
 In this section:
+- [Multipurpose](#multipurpose)
 - [Audio](#audio)
 - [Visual](#visual)
 - [Web Design](#web-design)
 - [Interactive Narrative](#twine--interactive-narrative)
-- [Logo Design](#logo-design)
+
+
+### Multipurpose
+
+<dt><a href="https://my.pitt.edu/task/all/cssd-linkedinlearning">LinkedIn Learning Library</a></dt>
+<dd>
+<p>This is a portal for high-quality, often in-depth, video and screencast tutorials for a wide variety of digital tools: from audio, image, and video editing, to web design, to photography and graphic design, to programming languages. Your tuition dollars give you access while you're at Pitt; might as well take advantage while you can!</p> <figure class="float-right"><img src="assets/img/linked-in-learning-start-button.png" alt="The start button follows the 'LinkedIn Learning' header and a heart button to 'Add Favorite'." /></figure>
+<p>You'll need to <strong>log in first through my.pitt</strong>, click the Start button to access the video library, and then search within that or come back here for a direct link. Otherwise, it'll try to get you to sign up or log in through LinkedIn, which is probably not what you meant to do.</p>
+<p>I particularly recommend the following starting points:
+<ul>
+  <li id="lil-audacity"><strong><a href="https://www.linkedin.com/learning/learning-audacity-2/jump-into-the-world-of-audio-editing">Learning Audacity</a></strong>: overall a short and sweet introduction that still highlights the reasons for certain features. If two hours isn't your idea of short and sweet, you can focus in on <a href="https://www.linkedin.com/learning/learning-audacity-2/selecting-and-zooming">Selecting and Zooming</a>, <a href="https://www.linkedin.com/learning/learning-audacity-2/add-tracks">Add Tracks</a>, and the whole <a href="https://www.linkedin.com/learning/learning-audacity-2/make-selections">Basic Editing</a> section.</li>
+  <li id="lil-gimp"><strong><a href="https://www.linkedin.com/learning/gimp-essential-training-4/edit-your-images-for-free-with-gimp">GIMP Essential Training</a></strong>: a longer course, with over five hours of content, because GIMP is quite powerful and that power involves a lot of complexity. Must-know sections include a <a href="https://www.linkedin.com/learning/gimp-essential-training-4/tour-the-gimp-interface">tour of the GIMP interface</a>; an <a href="https://www.linkedin.com/learning/gimp-essential-training-4/explore-gimp-tools">overview of the toolbox</a>, so you know which tool sections you might want to watch and which you can skip for now; and the whole section on <a href="https://www.linkedin.com/learning/gimp-essential-training-4/understanding-layers">Understanding Layers</a>. The first two videos in <a href="https://www.linkedin.com/learning/gimp-essential-training-4/rectangle-select-tool">Work with Selections</a> are also pretty important, as they discuss features (like options to add/subtract/intersect current selection) that apply to all selection tools. Those sections alone would total about 45 minutes... if you kept to the 1x playback speed. As a follow-up, or to get your creative juices flowing, you may want to check out the quick (usually 1 minute or less) videos in the related course, <a href="https://www.linkedin.com/learning/gimp-quick-tips">GIMP Quick Tips</a>.</li>
+  <li id="lil-ps">You also have access to Photoshop, which you can <a href="https://www.technology.pitt.edu/software/adobe-creative-cloud-students">access for free while you're at Pitt</a> through Pitt's Creative Cloud license. (NB: That page says it'll take an hour to verify you; just be patient, and you'll get access to all 40 programs without having to pay. After graduation is a different story.) If you do go that route, a good LIL course for beginners is <strong><a href="https://www.linkedin.com/learning/introducing-photoshop/welcome-to-the-home-screen">Introducing Photoshop</a></strong> (about 3 hours). Potentially all of it is relevant, but I'd start with: <a href="https://www.linkedin.com/learning/introducing-photoshop/a-bright-and-confident-beginning">The course overview</a> (2:27); <a href="https://www.linkedin.com/learning/introducing-photoshop/introducing-the-photoshop-interface">Introducing the Photoshop interface</a> (2:59); <a href="https://www.linkedin.com/learning/introducing-photoshop/understanding-selections-and-layers">Understanding selections and layers</a> (7:05); <a href="https://www.linkedin.com/learning/introducing-photoshop/modifying-the-opacity-value">modifying the opacity value</a> of a layer (2:06); free transforming with <a href="https://www.linkedin.com/learning/introducing-photoshop/scale-rotate-and-move">scale, rotate, and move</a> (2:05); and <a href="https://www.linkedin.com/learning/introducing-photoshop/formatting-text-from-the-properties-panel">formatting text</a> (4:07).</li></ul>
+</p>
+</dd>
+
+*[Back to main table of contents](#resources-toc)* |
+*[Back to advice/examples table of contents](#advice-and-examples)*
 
 
 ### Audio
-Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
+Under the <a href="#assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
 
 <dl>
 <dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
@@ -249,8 +317,12 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 </dd>
 </dl>
 
+*[Back to main table of contents](#resources-toc)* |
+*[Back to advice/examples table of contents](#advice-and-examples)*
+
+
 ### Visual
-Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
+Under the <a href="#assets">assets listings</a> above, you might find FontSquirrel and The Noun Project especially pertinent here.
 <dl>
 <dt>GIMP Tutorials</dt>
 <dd>As with Audacity, the community making the tool knows it best, and so you can find quite a few intro-level tutorials on the GIMP site itself, at <a href="https://www.gimp.org/tutorials">www.gimp.org/tutorials</a>. These include "GIMP Quickies" and a tutorial on layer manipulation called "Simple Floating Logo." "Layer Masks" are also pretty important for non-destructive cropping, e.g. if you want to make an image fit into a specified shape, and still be able to edit the contours of what shows through.</dd>
@@ -262,17 +334,24 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 <dt>Examples of Visual Rhetoric in Action</dt>
 <dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
 
-<dt>Visual Design Lessons</dt>
-<dd>There are lots of tutorials out there. One I've been enjoying is a series of blog posts by designer Julie Thompson on teaching middle-schoolers about principles of graphic design. You can read <a href="https://www.thetypetree.com/blog/category/graphic-design-lessons">the whole series</a> (from bottom to top), or jump to lessons on <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>, ways to create visual <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>, or <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a> – even in static images. The exercises are designed for a non-digital space, but the lessons easily apply in digital realms.</dd>
+<!-- <dt>Visual Design Lessons</dt>
+<dd>There are lots of tutorials out there. One I've been enjoying is a series of blog posts by designer Julie Thompson on teaching middle-schoolers about principles of graphic design. You can read <a href="https://www.thetypetree.com/blog/category/graphic-design-lessons">the whole series</a> (from bottom to top), or jump to lessons on <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>, ways to create visual <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>, or <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a> – even in static images. The exercises are designed for a non-digital space, but the lessons easily apply in digital realms.</dd> -->
 
 <dt>Font advice</dt>
 <dd>There's a lot of this about! I'm still looking for the ideal balance of information and succinctness without being too overwhelming or didactic; let me know if you have any recommendations. For now, I'm putting forward <a href="https://venngage.com/blog/how-to-choose-fonts/">How to Choose Fonts For Your Designs (With Examples)</a> as a good-enough solution that includes some useful categories toward the end (playful, professional, etc), reducing your search space to a more manageable volume than the ever-growing lists at, say, Font Squirrel, while still giving you a range of possibilities to choose from.</dd>
 </dl>
 
+<dt>Logo design</dt>
+<dd>Some people have expressed interest in designing logos. The <a href="https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk">Inkscape Logo Design Tutorials</a> tutorial series, from <a href="https://www.youtube.com/c/LogosByNick">LogosByNick</a>, seems like it might be useful.</dd>
+
+
+*[Back to main table of contents](#resources-toc)* |
+*[Back to advice/examples table of contents](#advice-and-examples)*
+
 
 
 ### Web Design
-In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons)... in addition, of course, to the web frameworks themselves.
+In the <a href="#assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons)... in addition, of course, to the web frameworks themselves.
 
 <dl>
 <dt><a href="https://internetingishard.netlify.app/">Interneting is Hard (but it doesn't have to be)</a></dt>
@@ -380,7 +459,6 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
   </dd>
 
 
-
 <!-- <dt><a href="https://atom.io">Atom text editor</a></dt>
 <dd><p>There are lots of great coding-friendly text editors out there, and even many excellent free ones. Essential features to look for are <em><a href="https://en.wikipedia.org/wiki/Syntax_highlighting#:~:text=Syntax%20highlighting%20is%20a%20feature,to%20the%20category%20of%20terms">syntax highlighting</a></em> and the ability to <em>view several files side-by-side</em>.</p>
 <p>Lately I've been pretty into Atom: it's cross-platform; it uses your existing file system for project management (rather than inventing its own file system); it has flexible panes for viewing; it's open source and extendable – and thus has lots of packages out in the world, including for rendered HTML or Markdown previews. Plus, it can work directly with git and GitHub, without even having to leave the editor. </p>
@@ -393,7 +471,6 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>In that case, you'll want to create a file called <strong>robots.txt</strong> to tell all the webcrawlers (from Google and Yahoo, not from Marvel) to leave your site out of their indexes. See <a href="https://moz.com/learn/seo/robotstxt#:~:text=Blocking%20all%20web%20crawlers%20from%20all%20content">moz.com/learn/seo/robotstxt</a> for more information.</p>
 </dd>
 
-
 </dt></dt>
 </dl>
 
@@ -403,6 +480,9 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <!-- A way to embed working forms on a static GH Pages site? Need to verify: https://medium.com/@asjas/using-formspree-io-on-your-github-pages-a60c290d1ee -->
 
 <!-- Add section on other text editors besides atom? e.g. brackets.io, notebook++, VSstudio,  etc?-->
+
+*[Back to main table of contents](#resources-toc)* |
+*[Back to advice/examples table of contents](#advice-and-examples)*
 
 
 
@@ -415,6 +495,9 @@ If you're having trouble uploading large files to GitHub or through email, you c
 * **For JPEG files**, specifically: <a href="http://www.jpegmini.com/app">www.jpegmini.com/app</a>
 
 * For more on .png vs .jpg file formats, see this <a href="https://www.techsmith.com/blog/jpg-vs-png/">overview</a> or this more <a href="https://www.digitaltrends.com/photography/jpeg-vs-png/">technical explanation</a>.
+
+*[Back to main table of contents](#resources-toc)*
+
 
 ## Twine / Interactive Narrative
 
@@ -432,21 +515,21 @@ If you're having trouble uploading large files to GitHub or through email, you c
 <dd>This has some great advice on how to organize your files so you can reliably include images and music, without needing to summon them from across the web (where someone else might take them down). But <em>be warned</em>: a lot of the example scripts here use SugarCube, an alternative syntax to the default Harlowe. Use the tutorial to get a sense of what's possible, but then look up the equivalent syntax in the Harlowe documentation wiki, above.</dd>
 </dl>
 
-## Logo Design
-
-Some people have expressed interest in designing logos; this tutorial series seems like it might be useful:
-* [Inkscape Logo Design Tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk), from [LogosByNick](https://www.youtube.com/c/LogosByNick)
-
+*[Back to main table of contents](#resources-toc)*
 
 
 ## Other Resource Roundups
 
 Especially in the realm of digital production, there's no need to reinvent the wheel; just as there are many excellent tutorials and sites on which to locate assets, there are many excellent <em>lists</em> of such tutorials and sites. Here are a few to draw on:
 <ul>
- 	<li>Noel Tague's <a href="https://cdmspring2017.wordpress.com/bag-of-tricks/">bag of tricks</a> is quite extensive, and includes sections on fair use, on archives of materials you can use or cite, on strategies for working with audio and video, and links to free / open source software.</li>
- 	<li>Annette Vee's <a href="http://annettevee.com/2016cdm/resources/">CDM resources page</a> includes guidance on GitHub and Markdown (a widely used shorthand for HTML, with a bunch of variants a.k.a. "flavors").</li>
-  <li>Kelsey Cameron, another veteran Composing Digital Media instructor, has posted <a href="http://klcameron.com/cdmt/resources/">her own preferred links</a>; the Sound section may be especially useful, as I've modeled our audio unit on hers.</li>
-  <li>Courtney Danforth has a full three pages of resources on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a> that I expect will be useful in the audio unit.</li>
+    <li>Madeline Sorapure's website has a list of <a href="https://sorapure.net/#:~:text=most%20fabulous%20resources">"most fabulous resources"</a> she's used in teaching digital media, broken into categories like "color," "typography," "multimedia generators," and more.</li>
+    <li>The Digital Media and Pedagogy (DMAP) website includes a roundup of <a href="https://dmap.pitt.edu/node/23">audio pedagogy tools and tips</a> that could be useful to students as well as teachers.</li>
+    <li>Noel Tague's <a href="https://cdmspring2017.wordpress.com/bag-of-tricks/">bag of tricks</a> is quite extensive, and includes sections on fair use, on archives of materials you can use or cite, on strategies for working with audio and video, and links to free / open source software.</li>
+    <li>Annette Vee's <a href="http://annettevee.com/2016cdm/resources/">CDM resources page</a> includes guidance on GitHub and Markdown (a widely used shorthand for HTML, with a bunch of variants a.k.a. "flavors").</li>
+    <li>Kelsey Cameron, another veteran Composing Digital Media instructor, has posted <a href="http://klcameron.com/cdmt/resources/">her own preferred links</a>; the Sound section may be especially useful, as I've modeled our audio unit on hers.</li>
+    <li>Courtney Danforth has a full three pages of resources on <a href="https://courtneysdanforth.files.wordpress.com/2009/09/getting-started-with-soundwriting-google-docs.pdf">Getting Started with Soundwriting</a> that I expect will be useful in the audio unit.</li>
 </ul>
 
 As the semester goes on, we can identify our own list of favorites!
+
+*[Back to main table of contents](#resources-toc)*
