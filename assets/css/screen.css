@@ -142,6 +142,21 @@ body.front h2, body.front h3 {
 	margin-top: 1em;
 }
 
+body.front #description,
+body.front #responsibilities,
+body.front #geneds {
+	max-width: 40em;
+}
+
+body.front #description {
+	margin: 1.5em;
+}
+
+body.front #geneds {
+	margin: 1.5em;
+	margin-top: -1.5em;
+}
+
 @media (min-width: 820px) {
     body.front .content-wrapper {
         max-width: 80em;
@@ -167,24 +182,32 @@ body.front h2, body.front h3 {
 		gap: 0 2em;
 	}
 
-    #description {
+    body.front #description {
         grid-column: 2 / 3;
         grid-row-start: 1;
     }
 
-    #responsibilities {
+    body.front #responsibilities {
         grid-column: 2 / 3;
         grid-row-start: 2;
         align-content: start;
     }
 
-    #front-nav {
+	body.front #geneds {
+		grid-column: 2 / 3;
+		grid-row-start: 3;
+		align-content: start;
+		margin-top: 1.5em;
+	}
+
+    body.front #front-nav {
         grid-column: 1 / 2;
         grid-row: 1 / 5;
         align-content: start;
     }
 }
 
+/* don't use gif on tiny screens */
 @media (max-width: 390px) {
 	body.front .name-and-image img {
 		display: none;
@@ -205,11 +228,6 @@ body.front h2, body.front h3 {
 
 .featured-image {
 	max-width: 20em;
-}
-
-#description {
-	max-width: 40em;
-	margin: 1.5em;
 }
 
 .center-pills {

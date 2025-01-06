@@ -2,9 +2,14 @@
 layout: front
 ---
 <section id="content">
-    <p id="description">
-    This course requires students to compose digital media while exploring the rhetorical, poetic, and political implications of multiple writing platforms. Students will learn how to compose a range of critical media objects using web-authoring languages, text, sound, and images, primarily in open-source software. Classes will focus on theories of writing, composing, design, critique, delivery, and networked distributions; critique and analysis of digital media produced by professional and amateur digital media practitioners; and analysis and revisions of digital media composed by the students themselves.
-    </p>
+    <div id="description">
+        <p>This course requires students to compose digital media while exploring the rhetorical, poetic, and political implications of multiple writing platforms. Students will learn how to compose a range of critical media objects using web-authoring languages, text, sound, and images, primarily in open-source software. Classes will focus on theories of writing, composing, design, critique, delivery, and networked distributions; critique and analysis of digital media produced by professional and amateur digital media practitioners; and analysis and revisions of digital media composed by the students themselves.</p>
+
+        <p>This particular section will focus on the core concepts of layers and versioning, applying them in the context of sound editing; image editing; and web design. We'll be using primarily free and open-source software and platforms.</p>
+    </div>
+
+    <p id="geneds">This course can be used to meet the general education requirements for DSAS Creative Work; DSAS Writing Intensive; SCI Expression: Technical, Business, or Research writing; and SCI Polymathic Contexts: Humanistic.</p>
+
 
     <nav id="front-nav" class="nav nav-pills center-pills my-3">
         <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link"  href="schedule" title="lesson plans and homeworks">Schedule</a>
@@ -22,7 +27,7 @@ layout: front
             <ul>
                 <li>compose frequently, building a habit of reading and composing as reciprocal activities</li>
                 <li>respond orally and in writing to the ideas in texts about digital media and composing</li>
-                <li>build familiarity with principles of copyright, fair use and open licensing, so as to incorporate source materials ethically and cite where appropriate</li>
+                <li>build familiarity with principles of copyright, fair use, and open licensing, so as to incorporate source materials ethically and cite where appropriate</li>
                 <li>develop shared criteria for assessing multimodal compositions in particular genres and/or media, in consultation with the professor</li>
                 <li>respond orally and in writing to the ideas and strategies in their peers’ texts</li>
                 <li>revise, using a variety of modes, in response to their own reflections and feedback from peers and the teacher</li>
