@@ -3,7 +3,7 @@
 
 **Work to have done** 
 
-* As much of the [Interneting is Hard](https://internetingishard.com/html-and-css/) tutorial as you can, now including Web Typography and Semantic HTML
+* As much of the [Interneting is Hard](https://internetingishard.netlify.app/html-and-css/) tutorial as you can, now including Web Typography and Semantic HTML
 * A second website preview, now with some kind of layout
 
 **Plan for the day**:

@@ -3,7 +3,7 @@
 **Work to have done**:
 
 * Kevin Powell's video on [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=4)
-* As much of the [Interneting is Hard](https://internetingishard.com/html-and-css/) tutorial as you can, including at least parts 1-6 (from "Introduction" through "CSS Selectors") plus 8 ("Flexbox") and 10 ("Responsive Design")
+* As much of the [Interneting is Hard](https://internetingishard.netlify.app/html-and-css/) tutorial as you can, including at least parts 1-6 (from "Introduction" through "CSS Selectors") plus 8 ("Flexbox") and 10 ("Responsive Design")
 * Readings on [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
 * A website preview: just get something started, not necessarily with layout
 
@@ -108,7 +108,7 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 
 ## Homework for next time
 
-* **Continue** the [HTML &amp; CSS tutorial](https://internetingishard.com/html-and-css/), adding at least Semantic HTML (12) and Web Typography (14). If you're encountering weird layout intransigence, you may also want to try Advanced Positioning (9).
+* **Continue** the [HTML &amp; CSS tutorial](https://internetingishard.netlify.app/html-and-css/), adding at least Semantic HTML (12) and Web Typography (14). If you're encountering weird layout intransigence, you may also want to try Advanced Positioning (9).
   - Remember that the main tools for layout now in use are Grid and Flex; you can probably skip the chapter on Float except for particular use-cases (e.g. text that wraps around an image).
   - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
 * **Compose and push** a second website preview, now adding or updating layout. A full, workshop-ready draft of your website project is due in one week.

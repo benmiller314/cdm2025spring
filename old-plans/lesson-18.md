@@ -3,7 +3,7 @@
 
 **Work to have done**:
 
-* As much of the [Interneting is Hard](https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-6 (from "Introduction" through "CSS Selectors"), with exercises pushed to your repo's "tutorials" folder
+* As much of the [Interneting is Hard](https://internetingishard.netlify.app/html-and-css/) tutorial as you can – at least parts 1-6 (from "Introduction" through "CSS Selectors"), with exercises pushed to your repo's "tutorials" folder
 * More on CSS selectors: the [CSS Diner](https://flukeout.github.io/) game and/or [a CSS-Tricks roundup](https://css-tricks.com/how-css-selectors-work/)
 
 
@@ -249,7 +249,7 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 
 # Homework for next time
 * **View** Kevin Powell's video on [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=4). It's also just a really useful channel to know about!
-* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+* **Do** more of the [tutorial](https://internetingishard.netlify.app/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
   - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors.
 * Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)).
   - EXT: Want more CSS Grid templates and examples, including CodePens to play with? Try [Grid By Example](https://gridbyexample.com/patterns/, which also has video tutorials.

@@ -70,7 +70,7 @@ How? The key is encoding the content separately from the presentation. And that'
   </tbody>
 </table>
 
-In other words, per [the tutorial I'm assigning you for homework](https://www.internetingishard.com/html-and-css/introduction/#html-css-and-javascript),
+In other words, per [the tutorial I'm assigning you for homework](https://www.internetingishard.netlify.app/html-and-css/introduction/#html-css-and-javascript),
 
 <blockquote class="blockquote">
     <ul><li>HTML is for adding meaning to raw content by marking it up.</li><li>CSS is for formatting that marked up content.</li></ul>
@@ -211,11 +211,11 @@ You'll want to come back to this when you're working on your own designs!
 
 For now, though, I suspect for many of you it'll be most useful to get your feet back on the ground.
 
-I'll be asking you to work through the tutorials at [Interneting is Hard (but it doesn't have to be)](https://www.internetingishard.com), starting over break with at least the first four chapters: that will take you from "what is HTML?" through "Hello, CSS!"
+I'll be asking you to work through the tutorials at [Interneting is Hard (but it doesn't have to be)](https://www.internetingishard.netlify.app), starting over break with at least the first four chapters: that will take you from "what is HTML?" through "Hello, CSS!"
 
 <div class="alert alert-success"><p>Before you leave today, I want to make sure you're able to get up and running with your text editor and a browser, and seeing how they interact.</p></div>
 
-The first chapter of the tutorial ("Introduction") mostly covers what we just talked about, and – unlike every other chapter – doesn't include any hands-on code examples that you're supposed to copy. So for today's class, I'd like you to **start with chapter two: "[Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)"**.
+The first chapter of the tutorial ("Introduction") mostly covers what we just talked about, and – unlike every other chapter – doesn't include any hands-on code examples that you're supposed to copy. So for today's class, I'd like you to **start with chapter two: "[Basic Web Pages](https://www.internetingishard.netlify.app/html-and-css/basic-web-pages/)"**.
 
 
 ### Key VS Code features that will make your life easier
@@ -305,6 +305,6 @@ If you're already experienced at web design and/or you find yourself breezing th
 
 ## Homework for Next Time
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as time and interest allow – but *at least parts 1-4* (from "Introduction" through "Hello, CSS")
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.netlify.app/html-and-css/) tutorial as time and interest allow – but *at least parts 1-4* (from "Introduction" through "Hello, CSS")
    - Heads up to fast workers: "float" layouts used to be a big deal, but aren't as widely recommended any more: modern techniques like grid and flex are more flexible, and easier to get right. You can probably skip that chapter, at least for now; the [Resources](../resources) page has links to some Grid tutorials.
 * **Show your work** by pushing your tutorial code to GitHub, presumably inside your tutorials folder.

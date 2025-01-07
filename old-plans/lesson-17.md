@@ -4,7 +4,7 @@
 <div class="alert alert-warning">We've had a request to activate the Zoom today. Please remind me if I forget?</div>
 
 **Work to have done**:
-* As much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS"); _push your tutorial code to GH_
+* As much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.netlify.app/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS"); _push your tutorial code to GH_
 
 **Plan for the day**:
 
@@ -130,7 +130,7 @@ EXT: If you've already done the above, and you're good on what a CSS class is, a
 
 ## Homework for Next Time
 
-* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
+* **Do** more of the [tutorial](https://internetingishard.netlify.app/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
   - Remember that I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule#current) to see which parts I expect you to read and do, and what's beyond baseline. You can probably skip Floats, for example... and I'll ask you to look at some Grid tutorials that aren't part of the main series.
 * Please do, though **read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the delightful [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
 * As you're able to get the tutorials working, you can start adapting the files there to include your own content; save those more personalized files in the _docs_ folder.
