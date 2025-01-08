@@ -12,7 +12,7 @@ On this page, you'll find links to important course documents and readings you c
 
 ## Syllabus-related materials
 
-* [Full syllabus, including Grading Contract]({{site.github.repository_url}}/raw/gh-pages/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{site.course.slugterm}}.pdf)
+* [Full syllabus, including Grading Contract]({{site.github_url}}/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{site.course.slugterm}}.pdf)
 * Excerpts from _Writer/Designer: A Guide to Making Multimodal Projects_ by Kristin L. Arola, Jennifer Sheppard, and Cheryl E. Ball (Bedford St. Martin's, 2014) are [available on Canvas]({{site.canvas_url}}).
 
 ## Other handouts
