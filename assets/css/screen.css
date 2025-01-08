@@ -312,6 +312,10 @@ img.banner {
   margin-right: auto;
 }
 
+nav.navbar-expand-lg {
+    align-items: baseline;
+}
+
 #navbarNav ul.navbar-nav {
     align-items: flex-end;
     margin-right: 0.5em;
