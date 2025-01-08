@@ -393,6 +393,11 @@ dd {
     font-style: italic;
 }
 
+/* Lists in general can feel cramped */
+li {
+	margin-bottom: .5em;
+}
+
 /* Some lists should be more widely spaced */
 ul.spaced > li, ol.spaced > li {
 	  margin-bottom: 1em;
