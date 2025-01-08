@@ -31,7 +31,7 @@ EXT: If you've done all that and you're waiting, pick one item on each list to w
 </details>
 
 ## 2. A letter from Ben
-It's part of the [syllabus]({{site.github_url}}/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{site.course.slugterm}}.docx), or [conveniently excerpted on the course site](../uploads/first-day-letter).
+It's part of the [syllabus]({{site.github_url}}/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{site.course.slugterm}}.pdf), or [conveniently excerpted on the course site](../uploads/first-day-letter).
 
 ## 3. Write a short letter back to Ben.
 Please do this on the **third page of that same survey from the start of class**, which you should still have open. If you've misread the instructions and already turned it in, email's a good fallback option: I'm at millerb@pitt.edu.

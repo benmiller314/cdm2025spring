@@ -45,7 +45,7 @@ HW for next time includes lots of little things:
 
 * Surveys and sharing:
   - **Complete** two short [modules on Canvas]({{site.canvas_url}}/modules), about self- and community-care and the grading contract. This includes a short "quiz" (should take just a minute or two) and a chance to propose changes or adopt the contract.
-  - **Read** the [rest of the syllabus]({{site.github_url}}/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{site.course.slugterm}}.docx) – or read through the course website, which contains the same information in a different format.
+  - **Read** the [rest of the syllabus]({{site.github_url}}/uploads/miller--syllabus-with-grading-contract--composing-digital-media--{{site.course.slugterm}}.pdf) – or read through the course website, which contains the same information in a different format.
   - **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2021survey) if you haven't yet done so.
 * Written introduction to the people in the class:
   - **Join** [GitHub](https://github.com/) if you haven't yet (you can use your Pitt email to get [free private repositories](https://education.github.com/discount_requests/student_application)!),
