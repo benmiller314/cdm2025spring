@@ -79,5 +79,5 @@ But first, an important consideration: <em>what web handle do you want to use fo
     * **Download and install** a plain text editor with syntax highlighting. If you don't already have a preference, I recommend either [Visual Studio Code](https://code.visualstudio.com/) or [Pulsar](https://pulsar-edit.dev), both of which will work on Windows, Mac, and Linux. (I find Pulsar a little more straightforward out of the box, but VS Code has a ton of support materials online. Both are very customizable.) Chromebook users might try [Caret](http://thomaswilburn.net/caret/), though note that Chromebooks may struggle with some of the software later in the term.
         - NB: Microsoft Word is *not* good enough for this purpose. Word files are very much not plain text... as you can see if you replace the .docx with .zip and expand the result.
         - If you already use Notepad++ or SublimeText or something like that, that's totally fine. At some point I may ask you to share your screen so we can look for similarities and differences. :1
-4.  **Download and install** the [GitHub Desktop application](https://desktop.github.com).
-    - NB: If you super-prefer command-line git, you're welcome to use it, but we will be talking about the GH Desktop interface on Thursday.
+    * **Download and install** the [GitHub Desktop application](https://desktop.github.com).
+        - NB: If you super-prefer command-line git, you're welcome to use it, but we will be talking about the GH Desktop interface on Thursday.
