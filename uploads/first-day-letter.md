@@ -1,5 +1,7 @@
 ## Welcome Letter
 
+<!-- FOR NEXT TIME: can you make this multimodal? Layers, logos, fontproject icons, etc. -->
+
 Dear digital media composers,
 
 I'm going to start with that recurring question, of grades. There are no
