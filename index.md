@@ -18,7 +18,7 @@ layout: front
         <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link"  href="resources" title="useful links">Resources</a>
         <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link"  href="office" title="one-on-one is most hands-on">Office Hours</a>
         <!-- <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link"  href="uploads" title="files and handouts">Uploads</a> -->
-        <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link"  href="{{site.repo_url}}/discussions" title="discuss readings, post responses">Forum</a>
+        <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link"  href="{{site.repo_url}}/issues" title="discuss readings, post responses">Forum</a>
     </nav>
 
     <section id="responsibilities">
