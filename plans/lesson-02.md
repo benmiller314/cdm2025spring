@@ -213,7 +213,7 @@ Any terms from that <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">n
 ## HW for next time:
 
 * **Read** and **watch** two versions of "Five Principles of New Media: Or, Playing Lev Manovich," by Madeleine Sorapure:
-    - a _text-only version_ that was always served alongside the [original Flash site](https://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm) (now defunct)
+    - a roughly 6-page _[text-only version](https://kairos.technorhetoric.net/8.2/coverweb/sorapure/five.pdf)_ that was always served alongside the [original Flash site](https://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm) (now defunct)
     - a [_video recording_ of the original Flash site](https://sorapure.net/five.mp4), demonstrating the interactive features that no longer work. (Run time is 22:24 at 1x speed.)
 
 * **Write** a short blog post (~200–500 words) to the appropriate thread [on the issue queue]({{site.github.issues_url}}):
