@@ -172,15 +172,15 @@ For this exercise, you're going to compose a very short story about what changes
 You can work solo or in groups, but either way I'll ask you to sit with some new people: I've used your Tech Comfort Survey responses from Lesson 1 to build teams where at least one person has prior GitHub experience, so you can help each other where needed! (Also, if you indicated that you're used to being the only one doing the work in a group? Congratulations, now you're matched with others who said the same!)
 
 <div class="alert alert-success">
-When you've found your people, open up <a href="https://github.com/benmiller314/cdm-gh-practice/your-turn">the your-turn folder</a> of the demo repository and follow the instructions there!
+When you've found your people, open up <a href="https://github.com/benmiller314/cdm-gh-practice/blob/main/your-turn">the your-turn folder</a> of the demo repository and follow the instructions there!
 </div>
 
 <!-- groups go here: -->
 * Weini, Billy D, Maddie, Morgan
 * Mia, Alyssa, David, Raegan B
-* Reagan H, Erin, Grace, Noah
+* Reagan H, Erin, Grace, Hannah
 * Yang, Carla, Dana, Will L
-* Josh, Ellie, Shreya
+* Josh, Ellie, Shreya, Avery
 
 (Moving into position also functions as a stretch break and a name refresher. :)
 
