@@ -452,6 +452,14 @@ ol ul:first-of-type {
 	align-items: flex-start;
 }
 
+/* Fit things (e.g. long lists) horizontally */
+.flexit {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em 2em;
+    align-items: baseline;
+}
+
 /* Make <detail> accordion-style elements prettier */
 details summary {
     width: 100%;

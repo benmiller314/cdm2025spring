@@ -30,17 +30,22 @@ We've had a request to record today's session. Is everyone okay with that?
 </div> -->
 
 1. Introduction to GitHub (~30 min)
-  * a. What's version control for?
-  * b. Considering the interface
-  * c. Clone, edit, save, commit
-  * d. Push and pull
+    <ol class="lalpha">
+        <li>What's version control for?</li>
+        <li>Considering the interface</li>
+        <li>Clone, edit, save, commit</li>
+        <li>Push and pull</li>
+    </ol>
 2. Taking your turn at the fork (~20-30 min)
-  * a. Get your own copy
-  * b. Make some changes
-  * c. Push to your own repo
-  * EXT: Request a pull from upstream
+    <ol class="lalpha">
+        <li>Get your own copy</li>
+        <li>Make some changes</li>
+        <li>Push to your own repo</li>
+        <li>EXT: Request a pull from upstream</li>
+    </ol>
 3. Report back and discuss (~10-15 min)
 4. HW Preview (2-3 min)
+
 
 
 
@@ -64,18 +69,20 @@ The rest of today's class will involve an interactive demo and an exercise you c
 * Label important edits meaningfully
 * Use GitHub to share files with others, along with a history of how they've changed
 * Define the following terms:
-    - repo / repository
-    - README
-    - Markdown / .md
-    - clone
-    - commit
-    - commit message
-    - diff
-    - push
-    - pull
-    - fork
-    - EXT: pull request
-    - EXT: branch
+    <ul class="flexit">
+      <li>repo / repository</li>
+      <li>README</li>
+      <li>Markdown / .md</li>
+      <li>clone</li>
+      <li>commit</li>
+      <li>commit message</li>
+      <li>diff</li>
+      <li>push</li>
+      <li>pull</li>
+      <li>fork</li>
+      <li>EXT: pull request</li>
+      <li>EXT: branch</li>
+    </ul>
 
 <div class="alert alert-info">
     <p>I've set up a shared note-taking space: <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">bit.ly/cdm{{site.course.slugterm}}-notes</a>. Any volunteers to be in charge of notes for today? Usually 2-3 people works best...</p>
