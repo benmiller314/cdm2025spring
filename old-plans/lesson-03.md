@@ -13,7 +13,7 @@
 
 ## Plan for the day
 
-<!-- 2023 UPDATES: 
+<!-- 2023 UPDATES:
 * Swap the part of 2022's lesson 3 that deals with GitHub into lesson 4, and replace it with the part of lesson 4 that deals with the audio narratives.
 -->
 
@@ -38,7 +38,7 @@ I was reviewing the posts on the forum as they relate specifically to the audio 
 
 <details><summary>Audio engages by being immersive</summary>
 
-<p>A number of posts noted the way you felt you were <em>in</em> the coffeeshop, or the haunted house, or the apartment making dinner. Diego put it most dramatically: "When listening to 'Coffee Shop Conversations' I felt transported. If I closed my eyes I could imagine I were there."</p> 
+<p>A number of posts noted the way you felt you were <em>in</em> the coffeeshop, or the haunted house, or the apartment making dinner. Diego put it most dramatically: "When listening to 'Coffee Shop Conversations' I felt transported. If I closed my eyes I could imagine I were there."</p>
 
 <p>A large part of this immersion, as Ben (Adams) usefully deconstructed it, is that we use our ears to orient ourselves in space: in "Come Over For Dinner," "we hear the fire alarm more predominantly in our right ear at first. After a few blares, the sound of the alarm eventually shifts equally to both ears, growing in volume, before the fire alarm stops making noise." When we hear a new sound more in one ear than the other, we're attuned to turn toward it, to balance it out.<a id="ftnref1" class="ftnref" href="ftn1" title="Later, I'll remind you from this same principle that two speakers are unlikely to be at 100% left or 100% right; even if you're walking between them, you'll probably turn at least partway toward them while they're talking. Try 60% and see how it goes.">[1]</a> (As we do so, other sounds may shift from balanced to peripheral.) In this sense, Ben notes, the piece "is in a first-person perspective; our ears are that of the main character's." This works best with headphones, of course, but even over speakers relative differences in volume can convey relative distance.</p> <!-- Show -->
 
@@ -140,16 +140,25 @@ Next time, we'll clone and play around with the files in the "in-class exercise"
 
 
 ## HW for next time:
-* **Download** the [Audacity 3](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
+
+First, some itmellectual stimulation:
+
+* **Read** one chapter from the book _Writer/Designer_ (Ball, Sheppard, and Arola, eds), which is <a title="not posted to preserve the limited distribution that helps justify my fair use claim (as does my colorless copy and the limited amount copied, relative to the book)">posted to the Files page of Canvas</a>.
+* **Listen** to the following student projects:
+<!-- update each time with examples from this class where possible -->
+  - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
+  - Joo, Jackie. "Come Over for Dinner." *Composing Digital Media Spring 2021.* (The showcase became... complicated.) [access via GitHub repo](https://github.com/jackie216/soundscape2021spring/blob/master/Come-Over-For-Dinner-final.mp3?raw=true); description in the [repo README](https://github.com/jackie216/soundscape2021spring/blob/master/README.md).
+  - Kozierok, Evan. "The King of the Jungle." *Composing Digital Media Spring 2022.* [access via GitHub repo](https://github.com/evankozierok/soundscape2022spring); description and transcript available from the [repo README](https://github.com/evankozierok/soundscape2022spring#readme).
+  - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
+
+Second, some nuts-and-bolts preparation:
+
+* **Download** the [Audacity 3.7](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
    - NB: some source sites will try to trick you into downloading unrelated software. Don't fall for it. Start on the audacityteam.org page, and read the links carefully.
    - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html), which expands the file types Audacity can handle. Might be useful for imports from your phone, depending on your device!
    - *Optionally* download a phone recording app. Your device may already have a decent default voice recorder that you can use; let the class know if you have suggestions (or anti-suggestions). I've had success with Parrot in the past.
-* **Watch** this recommended [Audacity 3 tutorial](https://www.youtube.com/watch?v=O1WzmigxZdM) (about 20 minutes long) and come in ready to play with the software (and ask any questions that come up)
+* **Watch** this [Audacity tutorial](https://www.youtube.com/watch?v=Im2W7pokfpw), by Kyle Stedman, one of the editors of [_Soundwriting: A Guide to Making Audio Projects_](https://broadviewpress.com/product/soundwriting); it's about 18 minutes long at 1x speed. Come in ready to play with the software (and ask any questions that come up)
 * **Pack** headphones – we should have time to practice!
-* Finally, **read** one chapter from the book _Writer/Designer_ (Ball, Sheppard, and Arola, eds), which is <a title="not posted to preserve the limited distribution that helps justify my fair use claim (as does my colorless copy and the limited amount copied, relative to the book)" href="{{site.canvas_url}}/external_tools/673?display=borderless">posted to the Perusall social annotation software on Canvas</a>. It's about sources, assets, and citation in the context of multimedia projects.
-  - Perusall allows you to take notes in the margins that other people in the class can see. This is optional, but highly encouraged!
-  - NB: My original schedule had this reading due over the weekend (i.e. as homework after lesson 04), but I worried the workload was imbalanced. If you've already planned out your work and can't read it by Thursday, that's okay; just catch up before you write your audio narrative proposal.
-
 
 
 <hr/>

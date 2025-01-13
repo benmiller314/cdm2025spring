@@ -3,16 +3,20 @@
 
 <!--  BEN: Set up (Zoom breakout) groups ahead of time! -->
 
-
-**Texts to have read:**
-
-* The [syllabus](/{{site.course.base_url}}uploads) and [related Canvas modules]({{site.canvas_url}}/modules)
-
-**Work to have achieved:**
-
-* Respond to the [Tech Comfort Survey](http://bit.ly/cdm2021survey)
-* Post to the main course [issue queue]({{site.github.issues_url}}/1), introducing yourself to classmates (and whoever stumbles upon it)
-* Download and install [GitHub Desktop](https://desktop.github.com) and [VSCode](https://code.visualstudio.com) (or your syntax-ready editor of choice)
+<section class="prereqs">
+    <details open><summary><strong>Texts to have read</strong></summary>
+        <ul>
+            <li><a href="/{{site.course.base_url}}uploads">the syllabus</a> and <a href="{{site.canvas_url}}/modules">related Canvas modules</a></li>
+        </ul>
+    </details>
+    <details open><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>Respond to the <a href="https://bit.ly/cdm2021survey">Tech Comfort Survey</a></li>
+            <li>Post to the main course <a href="{{site.github.issues_url}}/1">issue queue</a>, introducing yourself to classmates (and whoever stumbles upon it)</li>
+            <li>Download and install <a href="https://desktop.github.com">GitHub Desktop</a> and <a href="https://code.visualstudio.com">VSCode</a> (or <a href="https://pulsar-edit.dev">Pulsar</a> or another syntax-ready text editor)</li>
+        </ul>
+    </details>
+</section> <!-- /.prereqs -->
 
 
 ## Plan for the Day
@@ -23,7 +27,7 @@ We've had a request to record today's session. Is everyone okay with that?
 
 1. GitHub, part 2 (~20-30 min)
   * Why version control?
-  * Introduction to GitHub using basic text files
+  * Introduction to GitHub
   * a demo of diffs<!-- repo, commit, history, diff -->
   * Multiple views of the same files: web, Finder/Explorer, GH Desktop, text editor
 2. Your turn! Practice forking an assignment repository and editing its files (~20-30 min)
@@ -45,7 +49,7 @@ But its core functionality is meant to solve a different media problem: tracking
   <figcaption>from <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PhD Comics</a> by Jorge Cham (2012).</figcaption>
 </figure>
 
-Retaining and renaming ever more files isn't just messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. What *git* allows you to do instead is to **track the differences** between versions of files **while keeping the same filename.** 
+Retaining and renaming ever more files isn't just messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. What *git* allows you to do instead is to **track the differences** between versions of files **while keeping the same filename.**
 
 
 <div class="alert alert-success">
@@ -62,7 +66,7 @@ Let's check out the GitHub.com web interface, and see how it works:
 <!--
 1. Create a new .txt file based on https://www.poetryfoundation.org/poems/56159/this-is-just-to-say
 2. <del>Demo the importance of the extension by previewing what happens if it's .md?</del> NAH
-3. Commit the new file directly to master.
+3. Commit the new file directly to the main branch.
     - Note that the commit message has two parts: a short label, and a bigger box. These are kind of like the subject line of an email and the email body. The first is what you'll see automatically when browsing the history; the second will require an additional click. And GitHub will let you leave the "body" blank, but you're required to have a "subject line."
 4. Use the CODE button to *Open in GitHub Desktop*. Ask the questions above again: how is the space laid out? What's given the most prominent visual focus? Secondary focus? What features/tools do you have quick access to?
 5. Open the file and change the text. *Ask for suggestions (in the Zoom chat, if on Zoom).*
@@ -73,16 +77,16 @@ Let's check out the GitHub.com web interface, and see how it works:
 
 ## 2. Your turn
 
-Time to take these abstractions and put them into practice. 
+Time to take these abstractions and put them into practice.
 
 We'll be working in groups. I've used your Tech Comfort Survey responses from Lesson 1 to build teams where at least one person has prior GitHub experience, so I hope you'll be able to help each other where needed!
 
 <!-- groups go here: -->
-* Asher, Jackson, Lauren, Suchi
-* Diego, Janna, Jordan, Kellen
-* Mike, Ana, Betul, Mark
-* Josie, Alexandra A, Ariana, Michael
-* Ben A, Alex L, Elio, Skylar, Taylor
+* Weini, Billy D, Maddie, Morgan
+* Mia, Alyssa, David, Raegan B
+* Reagan H, Erin, Grace, Noah
+* Yang, Carla, Dana, Will L
+* Josh, Ellie, Shreya
 
 <div class="alert alert-success">
 Head to
@@ -107,18 +111,14 @@ What was exciting? What was challenging? Anyone get to the EXT?
 
 ## HW for next time:
 
-* Please **read / play** through Tyler Su's ["Playing Lev Manovich"](https://tylersu.github.io/o/), which defines and illustrates five principles of new media. Be ready to talk about what you noticed, and what you wondered.
-* **Listen** to the following recordings:
-<!-- update each time with examples from this class where possible -->
-  - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
-  - Joo, Jackie. "Come Over for Dinner." *Composing Digital Media Spring 2021.* (The showcase became... complicated.) [access via GitHub repo](https://github.com/jackie216/soundscape2021spring/blob/master/Come-Over-For-Dinner-final.mp3?raw=true); description in the [repo README](https://github.com/jackie216/soundscape2021spring/blob/master/README.md).
-  - Kozierok, Evan. "The King of the Jungle." *Composing Digital Media Spring 2022.* [access via GitHub repo](https://github.com/evankozierok/soundscape2022spring); description and transcript available from the [repo README](https://github.com/evankozierok/soundscape2022spring#readme).
-  - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
-  
+* **Read** and **watch** two versions of "Five Principles of New Media: Or, Playing Lev Manovich," by Madeleine Sorapure:
+    - a _text-only version_ that was always served alongside the [original Flash site](https://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm) (now defunct)
+    - a [_video recording_ of the original Flash site](https://sorapure.net/five.mp4), demonstrating the interactive features that no longer work. (Run time is 22:24 at 1x speed.)
 
-* **Write** a short blog post to the appropriate thread [on the issue queue]({{site.github.issues_url}}): 
-    - What do you notice, i.e. what stands out while reading or listening? 
+* **Write** a short blog post (~200–500 words) to the appropriate thread [on the issue queue]({{site.github.issues_url}}):
+    - What do you notice, i.e. what stands out while reading or watching? Locate us somewhere in the "text."
     - What does that suggest, or what does it make you wonder?
+    - In particular, _what can and can't text do_ (clarify, convey, etc) in this context?
 
 
 
