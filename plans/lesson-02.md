@@ -18,6 +18,10 @@
     </details>
 </section> <!-- /.prereqs -->
 
+Welcome back! I really enjoyed reading all the introductory posts and letters; thank you for those. If you haven't had a chance to get to know your classmates' opening posts, I encourage you to [check them out]({{site.github.issues_url}}/1)!
+
+And if you haven't posted one, please do! As noted in the contract, you get one free missed homework per unit, but you don't want to spend it before you really need it.
+
 
 ## Plan for the Day
 
@@ -25,61 +29,151 @@
 We've had a request to record today's session. Is everyone okay with that?
 </div> -->
 
-1. GitHub, part 2 (~20-30 min)
-  * Why version control?
-  * Introduction to GitHub
-  * a demo of diffs<!-- repo, commit, history, diff -->
-  * Multiple views of the same files: web, Finder/Explorer, GH Desktop, text editor
-2. Your turn! Practice forking an assignment repository and editing its files (~20-30 min)
-3. Shareback and discuss (~10-15 min)
+1. Introduction to GitHub (~30 min)
+  * a. What's version control for?
+  * b. Considering the interface
+  * c. Clone, edit, save, commit
+  * d. Push and pull
+2. Taking your turn at the fork (~20-30 min)
+  * a. Get your own copy
+  * b. Make some changes
+  * c. Push to your own repo
+  * EXT: Request a pull from upstream
+3. Report back and discuss (~10-15 min)
 4. HW Preview (2-3 min)
 
-Welcome back! I really enjoyed reading all the introductory posts and letters; thank you for those. If you haven't had a chance to get to know your classmates' opening posts, I encourage you to [check them out]({{site.github.issues_url}}/1)!
-
-And if you haven't posted one, please do! As noted in the contract, you get one free missed homework per unit, but you don't want to spend them before you really need them.
 
 
-## 1. GitHub, part 2
+## 1a. Introduction to GitHub: what's version control for?
+
 In those intro posts, we saw that GitHub can host a discussion forum, so in that sense it's a community website: it makes media social.
 
-But its core functionality is meant to solve a different media problem: tracking changes to files over time.
+But its core functionality is meant to solve a different (though related) media problem: how to _track changes to files over time_... especially if you're working on those files with someone else.
 
 <figure role="figure">
   <a href="http://phdcomics.com/comics/archive.php?comicid=1531"><img src="../assets/img/cham-phd101212s.gif" style="max-height: 600px; max-height: 70vh; width: auto;" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity" title="I'm not the first to use this comic in a discussion of version control. See, for example, https://caltechlibrary.github.io/git-desktop/aio/."></a>
   <figcaption>from <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PhD Comics</a> by Jorge Cham (2012).</figcaption>
 </figure>
 
-Retaining and renaming ever more files isn't just messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. What *git* allows you to do instead is to **track the differences** between versions of files **while keeping the same filename.**
+Retaining and renaming ever more files isn't just messy to keep track of: it also eats up your storage space, especially if you're working with multimedia. What git allows you to do instead is to **track the differences** between versions of files **while keeping the same filename.**
 
+The rest of today's class will involve an interactive demo and an exercise you can do on your own and/or in groups. By the time we're done, you should be able to...
 
-<div class="alert alert-success">
-Let's check out the GitHub.com web interface, and see how it works:
-<strong><a href="https://github.com/benmiller314/text-demo">https://github.com/benmiller314/text-demo</a></strong>
+* Consider how an interface design (e.g. visual layout; menu options) communicates the priority of actions the designers expect you to perform
+* Create and edit files with a plain text editor on your own computer
+* Label important edits meaningfully
+* Use GitHub to share files with others, along with a history of how they've changed
+* Define the following terms:
+    - repo / repository
+    - README
+    - Markdown / .md
+    - clone
+    - commit
+    - commit message
+    - diff
+    - push
+    - pull
+    - fork
+    - EXT: pull request
+    - EXT: branch
+
+<div class="alert alert-info">
+    <p>I've set up a shared note-taking space: <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">bit.ly/cdm{{site.course.slugterm}}-notes</a>. Any volunteers to be in charge of notes for today? Usually 2-3 people works best...</p>
+    <p>PS. Advice from my years of experience doing simultaneous note-taking: it always helps to leave a blank line at the bottom for another note-taker to jump in. (Which also means, please add another blank line at the bottom when you do jump in!)</p>
 </div>
 
-### Initial questions to ask of any app:
 
-- How is the space laid out?
-- What's given the most prominent visual focus? Secondary focus?
-- What features/tools do you have quick access to?
+## 1b. Considering the interface
+
+In a new window, which you can also open up on your own devices, let's have a look at <strong><a href="https://github.com/benmiller314/cdm-gh-practice">github.com/benmiller314/cdm-gh-practice</a></strong>.
+
+With any new interface – which a website is, but so is a desktop application, and so is a book – you can think about its design:
+
+* Where is your attention drawn? e.g. What takes up the most area? What's given high contrast, in color or size?
+* What's grouped together? Can you tell why, or by what principle?
+* What functions/tools do you have quick access to? e.g. What can you interact with directly? What buttons or menus do you have, if any (whether in a toolbar or on a right-click)?
+
+The answers may suggest (hopefully suggest) how the designers expect you to use it. Certainly they help set the parameters for how you'll explore it.
 
 <!--
-1. Create a new .txt file based on https://www.poetryfoundation.org/poems/56159/this-is-just-to-say
-2. <del>Demo the importance of the extension by previewing what happens if it's .md?</del> NAH
-3. Commit the new file directly to the main branch.
-    - Note that the commit message has two parts: a short label, and a bigger box. These are kind of like the subject line of an email and the email body. The first is what you'll see automatically when browsing the history; the second will require an additional click. And GitHub will let you leave the "body" blank, but you're required to have a "subject line."
-4. Use the CODE button to *Open in GitHub Desktop*. Ask the questions above again: how is the space laid out? What's given the most prominent visual focus? Secondary focus? What features/tools do you have quick access to?
-5. Open the file and change the text. *Ask for suggestions (in the Zoom chat, if on Zoom).*
-6. Create a new branch, then merge it. Why, you ask?
-   It matters when you're working with others: you want to make sure you're comparing against the most up-to-date version, so you don't accidentally erase something new.
-   This will become important in a minute.
+* Define repository, using text from the README.
+* Point out the table of files, each with its most recent commit (linked) and when it happened
+* Click on a file: this-is-just-to-say.txt. It displays; we could edit it! But let's not just yet...
 -->
 
-## 2. Your turn
+## 1c. Clone, edit, save, commit
 
-Time to take these abstractions and put them into practice.
+### Clone: GitHub Desktop
 
-We'll be working in groups. I've used your Tech Comfort Survey responses from Lesson 1 to build teams where at least one person has prior GitHub experience, so I hope you'll be able to help each other where needed!
+Let's try engaging one of those highlighted tools! I'm going to **clone** the repository, opening it with GitHub Desktop. This creates a local copy on my computer that knows about the one online: it links files between the **clo**ud and the **ne**ar.
+
+Let's take a first impression of GitHub Desktop:
+
+* Where is your attention drawn? e.g. What takes up the most area? What's given high contrast, in color or size?
+* What's grouped together? Can you tell why, or by what principle?
+* What functions/tools do you have quick access to? e.g. What can you interact with directly? What buttons or menus do you have, if any (whether in a toolbar or on a right-click)?
+
+
+### Edit: Pulsar (or VS Code)
+
+Once again, let's follow the lead the software gives us and *open the repository in your external editor*.
+
+* Where is your attention drawn? e.g. What takes up the most area? What's given high contrast, in color or size?
+* What's grouped together? Can you tell why, or by what principle?
+* What functions/tools do you have quick access to? e.g. What can you interact with directly? What buttons or menus do you have, if any (whether in a toolbar or on a right-click)?
+
+Compare what you're seeing here to what we saw on GitHub's web interface... and in GitHub Desktop.
+
+<!-- Same files as online. But now when we click on a file we can edit right away. -->
+
+<div class="alert alert-success">
+Let's make some changes, and see what happens!
+</div>
+
+### Save
+
+And then let's head back to GitHub Desktop. Where's your attention drawn now?
+
+### Commit
+
+Git history isn't automatic: it doesn't track things every few seconds, like Google Docs. (Speaking of: how are those notes going?) Instead, it waits for you to be sure you have something worth keeping. It waits for you to **commit**.
+
+A commit is, essentially, a _named_ save: a point in time you might want to come back to, or at least set as a basis for comparison. And while you can in theory name it [anything](https://xkcd.com/1296/) you want, it's a good idea to _make it meaningful_.
+
+For example, "update files" doesn't tell you anything about what the update contains. A message like "draft 3" is better, but still quite vague (and it possibly masks a wide range of unrelated changes). Instead, aim for something like "replace plums with thumbs, and run with that" or "move title to the bottom," etc. Something that will let you actually find this point in history if you're looking for it later.
+
+Note that the commit message interface has two parts: a short label, and a bigger box beneath. These are kind of like the subject line of an email and the email body. The first is what you'll see automatically when browsing the history; the second will usually require an additional click. And while GitHub will let you leave the "body" blank, you're required to have a "subject line."
+
+## 1d. Push and pull
+
+We've got the changes saved locally, and they're committed to git's history. But remember what I said way at the beginning, about GitHub being a _social_ site?
+
+To get the changes out into the world, we can **push** them out into the ether.
+
+If someone (including us) makes changes elsewhere, we can **pull** just those changes from out there back to our existing clone.
+
+<div class="alert alert-info">
+Each commit is actually just recording the <em>difference</em> from the previous state, so we don't need to re-copy the whole repository – only those bits that have changed. You only have to clone once.
+</div>
+
+## 2. Taking your turn at the fork
+
+So far, we've been working in my copy of the repository. But one of the coolest things about GitHub is that you can very quickly make any public repo your own, and take it in a new direction.
+
+This is called making a **fork**. To fork a repo is to _make a copy_ of it: all the files, and – importantly – the complete \*history\* of those files. This lets you safely play with and edit the files, without worrying that you'll overwrite someone else's work.
+
+Importantly, once you've forked a copy of a repo, you now have a version of it _that you control_. The web address of that repo, for example, will change to show your username, rather than the original owner's. The two repos remain linked, though, so you can pull changes back and forth if you want to.
+<!--
+NB: For this exercise you can work alone or in groups. If you're working in groups, you'll want one partner to fork my repository, and the others to fork that fork. This will make it easier to combine your forks later on without worrying about overlapping with other groups in the original benmiller314 repo. -->
+
+<div class="alert alert-success">
+For this exercise, you're going to compose a very short story about what changes when <em>digital</em> comes into the mix. And you're going to write it in a forked repository, so we can merge them together later.</div>
+
+You can work solo or in groups, but either way I'll ask you to sit with some new people: I've used your Tech Comfort Survey responses from Lesson 1 to build teams where at least one person has prior GitHub experience, so you can help each other where needed! (Also, if you indicated that you're used to being the only one doing the work in a group? Congratulations, now you're matched with others who said the same!)
+
+<div class="alert alert-success">
+When you've found your people, open up <a href="https://github.com/benmiller314/cdm-gh-practice/your-turn">the your-turn folder</a> of the demo repository and follow the instructions there!
+</div>
 
 <!-- groups go here: -->
 * Weini, Billy D, Maddie, Morgan
@@ -88,26 +182,26 @@ We'll be working in groups. I've used your Tech Comfort Survey responses from Le
 * Yang, Carla, Dana, Will L
 * Josh, Ellie, Shreya
 
-<div class="alert alert-success">
-Head to
-<p><strong><a href="https://github.com/benmiller314/cdm-gh-practice#readme">https://github.com/benmiller314/cdm-gh-practice</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, group GitHub anchors!)</p>
+(Moving into position also functions as a stretch break and a name refresher. :)
 
-<p>Please start by skimming through the instructions in the README file, so you know where this is headed. (It'll spare you confusion later, based on past semesters!)</p>
+Read through the details, then follow the steps to add one piece of the story at a time, committing as you go. **We'll work in groups for about 10-15 minutes, then report back.**
 
-<p>I'll give you the overview while we're still together:</p>
 
-<ol><li>Make a copy of the repository for your group</li>
-<li>Write a short story, one line per person, committing every time you add a line</li>
-<li>File a <em>pull request</em> to merge it back to my repo</li></ol>
-</div>
-
-Read through the details, then follow the steps. **We'll work in groups for about 10-15 minutes, then report back.** <!-- Don't forget that you can use Zoom chat and screenshare to show your groupmates what you're doing. --> NB: For this task, you can use either the GitHub web interface or use GitHub Desktop to "pull" files to edit on your own computer and then "push" them back.
 
 Call me if you need me! Otherwise, I'll be floating from group to group. And note the EXT activity in the repository itself if you finish early.
 
+
 ## 3. Report back and discuss
 
-What was exciting? What was challenging? Anyone get to the EXT?
+What was exciting? What was challenging?
+
+Any volunteers to share what you wrote?
+
+Any terms from that <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">notes doc</a> that are still unclear?
+
+(Did anyone get to the EXT with Janet Murray?)
+
+
 
 ## HW for next time:
 
@@ -120,12 +214,4 @@ What was exciting? What was challenging? Anyone get to the EXT?
     - What does that suggest, or what does it make you wonder?
     - In particular, _what can and can't text do_ (clarify, convey, etc) in this context?
 
-
-
-## EXT: VS Code interface
-
-Using those same questions from above:
-
-- How is the space laid out?
-- What's given the most prominent visual focus? Secondary focus?
-- What features/tools do you have quick access to?
+* EXT for eager readers: interested in more on affordances? Try [this short chapter](https://wac.colostate.edu/docs/books/design/chapter7.pdf) from *Keywords in Design Thinking*.

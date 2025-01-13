@@ -36,7 +36,6 @@ Unit V | [Putting it Together](#unit-5) | (weeks 11-13)
 
 ## Unit I: Digital Media Stacks
 {: .unit #unit-1 }
-<a id="current"/>
 
 _In this unit, we'll introduce **affordances** and **iteration** as recurring ways to think about digital products and processes – both those we encounter and those we create._
 
@@ -55,13 +54,13 @@ HW for next time includes lots of little things:
   - If you don't already have one, please **download and install** a plain text editor with syntax highlighting. If you don't have a preference, try either the open source **[Pulsar Editor](https://pulsar-edit.dev/)** or Microsoft's **[VS Code](https://code.visualstudio.com/)** or, which runs on PC, Mac, and Linux. (Chromebook users might try [Caret](http://thomaswilburn.net/caret/), though note that Chromebooks might have trouble with some of the multimedia editing software coming up; talk to me about options if this is your main device.)
     - Especially if you don't know what "syntax highlighting" is, I recommend this [7-minute intro to VS Code](https://youtu.be/B-s71n0dHUk).
 
-
+<a id="current"/>
 <h3>Monday, Jan 13 – <a href="{{site.github_url}}/plans/lesson-02" id="lesson-02">Lesson 2</a> – Interfaces and Repositories</h3>
 
 HW for next time:
 
 * **Read** and **watch** two versions of "Five Principles of New Media: Or, Playing Lev Manovich," by Madeleine Sorapure: a [text-only version](https://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm) and a [video recording of the original Flash site](https://sorapure.net/five.mp4) (now defunct); run time is 22:24 at 1x speed.
-* **Write** a short blog post: What do you notice? What do you wonder? _What can and can't text do in this context?_ Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
+* **Write** a short blog post: What do you notice? What do you wonder? _What can and can't text do in this context?_ Post this on the appropriate <a href="{{site.github.issues_url}}">Issues</a> thread.
 
 * EXT for eager readers: interested in more on affordances? Try [this short chapter](https://wac.colostate.edu/docs/books/design/chapter7.pdf) from *Keywords in Design Thinking*.
 

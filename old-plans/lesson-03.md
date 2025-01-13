@@ -24,10 +24,6 @@
 4. Fork and clone
 5. Homework preview
 
-<div class="alert alert-info">
-<p>I've set up a shared note-taking space: <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">bit.ly/cdm{{site.course.slugterm}}-notes</a>. Any volunteers to be in charge of notes for today? Usually 2-3 people works best...</p>
-<p>PS. Advice from my years of experience doing simultaneous note-taking: it always helps to leave a blank line at the bottom for another note-taker to jump in. (Which also means, please add another blank line at the bottom when you do jump in!)</p>
-</div>
 
 
 ## 1. Sound, space, and attention
