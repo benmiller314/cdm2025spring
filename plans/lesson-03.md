@@ -174,18 +174,19 @@ First, some intellectual stimulation:
 * **Read** chapter 6, "Working with Multimodal Assets and Sources," from the textbook _Writer/Designer_ (edited by Ball, Sheppard, and Arola). A <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6745793&ppg=229">digital copy</a> is available through Pitt Libraries.
 * **Listen** to the following student projects, each running 2–5 minutes, each shared with permission: <!-- Reading the READMEs is an EXT. NOTE TO SELF: also assign the reflections for these when we get close to that, if only as an EXT at that time -->
 <!-- update each time with examples from this class where possible -->
-  - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
+  - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [https://dmap.pitt.edu/node/248](https://dmap.pitt.edu/node/248).
   - Joo, Jackie. "Come Over for Dinner." *Composing Digital Media Spring 2021.* (The showcase became... complicated by the pandemic.) [access via GitHub repo](https://github.com/jackie216/soundscape2021spring): filename [Come-Over-For-Dinner-final.mp3](https://github.com/jackie216/soundscape2021spring/blob/master/Come-Over-For-Dinner-final.mp3?raw=true). Description in the [repo README](https://github.com/jackie216/soundscape2021spring/blob/master/README.md).
   - Kozierok, Evan. "The King of the Jungle." *Composing Digital Media Spring 2022.* [access via GitHub repo](https://github.com/evankozierok/soundscape2022spring): filename [soundscape.mp3](https://github.com/evankozierok/soundscape2022spring/blob/master/soundscape.mp3?raw=true). Description and transcript available from the [repo README](https://github.com/evankozierok/soundscape2022spring#readme).
-  - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
+  - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [https://dmap.pitt.edu/node/295](https://dmap.pitt.edu/node/295).
   - Adams, Ben. "Spent on a Rainy Day." *Composing Digital Media Spring 2023.* [access via GitHub Repo](https://github.com/BenA03/audio-narrative-2023spring): filename [audio-project.mp3](https://github.com/BenA03/audio-narrative-2023spring/blob/6ce743be357a18c4d3df0e8d3c349a870bef2f3f/audio-project.mp3?raw=true).
 
 Second, some writing (because this is a W class, after all!):
 
 * **Write** another short blog post (~200–500 words) to the new thread [on the issue queue]({{site.github.issues_url}}):
-    - What do you notice, i.e. what stands out or catches your attention while reading or listening? Was anything surprising? Locate us somewhere in the "text," whether it's one of the student examples or the chapter on assets and sources.
-    - What does that suggest, or what does it make you wonder?
+    -  What do you notice, i.e. what stands out or catches your attention while reading or listening? Was anything surprising? Locate us somewhere in the "text," whether it's one of the student examples or the chapter on assets and sources. (It could also be how one helps you think about the other.)
+    - What does that thing you noticed suggest, or what does it make you wonder?
     - _optional but encouraged:_ If you're one of the first five to post, see if you can pose a question for your classmates. If one of the questions speaks to you, do your best to respond to it – you can use `@username` to signal whose question you're addressing.
+
 
 Finally, some nuts-and-bolts preparation:
 
