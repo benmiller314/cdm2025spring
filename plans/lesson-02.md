@@ -215,6 +215,7 @@ Any terms from that <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">n
 * **Read** and **watch** two versions of "Five Principles of New Media: Or, Playing Lev Manovich," by Madeleine Sorapure:
     - a roughly 6-page _[text-only version](https://kairos.technorhetoric.net/8.2/coverweb/sorapure/five.pdf)_ that was always served alongside the [original Flash site](https://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm) (now defunct)
     - a [_video recording_ of the original Flash site](https://sorapure.net/five.mp4), demonstrating the interactive features that no longer work. (Run time is 22:24 at 1x speed.)
+    <!-- FOR NEXT TIME: Experiment time! If your name starts with A-L, read the text before the video. If your name starts with M-Z, watch the video before the text. -->
 
 * **Write** a short blog post (~200–500 words) to the appropriate thread [on the issue queue]({{site.github.issues_url}}):
     - What do you notice, i.e. what stands out while reading or watching? Locate us somewhere in the "text."

@@ -54,7 +54,7 @@ HW for next time includes lots of little things:
   - If you don't already have one, please **download and install** a plain text editor with syntax highlighting. If you don't have a preference, try either the open source **[Pulsar Editor](https://pulsar-edit.dev/)** or Microsoft's **[VS Code](https://code.visualstudio.com/)** or, which runs on PC, Mac, and Linux. (Chromebook users might try [Caret](http://thomaswilburn.net/caret/), though note that Chromebooks might have trouble with some of the multimedia editing software coming up; talk to me about options if this is your main device.)
     - Especially if you don't know what "syntax highlighting" is, I recommend this [7-minute intro to VS Code](https://youtu.be/B-s71n0dHUk).
 
-<a id="current"/>
+
 <h3>Monday, Jan 13 – <a href="{{site.github_url}}/plans/lesson-02" id="lesson-02">Lesson 2</a> – Interfaces and Repositories</h3>
 
 HW for next time:
@@ -65,7 +65,7 @@ HW for next time:
 * EXT for eager readers: interested in more on affordances? Try [this short chapter](https://wac.colostate.edu/docs/books/design/chapter7.pdf) from *Keywords in Design Thinking*.
 
 
-
+<a id="current"/>
 <h3>Wednesday, Jan 15 – <a href="{{site.github_url}}/plans/lesson-03" id="lesson-03">Lesson 3</a> – Digital Affordances</h3>
 <!-- Be sure to clarify that what you want is a single folder and a single file, so you can track its evolution. Some people always seem to want to create new repos for each draft, which defeats the purpose. -->
 

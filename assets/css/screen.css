@@ -569,6 +569,11 @@ pre code {
 	display: none;
 }
 
+/* Sometimes, you just want to add space */
+.spoiler {
+    margin-bottom: 40vh;
+}
+
 /* TO DO: Add powerpoint-like "appear" animation where desired, using @keyframes and :active
 
 
