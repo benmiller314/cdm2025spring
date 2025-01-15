@@ -54,7 +54,10 @@ Once we have a shared base of understanding, we can use these terms to think abo
 * Maddie noted that the text and video follow the same organization, but with the video (i.e. the site) "adding design elements" to enhance the experience. Remember that the text did accompany the original article. If we think of the two versions as a kind of _progressive enhancement_, what does that suggest? Who might prefer the less "enhanced" version?
     * Carla noted that the text can get more in depth – that the interactives needed the text alongside them to provide background context and clarification.
 * Shreya pointed out some weirdnesses in the text: it doesn't just describe the goal of an image (e.g. it "attempts to draw attention to the numbers and code"); it refers to "the image above," "the menu to the left." What does that suggest about the origins of this text? If the author had one more round of revision, would you take out the directional indications? What about the descriptions and goal statements?
-    * Grace noted that the descriptions of visuals, and even their intent, were hard to grasp from the text alone
+    * Grace noted that the descriptions of visuals, and even their intent, were hard to grasp from the text alone.
+    * Billy seemed to disagree, noting that "the breaks and attentions within the article act similarly to the video"
+    * Mia, on the other hand, felt that "[t]he text-only depiction and video provided vastly different experiences, despite covering almost the exact same material."
+    * One conclusion? **there is no truly universal design.** Multiple paths are better than just one.
 
 * EXT: Automation has become much, much more of a thing since 2003, when this article came out; even since 2022, when ChatGPT launched the current genAI boom. We can "collaborate with the machine" in very different ways now – and more easily – than even a few years ago. And it's all changing very rapidly.
     In what ways do these ideas help you see GenAI as a break from the past, and in what ways does it help you see it as a continuation?
@@ -162,6 +165,10 @@ Test your understanding: Without taking any further steps, where will you be abl
 
 ## HW for next time:
 
+<div class="alert alert-warning">
+There's no class on Monday, Jan 20, for MLK Day. We'll be back on Wednesday, Jan 22, so aim to complete the assignments below by 10pm on Tuesday, Jan 21.
+</div>
+
 First, some intellectual stimulation:
 
 * **Read** chapter 6, "Working with Multimodal Assets and Sources," from the textbook _Writer/Designer_ (edited by Ball, Sheppard, and Arola). A <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6745793&ppg=229">digital copy</a> is available through Pitt Libraries.
@@ -173,7 +180,14 @@ First, some intellectual stimulation:
   - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
   - Adams, Ben. "Spent on a Rainy Day." *Composing Digital Media Spring 2023.* [access via GitHub Repo](https://github.com/BenA03/audio-narrative-2023spring): filename [audio-project.mp3](https://github.com/BenA03/audio-narrative-2023spring/blob/6ce743be357a18c4d3df0e8d3c349a870bef2f3f/audio-project.mp3?raw=true).
 
-Second, some nuts-and-bolts preparation:
+Second, some writing (because this is a W class, after all!):
+
+* **Write** another short blog post (~200–500 words) to the new thread [on the issue queue]({{site.github.issues_url}}):
+    - What do you notice, i.e. what stands out or catches your attention while reading or listening? Was anything surprising? Locate us somewhere in the "text," whether it's one of the student examples or the chapter on assets and sources.
+    - What does that suggest, or what does it make you wonder?
+    - _optional but encouraged:_ If you're one of the first five to post, see if you can pose a question for your classmates. If one of the questions speaks to you, do your best to respond to it – you can use `@username` to signal whose question you're addressing.
+
+Finally, some nuts-and-bolts preparation:
 
 * **Download** the [Audacity 3.7](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
    - NB: some source sites will try to trick you into downloading unrelated software. Don't fall for it. Start on the audacityteam.org page, and read the links carefully.
