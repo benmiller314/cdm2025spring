@@ -182,9 +182,10 @@ To help you get there, I'd like to spend the remainder of our in-class time usin
 
 ## Homework for next time
 
-The main <em>writing</em> assignment for the weekend is to <strong>post a proposal for your soundscape narrative by Sunday night</strong>, including a preliminary list of sound assets you might want to include.
+The main <em>writing</em> assignment for the weekend is to <strong>post a proposal for your audio narrative by Sunday night</strong>.
+- This should include (1) some basic premise of your narrative; (2) some sense of setting; (3) a link to your repository; and (4) a <strong>prospective assets chart</strong> as per <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6745793&ppg=233"><em>Writer/Designer</em> p. 232</a>: a preliminary list of sound assets you might want to include.
 - To encourage cross-pollination, I'd like you to post these **to the [issue queue]({{site.github.issues_url}})**; you'll see a new forum for this purpose.
-    - That said, you can also save it in your repository, because why not? I recommend using a `.md` file to give you full formatting options, including [tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables).
+    - That said, you can also save it in your repository, because why not? I recommend using a `.md` file to give you full formatting options, including [tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables). Your README.md file is a good option, or you could make a separate credits.md if you prefer.
 - If you're feeling stuck on what to propose, see the <a title="Because you reach for them when you feel like you're falling">"parachute prompts"</a> at the bottom of the [project assignment](https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}#parachute-prompts).
 
 You also have some _reading_:
