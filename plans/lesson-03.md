@@ -65,10 +65,7 @@ Once we have a shared base of understanding, we can use these terms to think abo
 -->
 
 
-
-
-
-
+<!-- NOTES AFTER 2025spring: the transition here was kinda rough, see if you can smooth it out. -->
 
 ## 2. Becoming digital
 
@@ -100,7 +97,7 @@ As I explained in the syllabus, your first project is to **arrange layers of sou
 The README file has additional guidelines and constraints, which I hope are generative; deadlines to give a rhythm to your production, review, and revision; and some "parachute prompts" if you feel lacking in direction and a deadline's coming up.
 
 <!--
-Go through overview, constraints, deadlines. Explain about parachute prompts.
+Go quickly through overview, jump to **schedule**. Explain about parachute prompts. Note the presence of 
 -->
 
 ### 4. Let's practice that GitHub cycle again!

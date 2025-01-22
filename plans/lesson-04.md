@@ -3,7 +3,7 @@
 Welcome to Unit II!
 
 <section class="prereqs">
-    <details><summary><strong>Texts to have read/listened to/watched</strong></summary>
+    <details><summary><strong>Texts to have read / listened to / watched</strong></summary>
         <ul>
             <li><a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6745793&ppg=229">"Working with Multimodal Assets and Sources," by Ball, Sheppard, and Arola</a></li>
             <li>Example audio narratives: <a href="https://dmap.pitt.edu/node/248">Coffee Shop Conversations</a>, <a href="https://github.com/jackie216/soundscape2021spring">Come Over for Dinner</a>, <a href="https://github.com/evankozierok/soundscape2022spring">The King of the Jungle</a>, <a href="https://dmap.pitt.edu/node/295">A Haunted Halt</a>, and <a href="https://github.com/BenA03/audio-narrative-2023spring">Spent on a Rainy Day</a>.</li>
@@ -39,20 +39,20 @@ I was reviewing the posts on the forum – lots of great observations there! I'
 Below are a few themes I wanted to highlight. Rather than stand up here and belabor these points, I'd like you to **get in groups, read through, and brainstorm some additional examples (or questions or even counterexamples). Take notes in the <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">shared notes doc</a>.** Use the letters to focus your note-taking, i.e. Group A come up with examples for idea a, Group B with idea b, etc. When you've got some ideas, read through to the other four.
 
 Groups:
-<ul class="alpha">
+<ol class="ualpha">
     <li>Billy D, Maddie, Morgan, Weini</li>
     <li>Carla, Dana, Will L, Yang</li>
     <li>Damini, David, Mia, Raegan B</li>
     <li>Gavin, Josh, Shreya</li>
     <li>Erin, Grace, Hannah, Reagan H</li>
-</ul>
+</ol>
 
 
 <details><summary>a. Audio becomes immersive by putting us in someone else's head</summary>
 
     <p>A number of posts noted the way you felt you were <em>in</em> the coffeeshop, or the jungle, or the apartment making dinner – e.g. that you could locate what was near, far, left, right.</p>
 
-    <p>A large part of this stems from how we use our ears to orient ourselves in space as we move through the real world. For example, in "Come Over For Dinner," the sound of the fire alarm starts far on the right, then shifts to be equally weighted between both ears (while getting louder). This gives the impression of turning *toward* the alarm, because it mirrors our usual behavior: when we hear a new sound, we're attuned to turn toward it, which has the effect of balancing it out.<a id="ftnref1" class="ftnref" href="ftn1" title="Later, I'll remind you from this same principle that two people talking are unlikely to be at 100% left or 100% right; even if you're walking between them, you'll probably turn at least partway toward them while they're talking. Try 60% and see how it feels.">[1]</a> (As we do so, other sounds may shift from balanced to peripheral.)</p>
+    <p>A large part of this stems from how we use our ears to orient ourselves in space as we move through the real world. For example, in "Come Over For Dinner," the sound of the fire alarm starts far on the right, then shifts to be equally weighted between both ears (while getting louder). This gives the impression of turning *toward* the alarm, because it mirrors our usual behavior: when we hear a new sound, we're attuned to turn toward it, which has the effect of balancing it out.<a id="ftnref1" class="ftnref" href="#ftn1" title="Later, I'll remind you from this same principle that two people talking are unlikely to be at 100% left or 100% right; even if you're walking between them, you'll probably turn at least partway toward them while they're talking. Try 60% and see how it feels.">[1]</a> (As we do so, other sounds may shift from balanced to peripheral.)</p>
 
     <p>In this sense, our ears essentially occupy the space of the main character's ears. This works best with headphones, of course, but even over speakers relative differences in volume can convey the relative distance of background and foreground events.</p>
 </details>
@@ -95,24 +95,24 @@ We can talk about some now, albeit briefly – much to get through today! If it
 
 Now it's time to play around with those powers!
 
-Just for today's exercise, I'll ask you all to work with the same materials. In the audio-narrative-{{site.course.slugterm}} repository that you forked and cloned<a id="ftnref2" class="ftnref" href="ftn2" title="If you didn't yet do this, call me over and I'll help you get set up!">[2]</a>, you'll find a folder labeled "in-class activity." That folder contains:
+Just for today's exercise, I'll ask you all to work with the same materials. In the <a href="https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}">audio-narrative-{{site.course.slugterm}} repository</a> that you forked and cloned<a id="ftnref2" class="ftnref" href="#ftn2" title="If you didn't yet do this, call me over and I'll help you get set up!">[2]</a>, you'll find a folder labeled "in-class-exercise." That folder contains:
 
 * Two short recordings of people reading [Harvard Sentences](https://en.wikipedia.org/wiki/Harvard_sentences), sentences designed to have a mix of phonetic sounds similar to English in general.
-* A handful of instrumental tracks I found on [CCmixter](http://dig.ccmixter.org/), a site for sharing music with explicit permission to use and (often) modify.
-* The full credits for these sound files, in the file CREDITS.md.
+* A handful of instrumental tracks I found on [CCmixter](https://dig.ccmixter.org/), a site for sharing music with explicit permission to use and (often) modify.
+* The full credits for these sound files, in the file CREDITS.md. (NB: you can rename this file README.md and it'll display within the folder without messing up your repository's root README.)
 
 <div class="alert alert-success">
 Your task for the next 20 minutes or so is to try mixing, matching, splitting, sliding, realigning, and otherwise messing around with these tracks.
 </div>
 
-  <ol>
+<ol>
     <li>To get started, <strong>use File > Import > Audio...</strong> to pull in an mp3 from the in-class-activity folder (or just drag and drop; that works, too).</li>
     <li>Play with the strategies from the start of class: how does the mood change as you change the soundtrack? The left/right mix? The alignment? The tempo?</li>
     <li>Experiment with what tools the context menus and track menus afford you: what does Audacity <em>expect</em> you to want to do, based on what it makes readily available?</li>
     <li>Play with the Effects menus: some good starting points include fade in/out, repeat, change tempo, delay, low pass filter. Check the "manage" button in Effects dialog boxes to see if there are any presets to try, or the ? button to learn more about that particular effect.</li>
     <li>Try splitting the speech at moments of silence to extract individual words, using Edit > Clip Boundaries > Split (or Split New). (NB: we can also have some fun with reordering the words, but please don't abuse this power to spread disinformation!)</li>
     <li>etc</li>
-  </ol>
+</ol>
 
 <div class="alert alert-info">
 NB: For this activity, headphones will help you isolate your Audacity playback from each other.
@@ -145,28 +145,30 @@ If you're happy with your project, maybe you're ready to commit and push?
 
 ## 4. Generative loop writing
 
-As you know, the project proposal is due by next class; it should include some basic premise of your narrative;
+As you know, a project proposal is due by next class; it should include some basic premise of your narrative;
 some sense of setting; a link to your project repository; and a table of potential assets like the one you read about in _Writer/Designer_.
 
 To help you get there, I'd like to spend the remainder of our in-class time using writing – some listing and looping – as a way to get your ideas flowing. **As I ask the following questions, pause and reach out with your feelings until you sense an answer, or more than one, and then write down whatever comes.** I won't collect these, so they're private to you. But I hope you'll find them useful for getting to something shareable, moving forward.
 
 <ol>
-  <li><p>In the process of writing with sound, you're going to spend a big chunk of time listening and relistening and looping, so you want to pick a place you're likely to enjoy hanging out in.</p>
-  <p>What <em>places</em> (physical, virtual, or imaginary) come to mind as energizing for you to unpack into layers, and reassemble? In other words: within what <em>soundscapes</em> might you anchor your narrative? <strong>Make a list.</strong> Anything you're forgetting?</li>
-  <li>Choosing one item from your list you could work with for now, ask yourself: How would you represent that <em>environment</em> sonically?
-    <ul>
-      <li>e.g. What sounds are relatively stable, or sustained, in that place? </li>
-      <li>e.g. What incidental, or foreground, sounds do you associate with that place?</li>
-    </ul>
-  </li>
-  <li>Still in the same environment: What kinds of <em>stories</em> happen there? Again, make a list. </li>
-  <li>Look over your list of stories, and ask yourself: which of these could you reasonably tell within a few minutes? which are long enough to tell <em>for</em> a few minutes?</li>
-  <li>Choosing one story to work with for now – you can always come back to other items on the list over the weekend – ask yourself:
-    <ul>
-      <li>What are the pieces of this story? What are the actions, structures, or sequences?</li>
-      <li>How would you represent each action <em>for audio</em>? What sounds, signals, or setups could help a listening audience know what was happening?</li>
-    </ul>
-  </li>
+    <li>
+        <p>In the process of writing with sound, you're going to spend a big chunk of time listening and relistening and looping, so you want to pick a place you're likely to enjoy hanging out in.</p>
+        <p>What <em>places</em> (physical, virtual, or imaginary) come to mind as energizing for you to unpack into layers, and reassemble? In other words: within what <em>soundscapes</em> might you anchor your narrative? <strong>Make a list.</strong> Anything you're forgetting?</p>
+    </li>
+    <li>Choosing one item from your list you could work with for now, ask yourself: How would you represent that <em>environment</em> sonically?
+        <ul>
+            <li>e.g. What sounds are relatively stable, or sustained, in that place? </li>
+            <li>e.g. What incidental, or foreground, sounds do you associate with that place?</li>
+        </ul>
+    </li>
+    <li>Still in the same environment: What kinds of <em>stories</em> happen there? Again, make a list.</li>
+    <li>Look over your list of stories, and ask yourself: which of these could you reasonably tell within a few minutes? which are long enough to tell <em>for</em> a few minutes?</li>
+    <li>Choosing one story to work with for now – you can always come back to other items on the list over the weekend – ask yourself:
+        <ul>
+            <li>What are the pieces of this story? What are the actions, structures, or sequences?</li>
+            <li>How would you represent each action <em>for audio</em>? What sounds, signals, or setups could help a listening audience know what was happening?</li>
+        </ul>
+    </li>
 </ol>
 
 
@@ -179,20 +181,20 @@ To help you get there, I'd like to spend the remainder of our in-class time usin
 
 ## Homework for next time
 
-* The main <em>writing</em> assignment for the weekend is to <strong>post a proposal for your soundscape narrative by Sunday night</strong>, including a preliminary list of sound assets you might want to include.
-    - To encourage cross-pollination, I'd like you to post these **to the [issue queue]({{site.github.issues_url}})**; you'll see a new forum for this purpose.
-        - That said, you can also save it in your repository, because why not? I recommend using a `.md` file to give you full formatting options, including [tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables).
-    - If you're feeling stuck on what to propose, see the <a title="Because you reach for them when you feel like you're falling">"parachute prompts"</a> at the bottom of the [project assignment](https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}#parachute-prompts).
+The main <em>writing</em> assignment for the weekend is to <strong>post a proposal for your soundscape narrative by Sunday night</strong>, including a preliminary list of sound assets you might want to include.
+- To encourage cross-pollination, I'd like you to post these **to the [issue queue]({{site.github.issues_url}})**; you'll see a new forum for this purpose.
+    - That said, you can also save it in your repository, because why not? I recommend using a `.md` file to give you full formatting options, including [tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables).
+- If you're feeling stuck on what to propose, see the <a title="Because you reach for them when you feel like you're falling">"parachute prompts"</a> at the bottom of the [project assignment](https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}#parachute-prompts).
 
-* You also have some _reading_:
-    * If you haven't yet looked at the chapter from  _Writer/Designer_ (Ball, Sheppard, and Arola, eds) on sources and credits, **please read it before writing your proposal.**  A <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6745793&ppg=229">digital copy</a> is available through Pitt Libraries.
-    * I'd also like you to **read** the following advice on sound recording, **listening to the embedded clips**:
-        - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
-        - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
-    * Have you seen our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? You'll likely want to at least skim both the free/licensed sounds and music section and the audio-unit-specific advice and examples.
-    * EXT: Finally, I have some _optional_ further readings on Creative Commons and Fair Use. If Ball et al. struck a chord with you, here's where to read on!
-        - A [short four-page webcomic](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) explaining how Creative Commons (CC) licenses get attached to copyrightable materials, and how easily CC materials can be included and/or remixed in further creations... with, at a minimum, attribution. The subject is covered in _Writer/Designer_, but the comic is cute.
-        - The Stanford Overview of Fair Use, which you can find in a series of four webpages beginning at [fairuse.stanford.edu/overview/fair-use/](https://fairuse.stanford.edu/overview/fair-use/). This text, despite being called an overview, is really a more in-depth understanding of fair use than the brief introduction in _Writer/Designer_.
+You also have some _reading_:
+* If you haven't yet looked at the chapter from  _Writer/Designer_ (Ball, Sheppard, and Arola, eds) on sources and credits, **please read it before writing your proposal.**  A <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6745793&ppg=229">digital copy</a> is available through Pitt Libraries.
+* I'd also like you to **read** the following advice on sound recording, **listening to the embedded clips**:
+    - ~~Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).~~ I just discovered that the audio clips are broken. Grr! Instead, you might want to try the ["Tips for Recording Audio on a Phone"](https://libguides.udayton.edu/oral-history-recording/phone-tips) from the University of Dayton librarians, with an embedded advice video from NPR on reducing room noise for recording individual voices. (But now I feel like I'm being a little too NPR-heavy this weekend...)
+    - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
+* Have you seen our plentiful <a href="{{site.github_url}}/resources">Resources</a> page? You'll likely want to at least skim both the free/licensed sounds and music section and the audio-unit-specific advice and examples.
+* EXT: Finally, I have some _optional_ further readings on Creative Commons and Fair Use. If Ball et al. struck a chord with you, here's where to read on!
+    - A [short four-page webcomic](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) explaining how Creative Commons (CC) licenses get attached to copyrightable materials, and how easily CC materials can be included and/or remixed in further creations... with, at a minimum, attribution. The subject is covered in _Writer/Designer_, but the comic is cute.
+    - The Stanford Overview of Fair Use, which you can find in a series of four webpages beginning at [fairuse.stanford.edu/overview/fair-use/](https://fairuse.stanford.edu/overview/fair-use/). This text, despite being called an overview, is really a more in-depth understanding of fair use than the brief introduction in _Writer/Designer_.
 
 
 
@@ -200,6 +202,6 @@ To help you get there, I'd like to spend the remainder of our in-class time usin
 <hr />
 
 <section class="footnotes">
-<p class="footnote"><a id="ftn1" class="ftn" href="ftnref1">[1]</a> Later, I'll remind you from this same principle that two speakers are unlikely to be at 100% left or 100% right; even if you're walking between them, you'll probably turn at least partway toward them while they're talking. Try 60% and see how it goes.</p>
-<p class="footnote"><a id="ftn2" class="ftn" href="ftnref2">[2]</a> If you didn't yet do this, call me over and I'll help you get set up!</p>
+<p class="footnote"><a id="ftn1" class="ftn" href="#ftnref1">[1]</a> Later, I'll remind you from this same principle that two speakers are unlikely to be at 100% left or 100% right; even if you're walking between them, you'll probably turn at least partway toward them while they're talking. Try 60% and see how it goes.</p>
+<p class="footnote"><a id="ftn2" class="ftn" href="#ftnref2">[2]</a> If you didn't yet do this, call me over and I'll help you get set up!</p>
 </section>

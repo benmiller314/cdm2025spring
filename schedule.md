@@ -65,7 +65,7 @@ HW for next time:
 * EXT for eager readers: interested in more on affordances? Try [this short chapter](https://wac.colostate.edu/docs/books/design/chapter7.pdf) from *Keywords in Design Thinking*.
 
 
-<a id="current"/>
+
 <h3>Wednesday, Jan 15 – <a href="plans/lesson-03" id="lesson-03">Lesson 3</a> – Digital Affordances</h3>
 <!-- Be sure to clarify that what you want is a single folder and a single file, so you can track its evolution. Some people always seem to want to create new repos for each draft, which defeats the purpose. -->
 
@@ -86,14 +86,16 @@ For next time, some intellectual stimulation...
 
 <h3>Monday, Jan 20 – no class (Martin Luther King, Jr. Day)</h3>
 
+
 ## Unit II: Soundscapes and Soundwriting
 {: .unit #unit-2}
 
 *In this unit, you’ll arrange layers of sound to project a sense of place, and of things happening in that place. The genre of the narrative is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)*
 
+<a id="current"/>
 <h3>Wednesday, Jan 22 – <a href="plans/lesson-04" id="lesson-04">Lesson 4</a> – Audacity; Sound On, Sound Off<!-- discuss posts. skip demo, b/c the video already covered this! jump straight to playing with audacity. end with generative writing toward a proposal -->
-<!-- Re: playing with Audacity: instead of representative and reprehensible sampling, what if we practice looping and alignment?
---></h3>
+<!-- Re: playing with Audacity: instead of representative and reprehensible sampling, what if we practice looping and alignment?-->
+</h3>
 
 For next time:
 
@@ -105,7 +107,7 @@ For next time:
 * **Bring** headphones so you can work in class
 
 
-<h3>Monday, Jan 27 – <a href="plans/lesson-05" id="lesson-05">Lesson 5</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview by next class. Allow a few minutes to discuss GenAI ethics in the context of audio, and "royalty free" vs open licensed. --></h3>
+<h3>Monday, Jan 27 – <a href="plans/lesson-05" id="lesson-05">Lesson 5</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview by next class.Allow a few minutes to discuss GenAI ethics in the context of audio, and "royalty free" vs open licensed. Is there time for a name game? If not, do it next class.  --></h3>
 
 
 For next time:
