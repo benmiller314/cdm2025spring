@@ -19,6 +19,16 @@ Welcome to Unit II!
     </details>
 </section>
 
+<div class="alert alert-info">
+<p>Welcome back, everyone! To save time, please sit with these groups:</p>
+<ol class="ualpha">
+    <li>Billy D, Maddie, Morgan, Weini</li>
+    <li>Carla, Dana, Will L, Yang</li>
+    <li>Damini, David, Mia, Raegan B</li>
+    <li>Gavin, Josh, Shreya</li>
+    <li>Erin, Grace, Hannah, Reagan H</li>
+</ol>
+</div>
 
 ## Plan for the day
 
@@ -37,15 +47,6 @@ EXT? Studio time toward a proposal
 I was reviewing the posts on the forum – lots of great observations there! I'm excited by your excitement about assets and permissions and what that opens up for you... but in terms of getting you ready for the proposal, I want to defer that conversation until Monday. Today, I want to focus on the audio narratives.
 
 Below are a few themes I wanted to highlight. Rather than stand up here and belabor these points, I'd like you to **get in groups, read through, and brainstorm some additional examples (or questions or even counterexamples). Take notes in the <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">shared notes doc</a>.** Use the letters to focus your note-taking, i.e. Group A come up with examples for idea a, Group B with idea b, etc. When you've got some ideas, read through to the other four.
-
-Groups:
-<ol class="ualpha">
-    <li>Billy D, Maddie, Morgan, Weini</li>
-    <li>Carla, Dana, Will L, Yang</li>
-    <li>Damini, David, Mia, Raegan B</li>
-    <li>Gavin, Josh, Shreya</li>
-    <li>Erin, Grace, Hannah, Reagan H</li>
-</ol>
 
 
 <details><summary>a. Audio becomes immersive by putting us in someone else's head</summary>
