@@ -42,7 +42,7 @@ EXT? Studio time toward a proposal
 
 ## 1. Sound, space, and attention (5–10 min)
 
-<!-- In a schedule where we don't also have to do generative writing, you can be more expansive, show the Audacity files. Have them open from the beginning, so you can illustrate points by demoing what they've done (e.g. soloing or muting). But not in 2025spring: better to move fast. -->
+<!-- In a schedule where we don't also have to do generative writing, you can be more expansive, show the Audacity files. In that case, have them open from the beginning, so you can illustrate points by demoing what they've done (e.g. soloing or muting). But not in 2025spring: better to move fast. UPDATE after class in 2025spring: the group work was pretty successful. Next time, try to explicitly encourage both specific moments in the samples AND connections with experiences outside the class. Analysis + transferability. -->
 
 I was reviewing the posts on the forum – lots of great observations there! I'm excited by your excitement about assets and permissions and what that opens up for you... but in terms of getting you ready for the proposal, I want to defer that conversation until Monday. Today, I want to focus on the audio narratives.
 
@@ -95,6 +95,8 @@ We can talk about some now, albeit briefly – much to get through today! If it
 ## 2. Into Audacity (25-35 min)
 
 Now it's time to play around with those powers!
+
+<!-- NOTES AFTER 2025spring: definitely ran short of time to share. For next time, try a set of specific targets/challenges; you can then get a show of hands for how far folks were able to get, facilitate lateral Q&A, etc. Possible examples: import a voice track; import an audio track; use autoducking (effects menu > volume and compression) to lower music volume when a voice track enters; split clip to create a longer gap between sentences; align timing of speech with music; isolate and repeat one word, then join them into a single word-loop; fade the word-loop in/out using the envelope tool; have two voices, one on the left, one on the right, "talk" to each other; import a second music track and mute one; crossfade between two music tracks; etc. -->
 
 Just for today's exercise, I'll ask you all to work with the same materials. In the <a href="https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}">audio-narrative-{{site.course.slugterm}} repository</a> that you forked and cloned<a id="ftnref2" class="ftnref" href="#ftn2" title="If you didn't yet do this, call me over and I'll help you get set up!">[2]</a>, you'll find a folder labeled "in-class-exercise." That folder contains:
 

@@ -92,7 +92,7 @@ For next time, some intellectual stimulation...
 
 *In this unit, you’ll arrange layers of sound to project a sense of place, and of things happening in that place. The genre of the narrative is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)*
 
-<a id="current"/>
+
 <h3>Wednesday, Jan 22 – <a href="plans/lesson-04" id="lesson-04">Lesson 4</a> – Audacity; Sound On, Sound Off<!-- discuss posts. skip demo, b/c the video already covered this! jump straight to playing with audacity. end with generative writing toward a proposal -->
 <!-- Re: playing with Audacity: instead of representative and reprehensible sampling, what if we practice looping and alignment?-->
 </h3>
@@ -106,8 +106,8 @@ For next time:
 * **Begin** sourcing the sounds you'll need
 * **Bring** headphones so you can work in class
 
-
-<h3>Monday, Jan 27 – <a href="plans/lesson-05" id="lesson-05">Lesson 5</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview by next class.Allow a few minutes to discuss GenAI ethics in the context of audio, and "royalty free" vs open licensed. Is there time for a name game? If not, do it next class.  --></h3>
+<a id="current"/>
+<h3>Monday, Jan 27 – <a href="plans/lesson-05" id="lesson-05">Lesson 5</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview by next class. Allow a few minutes to discuss GenAI ethics in the context of audio, and "royalty free" vs open licensed. Is there time for a name game? If not, do it next class.  --></h3>
 
 
 For next time:
