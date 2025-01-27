@@ -28,7 +28,7 @@ This set of resources will likely expand as we move forward; <strong>feel free t
       </li>
       <li><a href="#advice-and-examples">Advice and Examples</a>
         <ul>
-          <li><a href="#audio">Audio Editing / Soundwriting</a></li>
+          <li><a href="#audio-editing--soundwriting">Audio Editing / Soundwriting</a></li>
           <li><a href="#visual">Visual Rhetoric and Design</a></li>
           <li><a href="#web-design">Web Design</a>
      <!-- - [Interactive Narrative](#twine--interactive-narrative) --></li>
@@ -159,7 +159,7 @@ In this section:
 
 <dt><a href="https://github.com/mattingalls/Soundflower">Soundflower</a></dt>
 <dt><a href="https://github.com/ExistentialAudio/BlackHole">BlackHole</a></dt>
-<dd><p>These aren't repositories of sounds, but rather another way to get sound: they're MacOS system extension that allow you to <strong>record directly from any app into Audacity</strong> by piping sound output/input through a new "channel" which you can select as Audacity's input device. (I suspect something similar is available for PCs but I'm not sure yet what it is. Let me know if you find it!) Soundflower works for Macs up through MacOS Catalina; for more recent devices that use an M1 chip, you'll want to use BlackHole. Once installed, you just set your computer's "speaker" to the new channel (as if you were selecting headphones) and set Audacity's input to the same. (And don't forget to change them back after you've made the recording...)</p>
+<dd><p>These aren't repositories of sounds, but rather another way to get sound: they're MacOS system extensions that allow you to <strong>record directly from any app into Audacity</strong> by piping sound output/input through a new "channel" which you can select as Audacity's input device. (I suspect something similar is available for PCs but I'm not sure yet what it is. <a href="{{site.repo_url}}/issues/new/choose">Let me know</a> if you find it!) Soundflower works for Macs up through MacOS Catalina; for more recent devices that use an M1 chip, you'll want to use BlackHole. Once installed, you just set your computer's "speaker" to the new channel (as if you were selecting headphones) and set Audacity's input to the same. (And don't forget to change them back after you've made the recording...)</p>
 <p>Whatever source you're recording from, be sure that you have permission to do so, either from an explicit license, from public domain, or from fair use. As always, make a note of these permissions as you're making the recording, so you don't lose track!</p>
 <p>NB: the easiest way to install either extension is via the command-line tool <a href="https://brew.sh/">Homebrew</a>; see that linked page for more about Homebrew, and see the project's GitHub repositories for the appropriate brew command. </p></dd>
 
@@ -246,7 +246,7 @@ In this section:
 ## Advice and Examples
 In this section:
 - [Multipurpose](#multipurpose)
-- [Audio](#audio)
+- [Audio](#audio-editing--soundwriting)
 - [Visual](#visual)
 - [Web Design](#web-design)
 - [Interactive Narrative](#twine--interactive-narrative)
@@ -270,7 +270,7 @@ In this section:
 *[Back to advice/examples table of contents](#advice-and-examples)*
 
 
-### Audio
+### Audio Editing / Soundwriting
 Under the <a href="#assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
 
 <dl>
@@ -281,8 +281,12 @@ Under the <a href="#assets">assets listings</a> above, you might find FreeSound,
 <dd>The title says it all. I haven't had problems, but if you start to, have a look here.</dd>
 
 <dt>Advice on field recording, in terms of technique and storytelling</dt>
-<dd>These are part of an assigned homework, but for convenience I'll relist them here: Alison MacAdam's “<a href="https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/)">6 NPR Stories That Breathe Life into Neighborhood Scenes</a>” suggests multiple approaches for rich contextualization in a purely sonic medium. (Note the time skips MacAdam recommends: sometimes a long clip is embedded, but not meant to be listened to in full.) Stuart Fowkes's “<a href="https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/">The Top 5 Things You Need to Make a Great Field Recording</a>” has advice for what to focus on (and a little bit of what to avoid) as you're recording – and as you're editing. Also check out his more <a href="https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/">nuts-and-bolts advice on lessons learned</a>, sometimes the hard way, for recording sound in the field.
+<dd><p>These are part of an assigned homework, but for convenience I'll relist them here: Alison MacAdam's “<a href="https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/)">6 NPR Stories That Breathe Life into Neighborhood Scenes</a>” suggests multiple approaches for rich contextualization in a purely sonic medium. (Note the time skips MacAdam recommends: sometimes a long clip is embedded, but not meant to be listened to in full.) Stuart Fowkes's “<a href="https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/">The Top 5 Things You Need to Make a Great Field Recording</a>” has advice for what to focus on (and a little bit of what to avoid) as you're recording – and as you're editing.</p>
+<p>Also check out Fowkes' more <a href="https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/">nuts-and-bolts advice on lessons learned</a>, sometimes the hard way, for recording sound in the field.</p>
 </dd>
+
+<dt>Tips for Recording Audio on a Phone</dt>
+<dd>As part of a guide on oral history, Ben Daigle of the University of Dayton libraries put together this <a href="https://libguides.udayton.edu/oral-history-recording/phone-tips">LibGuide</a>
 
 <dt><a href="https://thewirecutter.com/reviews/the-best-voice-recorder/#the-best-smartphone-apps-for-occasional-recording">Recommended smartphone recording apps</a></dt>
 <dd>The New York Times's <em>Wirecutter</em> review site has a relatively recent roundup of free and nearly free apps for iPhone and Android. Save yourself some time trying to find the app with the least intrusive ads, and start with something pre-vetted and user-tested.</dd>
