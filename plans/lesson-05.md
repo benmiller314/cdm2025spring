@@ -1,5 +1,5 @@
 
-# Sources, Citation, Studio
+# Lesson 5: Sources, Citation, Studio
 
 <section class="prereqs">
     <details><summary><strong>Texts to have read / listened to / watched</strong></summary>
@@ -236,20 +236,20 @@ Note that there are sections for both free/licensed sounds and music, and also (
 ## Homework for next time:
 
 <ul>
-<li>Look over the audio resources on the site, and dig into anything that seems like it would help you.<ul>
-  <li><a href="../resources#sounds-and-music">Free and licensed sounds and music</a></li>
-  <li><a href="../resources#audio-editing--soundwriting">Advice and examples</a></li></ul>
-</li>
-<li><strong>Work</strong> on your audio narratives, getting at least two sound assets in Audacity in conversation with each other. If you have time, do more!</li>
-<li><strong>Push a preview</strong> of your project to your GitHub repository. As per the <a href="{{site.github.owner_url}}/audio-narrative-{{site.course.slugterm}}#deadlines-and-products">assignment prompt</a>, this should include:
-  <ul>
-  <li> A layered <strong>Audacity project file (.aup3)</strong>, showing the arrangement of your sounds so far, however rough. (It need not be a complete soundscape or narrative yet.) <span class="alert-warning">Remember: thanks to version control, you won't need to rename this file, so call it something that will last.</span></li>
-  <li> At least one static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a></strong> (.png or .jpg) of your Audacity file in progress. (You'll use this in your final reflection, for comparison later to subsequent drafts). Note that link: you shouldn't use your camera for this!</li>
-  <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
-  <li> An <strong>updated list of assets</strong> (either directly in README.md or in a separate assets.md / credits.md file), indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – along with your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165).</li>
-  <li>Finally, <strong>export a playable mp3 file</strong>, both as a snapshot and just in case something goes awry with your Audacity project file.</li>
-  </ul>
-</li>
+    <li>Look over the audio resources on the site, and dig into anything that seems like it would help you.<ul>
+      <li><a href="../resources#sounds-and-music">Free and licensed sounds and music</a></li>
+      <li><a href="../resources#audio-editing--soundwriting">Advice and examples</a></li></ul>
+    </li>
+    <li><strong>Work</strong> on your audio narratives, getting at least two sound assets in Audacity in conversation with each other. If you have time, do more!</li>
+    <li><strong>Push a preview</strong> of your project to your GitHub repository. As per the <a href="{{site.github.owner_url}}/audio-narrative-{{site.course.slugterm}}#deadlines-and-products">assignment prompt</a>, this should include:
+      <ul>
+      <li> A layered <strong>Audacity project file (.aup3)</strong>, showing the arrangement of your sounds so far, however rough. (It need not be a complete soundscape or narrative yet.) <span class="alert-warning">Remember: thanks to version control, you won't need to rename this file, so call it something that will last.</span></li>
+      <li> At least one static <strong><a href="https://www.take-a-screenshot.org/">screenshot</a></strong> (.png or .jpg) of your Audacity file in progress. (You'll use this in your final reflection, for comparison later to subsequent drafts). Note that link: you shouldn't use your camera for this!</li>
+      <li> A plain text (.txt) or markdown (.md) file, explaining in at least 300 words <strong>what you're showing us</strong> in this preview. Feel free also to ask questions or lay out next steps for yourself!</li>
+      <li> An <strong>updated list of assets</strong> (either directly in README.md or in a separate assets.md / credits.md file), indicating which the files you've actually recorded or otherwise obtained. Add source documentation for any outside sources – along with your permission to use them (e.g. licenses, fair use; see <em>Writer/Designer</em> p. 160-165).</li>
+      <li>Finally, <strong>export a playable mp3 file</strong>, both as a snapshot and just in case something goes awry with your Audacity project file.</li>
+      </ul>
+    </li>
 </ul>
 
 
