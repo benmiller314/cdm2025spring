@@ -106,7 +106,7 @@ For next time:
 * **Begin** sourcing the sounds you'll need
 * **Bring** headphones so you can work in class
 
-<a id="current"/>
+
 <h3>Monday, Jan 27 – <a href="plans/lesson-05" id="lesson-05">Lesson 5</a> – Recording, Ethics, Studio<!-- reading comprehension, general proposal advice, but mostly studio so they can turn in a preview by next class. Allow a few minutes to discuss GenAI ethics in the context of audio, and "royalty free" vs open licensed. Is there time for a name game? If not, do it next class.  --></h3>
 
 
@@ -121,7 +121,7 @@ For next time:
   - one exported playable sound file (.mp3)
   - a brief description of what you've included, as part of your README.md file.
 
-
+<a id="current"/>
 <h3>Wednesday, Jan 29 – <a href="plans/lesson-06" id="lesson-06">Lesson 6</a> – Sound Unit Criteria and Stretch Goals</h3>
 
 For next time:
