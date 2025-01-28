@@ -1,13 +1,22 @@
 
 # Lesson 6: Sound Criteria and Stretch Goals
 
-**Work to have done**:
+<section class="prereqs">
+    <details><summary><strong>Texts to have read / listened to / watched</strong></summary>
+        <ul>
+            <li>The audio resources linked from our course site, i.e. <a href="../resources#sounds-and-music">free and licensed sounds and music</a> and/or <a href="../resources#audio-editing--soundwriting">soundwriting advice and examples</a> </li>
+        </ul>
+    </details>
+    <details><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>At least two sound assets in Audacity as part of a <em>soundscape preview</em>, pushed to GitHub: modular .aup3 file, screenshot, updated list of assets, and a brief text description, plus a "flattened" mp3 export.</li>
+        </ul>
+    </details>
+</section>
 
-* Work on your soundscapes, and push a _soundscape preview_ to GitHub: modular .aup3 file, screenshot, and text description, plus updated list of assets and a "flattened" mp3 export.
-
-<!--<div class="alert alert-warning">A couple of people couldn't make it today, so I'll have Zoom on.</div> -->
 
 **Plan for the Day**:
+<!-- Should we do a name game?? Only if everyone's here. -->
 
 1. About criteria and inspirations (~5 min)
 2. Reflective writing (5 + 5 min)
@@ -33,13 +42,13 @@ In a minute I'll ask you to assess the baseline and aspirational criteria for th
 
 ### 1a. Introduce the existing set
 
-I've posted criteria from previous semesters in our [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.uprzm6xhjg36) as a starting point.
+I've posted criteria from previous semesters in our [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes) as a starting point.
 
 I want to have these on screen as we talk about what it means to say something is "baseline" or "aspirational" for a particular unit.
 
 ### 1b. Define terms
 
-* **Baseline** criteria are things every project _must_ do for minimum B credit. These are about *familiarity* with the essentials of composing in this medium, and about meeting core learning outcomes for the course.
+* **Baseline** criteria are things every project _must_ do for minimum B credit. These are about familiarity with the essentials of composing in this medium, and about meeting core learning outcomes for the course.
 
 * **Aspirational** items aren't really criteria; they're inspirations toward excellence, nudges toward knowledge; they're things worth trying, in other words.
   * You can do none of these and still get a B, or even a B+ if you do the baseline stuff really well.
@@ -64,7 +73,7 @@ Shift now in your writing to think about the narratives you've heard, especially
 
 ## 3. Assessing criteria (15-20 min)
 
-Given the goals of the unit, and given what you've just written down, what should we set as our _minimum_ criteria for full credit? What are some ways we might push _beyond_ that minimum – not just in terms of quantity, but in terms of quality?
+Given the goals of the unit, and given what you've just written down, what should we set as our _minimum_ criteria for full credit? And what are some ways we might push _beyond_ that minimum – not just in terms of quantity, but in terms of quality?
 
 Let's take some notes in the [shared google doc](http://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.uprzm6xhjg36)!
 
