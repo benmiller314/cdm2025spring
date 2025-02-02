@@ -121,7 +121,7 @@ For next time:
   - one exported playable sound file (.mp3)
   - a brief description of what you've included, as part of your README.md file.
 
-<a id="current"/>
+
 <h3>Wednesday, Jan 29 – <a href="plans/lesson-06" id="lesson-06">Lesson 6</a> – Sound Unit Criteria and Stretch Goals</h3>
 
 For next time:
@@ -130,7 +130,7 @@ For next time:
 * **Push** a *full draft*, with the same four parts as the preview *plus* a file crediting your sources and permissions/license to use them. This can be part of the README or a separate file (e.g. sources.md) that your README will ideally link to.
 * **Bring** headphones so you can work in class
 
-
+<a id="current"/>
 <h3>Monday, Feb 3 – <a href="plans/lesson-07" id="lesson-07">Lesson 7</a> – Sound Workshop</h3>
 
 For next time:
