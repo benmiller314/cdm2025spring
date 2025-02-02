@@ -97,7 +97,7 @@ As I explained in the syllabus, your first project is to **arrange layers of sou
 The README file has additional guidelines and constraints, which I hope are generative; deadlines to give a rhythm to your production, review, and revision; and some "parachute prompts" if you feel lacking in direction and a deadline's coming up.
 
 <!--
-Go quickly through overview, jump to **schedule**. Explain about parachute prompts. Note the presence of 
+Go quickly through overview, jump to **schedule**. Explain about parachute prompts. 
 -->
 
 ### 4. Let's practice that GitHub cycle again!
@@ -108,7 +108,7 @@ And, because your project files moving forward won't be editable on the GitHub w
 
 
 <ol class="lalpha">
-    <li><strong>Clone.</strong> In your own fork (check the URL), click on the green Code button and select the "Open in GitHub Desktop" option to download the repo to your own computer. <details><summary>Show me</summary><figure><img alt="clone options" src="../assets/img/github--clone-code.png"></figure></details></li>
+    <li><strong>Clone.</strong> In your own fork (check the URL), click on the green Code button and select the "Open in GitHub Desktop" option to download the repo to your own computer. <em>NB: You only have to do this once per project.</em> After that, you'll already have the files downloaded, and you'll usually be uploading revised versions instead. <details><summary>Show me</summary><figure><img alt="clone options" src="../assets/img/github--clone-code.png"></figure></details></li>
     <li><p><strong>Edit.</strong> GitHub Desktop is great at noticing changes, but it's not built for editing! You'll need other software for that – in this case, your trusty text editor. Use either the "Open in Visual Studio Code" (or equivalent) button to get there directly from GH Desktop, or open your editor software and add the newly-downloaded folder to your workspace: look for a command to "Open Folder" or "Add Folder".)</p> <figure><img alt="GitHub Desktop's default prompts for a repo with no changes" src="../assets/img/github-desktop--open-in-vscode.png"></figure><details><summary>NB: If you don't see the button in GitHub Desktop, you may need to go to Settings > Integrations and browse for the editor.</summary> <figure><img alt="GitHub Desktop settings' Integrations menu" src="../assets/img/github-desktop--editor-settings.png"></figure></details></li>
     <li><em>Rename the file</em>: Find the README.md file in the sidebar of your workspace and right-click to pull up the context menu. Renaming is a tool or feature the designers give us easy access to! <ul><li>I recommend calling the file <code>assignment.md</code>, because it's definitely a Markdown file, and it definitely contains an assignment. But you do you, as long as it has that <code>.md</code> ending. (You should also avoid spaces in filenames you might someday want to build a hyperlink to.)</li></ul></li>
     <li><em>Add a new file</em>: Right-click in an empty spot in your editor's sidebar to get another context menu, and let's make a new README.md. Make sure it's saved in the root folder of the repository (which just means it's not in a subfolder). <ul><li>Fill it with some placeholder content, like, "This is the future site of So-and-So's audio narrative." You can (and should!) update this later. Don't forget to save!</li></ul></li>
