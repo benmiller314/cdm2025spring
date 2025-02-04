@@ -1,7 +1,7 @@
 
 # Sound Unit Workshop
 
-**Work to have done**: a solid attempt at a complete audio narrative, ideally meeting <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">baseline criteria</a>. Rough edges are still welcome.
+**Work to have done**: a solid attempt at a complete audio narrative, ideally meeting <a href="https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}?tab=readme-ov-file#generative-constraints">baseline criteria</a>. Rough edges are still welcome.
 
 **Plan for the day**:
 
@@ -55,7 +55,16 @@ Within each group, **you're responsible for commenting on the three (3) people t
 * <a href='https://github.com/mconley25/audio-narrative-2025spring'>Maddie</a>, <a href='https://github.com/davidaltman920/audio-narrative-2025spring'>David</a>, <a href='https://github.com/longworthgrace23/audio-narrative-2025spring'>Grace</a>, <a href='https://github.com/Cferzoco/audio-narrative-2025spring'>Carla</a>, <a href='https://github.com/gavin-abramowitz/audio-narrative-2025spring'>Gavin</a>
 * <a href='https://github.com/WLD10/audio-narrative-2025spring'>Billy</a>, <a href='https://github.com/daminidwivedi/audio-narrative-2025spring'>Damini</a>, <a href='https://github.com/hanbos09/audio-narrative-2025spring'>Hannah</a>, <a href='https://github.com/wills-projects/audio-narrative-2025spring'>Will L</a>
 
-_e.g. Weini will reflect back audio narratives for Mia, Reagan H, and Yang; Mia will reflect back for Reagan H, Yang, and Josh; but Reagan H will reflect back for Yang, Josh, and Weini; and so on._
+e.g. Weini will reflect back audio narratives for Mia, Reagan H, and Yang; Mia will reflect back for Reagan H, Yang, and Josh; but Reagan H will reflect back for Yang, Josh, and Weini; and so on.
+
+<details><summary>What to do if your partner's draft is missing</summary>
+    <ul>
+        <li>If one of your partners hasn't turned in a draft, first check with them to see if they need help getting their files onto GitHub.</li>
+        <li>If they're not yet ready to post, skip to the next person in your row.</li>
+        <li>If by skipping you've wrapped all the way around, but you've left at least one comment, you can reclaim the rest of the time for studio.</li>
+        <li>If you've wrapped all the way around and still don't have even a single a draft to respond to, jump down to the next row so you can give at least one comment today. It's to your benefit, too!</li>
+    </ul>
+</details>
 
 <aside class="alert alert-white">
 If you're absent from class but not too sick to participate asynchronously, please try to complete your review <strong>before our next class</strong> – or earlier, if possible – so your partners can work with your feedback in mind. <strong>If that's just not possible (and I understand how that might be the case), let me know asap</strong> and I'll make sure your partners get feedback from me in the meantime. <!-- Saturday morning would be the latest when it might still be helpful, so that's the official async deadline; just confirm that you've pulled the latest version whenever you start. -->

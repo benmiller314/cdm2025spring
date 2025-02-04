@@ -274,6 +274,9 @@ In this section:
 Under the <a href="#assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
 
 <dl>
+<dt>Audacity tutorial channels on YouTube</dt>
+<dd>There are a bunch of these, as you might imagine! Just make sure you're looking at the correct version of the software, as features are added or moved pretty regularly. I recommend starting with Kyle Stedman's <a href="https://www.youtube.com/watch?v=Im2W7pokfpw">Audacity Basics (NEW in 2023): Recording, Editing, Mixing</a>, and then leveling up with Mike Russell's <a href="https://www.youtube.com/watch?v=ox0NSwdOiyA">"10 Powerful Tips Every Audacity User Should Know"</a>, then looking for follow-ups on any feature you're excited to dive deeper into.</dd>
+
 <dt><a href="http://manual.audacityteam.org/index.html#using">Audacity Wiki</a></dt>
 <dd>Members of the community that created the tool have contributed their own tips and tricks; in this case, it comes in the form of a minimally styled wiki. I find it not always as clear as I might like, but many of my initial searches led here, regardless, so it's worth familiarizing yourself with the sections. I do recommend at least starting with their <a href="http://manual.audacityteam.org/man/audacity_tour_guide.html">Audacity Tour Guide</a>, and the documentation on how to properly install Audacity and add mp3 export is essential.</dd>
 
