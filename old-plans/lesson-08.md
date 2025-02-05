@@ -139,7 +139,7 @@ When your time is up, return to the google doc and say how far you got / set new
 
 ## Homework for next time
 
-* Aiming for 10:00pm on Sunday, but definitely by Monday's class, **complete – at least for now – your audio narrative.** Your repository (on GitHub, ideally, or in a Box/OneDrive folder shared to me as a fallback) should include:
+* Aiming for 10:00pm on Sunday, but definitely by Monday at noon, **complete – at least for now – your audio narrative.** Your repository (on GitHub, ideally, or in a Box/OneDrive folder shared to me as a fallback) should include:
     - Your most up-to-date layered Audacity project file (.aup3)
     - A flattened, playable export (.mp3)
     - A series, now, of screenshots showing your Audacity project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
@@ -153,7 +153,7 @@ When your time is up, return to the google doc and say how far you got / set new
    If completion to baseline feels impossible from where you are, please talk to me about an extension as soon as you can. That said, we're going to have a similarly rapid pace for the visual argument unit, so the best extension option here may just mean pausing work wherever you are by the weekend, writing a reflection to document your current thinking, and coming back to the project during the Integration​/​Consolidation unit at the end of the term.
 </div>
 
-* By Monday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your Audacity project. As explained in the [prompt](https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}#deadlines-and-products), this should include:
+* By Monday at noon, **write a prose reflection** that incorporates images from your feedback and screenshots of your Audacity project. As explained in the [prompt](https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}#deadlines-and-products), this should include:
    - At least 500 words describing the work you did
    - Your own assessment of how you met the baseline criteria and goals for the unit, as well as  aspirational criteria as appropriate
    - At least one screenshot of feedback you used (and please say how)
