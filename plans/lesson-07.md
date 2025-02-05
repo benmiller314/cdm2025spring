@@ -1,7 +1,13 @@
 
 # Sound Unit Workshop
 
-**Work to have done**: a solid attempt at a complete audio narrative, ideally meeting <a href="https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}?tab=readme-ov-file#generative-constraints">baseline criteria</a>. Rough edges are still welcome.
+<section class="prereqs">
+    <details><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>a solid attempt at a complete audio narrative, ideally meeting <a href="https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}?tab=readme-ov-file#generative-constraints">baseline criteria</a>. Rough edges are still welcome.</li>
+        </ul>
+    </details>
+</section>
 
 **Plan for the day**:
 
