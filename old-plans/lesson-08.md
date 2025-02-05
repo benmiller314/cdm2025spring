@@ -73,20 +73,21 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 </details>
 
 <details><summary>Consider volume limiters as well as relative volume.</summary>
-    <p>Many of you are doing smart work to differentiate foreground sounds from background, in part through "ducking" the background to a lower volume while keeping the sound going to provide depth. (If you're not, but you want to, look for it under Effects > Volume and Compression > Auto Duck.) But sometimes, there's just too much sound to hear clearly.</p>
-    <p>On the foreground side, one risk of recording original sounds is overloading the microphone, such that you get a kind of crackle or squeal as the sound level exceeds what the system can handle. If you notice this happening in one or two specific spots – you can look for places where the waveform hits the top of the track, or where the volume goes into the red – try Effects > Clip Fix, which should give you a little more room.</p>
-    <p>If each individual track is fine, and it's just the <em>sum total</em> mix that puts it over the top, you can apply a Limiter effect to the master track and it will auto-adjust the overall volume to a manageable level. Click the Effects button at the left of any track; you should see Master at the bottom.</p>
+    <p>Many of you are doing smart work to differentiate foreground sounds from background, in part through "ducking" the background to a lower volume while keeping the sound going to provide depth. (If you're not, but you want to, look for it under <strong>Effects > Volume and Compression > Auto Duck</strong>.) But sometimes, there's just too much sound to hear clearly.</p>
+    <p>On the foreground side, one risk of recording original sounds is overloading the microphone, such that you get a kind of crackle or squeal as the sound level exceeds what the system can handle. If you notice this happening in one or two specific spots – you can look for places where the waveform hits the top of the track, or where the volume goes into the red – try <strong>Effects > Clip Fix</strong>, which should give you a little more room.</p>
+    <p>If each individual track is fine, and it's just the <em>sum total</em> mix that puts it over the top, <strong>you can apply a Limiter effect to the master track</strong> and it will auto-adjust the overall volume to a manageable level. Click the Effects button at the left of any track; you should see Master at the bottom.</p>
 </details>
 
 <details><summary>Consider a soundtrack.</summary>
     <p>Even if your narrative takes place somewhere you wouldn't expect music to actually be audible, a low-key background soundtrack offers a lot of benefits: it covers transitions that would otherwise be silent; it masks differences in background noise across assets and thus helps them seem more like they belong together; and, as we noted when we started this unit, music is great at signaling (or shifting) emotional tone. And it doesn't have to be obtrusive: in most movies, you notice it more when there <em>isn't</em> music playing than when there is.</p>
-    <p>Be sure to check out the <a href="../resources#sounds-and-music">Sounds and Music section</a> of the Resources page for tips on where to find openly licensed tracks you can use, including some databases (such as the YouTube Audio Library) where you can search by mood.</p>
+    <p>Be sure to check out the <a href="../resources#sounds-and-music">Sounds and Music section</a> of the Resources page for tips on where to find openly licensed tracks you can use, including some databases (such as the <a href="https://www.youtube.com/audiolibrary/">YouTube Audio Library</a>) where you can search by mood.</p>
 </details>
 
 <details><summary>Consider adding a voiceover layer.</summary>
     <p>Maybe I'm just getting old, but as I've puttered around various places by myself I've noticed that I don't stay silent: I mutter as I putter. Even if it's just short reactions to things I see ("nice!") or read ("really? <em>really</em>."), even if it's not actual words ("hmm."), I tend to narrate my day.</p>
-    <p>All of which is to say, if your audio narrative takes your listeners along on a ride inside someone's head, but you haven't yet included any human voices, I'd at least give some thought to whether a word here or there might help. (Note that the voice doesn't have to exist in the same timestream as the events of the narrative: think about some of the retrospective commentary in <a href="https://training.npr.org/2015/10/30/six-npr-stories-that-breathe-life-into-neighborhood-scenes/">the NPR reading I had you do</a>, especially the pieces featuring Steve Inskeep and Robert Siegel.) Your narrative, that is, could also have a narrator.</p>
-    <p>And if you like that idea, but don't want to deal with hearing your own voice recorded, consider swapping scripts with someone else in the class!</p>
+    <p>All of which is to say, if your audio narrative takes your listeners along on a ride inside someone's head, but you haven't yet included any human voices, I'd at least give some thought to whether a word here or there might help. Or maybe the words are <a href="https://www.youtube.com/watch?v=eDEceUWSCIY>only thought, not spoken aloud</p>? You do you.
+    <p>Note as well that the voice doesn't have to exist in the same timestream as the events of the narrative: think about some of the retrospective commentary in <a href="https://training.npr.org/2015/10/30/six-npr-stories-that-breathe-life-into-neighborhood-scenes/">the NPR reading I had you do</a>, especially the pieces featuring Steve Inskeep and Robert Siegel. Your narrative, that is, could also have a narrator.</p>
+    <p>And if you like any of these ideas, but don't want to deal with hearing your own voice played back, consider swapping scripts with someone else in the class!</p>
 </details>
 
 <!-- <details><summary>Aim to blend at most clip entrances and exits</summary>
@@ -119,9 +120,11 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 
 ### Set a goal
 What do you want to work on today? Add it to [bit.ly/cdm{{site.course.slugterm}}-notes](https://bit.ly/cdm{{site.course.slugterm}}-notes).
+
 <div class="alert alert-success">
-Don't forget to save and commit as you go!
+Don't forget to save and commit (and maybe screenshot) as you go!
 </div>
+
 <aside class="alert alert-white">
 NB: If you're working asynchronously, e.g. making up class because you were out sick, set a timer for one hour.
 </aside>
@@ -136,17 +139,25 @@ When your time is up, return to the google doc and say how far you got / set new
 
 ## Homework for next time
 
-* Aiming for 11:59pm on Sunday, but definitely by Monday's class, **complete – at least for now – your audio narrative.** Your repository (on GitHub, ideally, or in a Box/OneDrive folder shared to me) should include:
-   - Your most up-to-date layered Audacity project file (.aup3)
-   - A flattened, playable export (.mp3)
-   - A series, now, of screenshots showing your Audacity project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
-   - An updated set of credits (in their own file or just the README) reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC – say which one – or fair use). If you use material with a ShareAlike license, add a LICENSE.md file with the matching license.
-   - An updated README.md file introducing your soundscape narrative to a new audience. Give your piece a title! Make it something to live beyond this assignment, if you can. :¬)
+* Aiming for 10:00pm on Sunday, but definitely by Monday's class, **complete – at least for now – your audio narrative.** Your repository (on GitHub, ideally, or in a Box/OneDrive folder shared to me as a fallback) should include:
+    - Your most up-to-date layered Audacity project file (.aup3)
+    - A flattened, playable export (.mp3)
+    - A series, now, of screenshots showing your Audacity project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
+        * If you need to go back, you can browse the repository at different points in the history and download the project files to reopen them – just be careful not to overwrite your current ones!
+    - An updated set of credits (in their own file or just the README) reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC – say which one – or fair use).
+        * If you use material with a ShareAlike license (CC-BY-SA or CC-BY-NC-SA), add a LICENSE.md file with [the matching license](https://chooser-beta.creativecommons.org/). If you don't have any SA material, this is optional.
+    - An updated README.md file introducing your audio narrative to a new audience. Give your piece a title! Make it something to live beyond this assignment, if you can. :¬)
+
+
+<div class="alert alert-warning">
+   If completion to baseline feels impossible from where you are, please talk to me about an extension as soon as you can. That said, we're going to have a similarly rapid pace for the visual argument unit, so the best extension option here may just mean pausing work wherever you are by the weekend, writing a reflection to document your current thinking, and coming back to the project during the Integration​/​Consolidation unit at the end of the term.
+</div>
+
 * By Monday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your Audacity project. As explained in the [prompt](https://github.com/benmiller314/audio-narrative-{{site.course.slugterm}}#deadlines-and-products), this should include:
-   - At least 500 words
-   - Your own assessment of how you met the baseline criteria and goals for the unit, as well as any aspirational criteria as appropriate
+   - At least 500 words describing the work you did
+   - Your own assessment of how you met the baseline criteria and goals for the unit, as well as  aspirational criteria as appropriate
    - At least one screenshot of feedback you used (and please say how)
-   - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets)
+   - At least two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets)
 * **Post your reflection** to the course site's [Issue queue]({{site.github.issues_url}}), to make it easier to embed images.
    - If you want to then copy the source code into a file in your repo called reflections.md, I won't stop you!
    - If you feel strongly that you'd rather keep your reflection private, you can email it to me instead. But my default assumption is that we learn from each other as much as from ourselves, so I hope you can find a way to write publicly about your experience with this project.
