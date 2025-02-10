@@ -31,7 +31,7 @@ First, congratulations on finishing your first project for the class! Take a dee
 We had some fluctuations in our roster for the first couple weeks, then illness for the next couple. I'm _hoping_ we'll have a full crew today, but at any rate, it's long past time for us all to get to know each other's names!
 
 <div class="alert alert-white">
-<strong>We'll use the second person to tell each other, "You are <em>[name]</em>. And I am <em>[myname]</em>."</strong>
+We'll use the second person to tell each other, "You are <em>[name]</em>. And I am <em>[myname]</em>."
 </div>
 
 * And we'll do this <em>cumulatively</em> around the room: each person adds their own new name at the end of the list-so-far – still in second person until their own name.
@@ -83,7 +83,7 @@ Here are some more student examples in response to this actual assignment:
     <li><a href="http://dmap.pitt.edu/node/301">The Extinction Crisis</a>, by Fathima Shabnam</li>
     <li><a href="http://dmap.pitt.edu/node/300">Radiate</a>, by Emma Knaub</li>
     <li><a href="https://github.com/anayoungblut/visual-argument-2023spring/blob/main/FINAL/Screen%20Shot%20final%202%3A26.png">Don't Do It</a>, by Ana Youngblut</li>
-    <li><a href="https://github.com/suchiattota/visual-argument-2023spring/blob/main/TheCoverUp.png">The Cover-Up"</a>, by Suchi Attota</li>
+    <li><a href="https://github.com/suchiattota/visual-argument-2023spring/blob/main/TheCoverUp.png">The Cover-Up</a>, by Suchi Attota</li>
 </ol>
 
 <div class="alert alert-success">
