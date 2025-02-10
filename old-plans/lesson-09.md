@@ -1,145 +1,198 @@
 
-# Can You Picture It? Visual Rhetorics and Argument
+# Can You Picture It? Generating Visual Ideas
 
-**Work to have achieved**:
+<section class="prereqs">
+    <details open><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>A final-for-now version of your soundscape narratives, pushed to your own GitHub repo</li>
+            <li><a href="{{site.github.issues_url}}/6">post reflection on same</a></li>
+        </ul>
+    </details>
+</section>
 
-* A final-for-now version of your soundscape narratives, pushed to your own GitHub repo
-* Write and [post]({{site.github.issues_url}}) reflection on same
-
-
-**Plan for the day**:
-
-1. Sound and Image <!-- (15-20 min) -->
-2. Prominent affordances: GIMP (<span title="GNU, in turn, stands for _GNU's Not Unix._ Yyup.">GNU</span> image manipulation program)
-3. Visual unit overview and assignment
-4. Examples
-5. EXT: Start HW
-<!-- Have GIMP running in the BG -->
-
-## 1. Sound and Image (5-10 min)
 
 First, congratulations on finishing your first project for the class! Take a deep breath!
 
-Second, I know you just finished writing up a reflection on what you did, but I'm going to ask you to write a little more.
 
-* Put aside the details of your project for a moment, and think about what you've learned about **_sound as a composing medium_. What does it make possible? What does it make easy? What does it make difficult?** Take a minute to gather your thoughts on the page – in your own writing space, but save this somewhere you can find again at the end of the semester.
+**Plan for the day**:
+<!-- Have GIMP already running in the BG, to save startup time -->
+1. Some long-delayed introductions  <!-- (15-20 min) -->
+2. Visual unit overview <!-- -->
+3. Visual weight
+4. Examples
 
-* Now think about Audacity, in particular, as a tool for soundwriting – or, if you used Audition, substitute that instead. Given the possibilities and affordances of sound, how does the software (try to) make hard things easier? How does the software tell you what's possible? And what tricks to navigating the software, if any, did you realize only after using it for a while? Was there anything you came to rely on, or use more often than you might have expected at first?
+<!-- Here I decided to cut the writing & discussion of sound as medium and software as trying to make the difficult things easier. It was never quite as productive as I would have wanted, and it's an energy drain. See 2023spring if you need it back. -->
 
-### Let's discuss (5-10 min)
-And let's also take some notes in the [shared notes doc](http://bit.ly/cdm{{site.course.slugterm}}-notes). Can I get a few volunteers to be note-takers?
-<!-- discuss the visual layout of Audacity, e.g. the layers; the feedback of cursor events and changing size/position; the menus -->
+## 1. Some long-delayed introductions
 
-<!-- <div class="alert alert-warning">
-ALT: If you're participating asynchronously, please add comments to the notes in the doc. (Actually use the "add comment" feature, please, so I get an alert.) These can be questions, answers to questions, links to images or blog posts, or simply upvotes to express agreement.
-</div> -->
+We had some fluctuations in our roster for the first couple weeks, then illness for the next couple. I'm _hoping_ we'll have a full crew today, but at any rate, it's long past time for us all to get to know each other's names!
+
+<div class="alert alert-white">
+<strong>We'll use the second person to tell each other, "You are <em>[name]</em>. And I am <em>[myname]</em>."</strong>
+</div>
+
+* And we'll do this <em>cumulatively</em> around the room: each person adds their own new name at the end of the list-so-far – still in second person until their own name.
+* As you say each name, make direct eye contact with the person you're talking to. This puts them right in the center of your field of vision, improving memory retention.
+    - To make this more possible, let's stand up for a few minutes, if you're able, to make a circle (or rectangle-ish thing, anyway) around the room, without monitors in the way.
+* As we go, everyone should be trying to learn the names at the same time: your turn to talk, then, is not the only turn that matters. Help everyone make that eye contact.
+* If you can't remember someone's name, just make eye contact, apologize, and ask.
+
+I'll start!
 
 
-## 2. Brief, brief intro to GIMP
-For the next unit, you'll be working on directing attention through visual means, and the software I'm asking you to use is [GIMP](https://www.gimp.org/downloads/): the <span title="GNU, in turn, stands for _GNU's Not Unix._ Yyup.">GNU</span> Image Manipulation Program.
+## 2. Visual unit overview
 
-<figure role="figure">
-<a href="https://www.gimp.org"><img src="../assets/img/gimp-header.png" alt="over background of champagne flutes raised in a toast by hands of different skin tones (and also two hooves), text reads 'GIMP: GNU Image Manipulation Program'"></a>
-<figcaption>Header image from GIMP website. Click to visit www.gimp.org.</figcaption>
-</figure>
+Your second project is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an _argument_ to make, an _intervention_ in the world.
 
-I want to do just a quick preview today, while we're thinking about the shape of tools – and then we'll focus on what I'm asking you to do with them.
+<!-- SAVE THE BELOW, I think, for when we open the full repo. Makes that second look less redundant. Hopefully.
+
+In assigning this, I have two main goals for you:
+
+1. to learn how to capture images and arrange them using digital tools, and
+2. to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_. -->
+
+
+### For example
 
 Here's a project from a previous semester:
 <figure role="figure">
-<img src="../assets/img/ktdemay--future.png" alt="Philadelphia skyline behind cutouts of four athletes, in uniform for Philly basketball, baseball, hockey, and football teams. Text reads, 'The future is HERE'; team logos fill the last four letters." longdesc="#text-from-showcase-image" />
-<figcaption>"The Future of Sports." <a href="https://github.com/ktdemay/visual-argument-2020spring">Kevin DeMaioribus</a>, 2020.</figcaption>
-<div id="text-from-showcase-image" class="sr-only">
-<p>Though unnamed in the image, the athletes/teams are, from left to right, Joel Embiid of the Philadephia 76ers (basketball), his arms raised to either side; Bryce Harper of the Philadelphia Phillies (baseball), with a bat in mid-swing; Travis Konecny of the Philadelphia Flyers (hockey), one hand waving; and Carson Wentz of the Philadelphia Eagles (football), preparing to throw.</p></div>
+    <img src="../assets/img/ktdemay--future.png" alt="Philadelphia skyline behind cutouts of four athletes, in uniform for Philly basketball, baseball, hockey, and football teams. Text reads, 'The future is HERE'; team logos fill the last four letters." longdesc="#text-from-showcase-image" />
+    <figcaption>"The Future of Sports." <a href="https://github.com/ktdemay/visual-argument-2020spring">Kevin DeMaioribus</a>, 2020.</figcaption>
+    <div id="text-from-showcase-image" class="sr-only">
+        <p>Though unnamed in the image, the athletes/teams are, from left to right, Joel Embiid of the Philadephia 76ers (basketball), his arms raised to either side; Bryce Harper of the Philadelphia Phillies (baseball), with a bat in mid-swing; Travis Konecny of the Philadelphia Flyers (hockey), one hand waving; and Carson Wentz of the Philadelphia Eagles (football), preparing to throw.</p>
+    </div>
 </figure>
 
-Onscreen, it's a flat image. But if we open it in GIMP...
 
-### Initial questions to ask, as usual:
+#### Initial questions to ask
 
-1. How is the space laid out?
-  * What can you see? What can't you see that you expected to, if anything?
-2. What's given the most prominent visual focus? Secondary focus?
-3. What features/tools do you have quick access to?
-  * For instance, what's featured in the menu? What about the context menus (e.g. when you right-click)?
-  * Do any of those menus let you find what you were missing?
+* Where is your attention drawn? e.g. What takes up the most area? What's given high contrast, in color or size?
 
-<!-- Note that these are the exact same questions I asked of Audacity. -->
-<!-- give tour: layers at bottom right, tools at upper left, tool options at lower left, undo at top right. -->
-<!-- Toggle visibility. -->
-<!-- Duplicate -->
-<!-- Warning about raster graphics: can scale down, but not up -->
+Based on that, what do you think the creator was trying to claim? What intervention was he making?
 
 
-<div class="alert alert-info mt-3">
-<p>There are lots of tutorials out there, including right on the GIMP website. If you ever get stuck, try their aptly named <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a>. (I've also put some other resources on the <a href="{{site.github.url}}/resources">resources page</a>, and please feel free to suggest others as you find them!)</p>
+### More Examples
 
-<p>Among those: For next week, I'm planning to assign some videos on LinkedIn Learning. If you have trouble accessing them (folks sometimes do, and I haven't identified a pattern as to why), you may want to schedule an office hour visit and we'll try to get you sorted!</p>
+Here are some more student examples in response to this actual assignment:
+
+<ol class="ualpha">
+    <li><a href="https://github.com/csk32/visual-argument-2020fall/blob/master/Human_Trafficking_updated.png">Human Trafficking</a>, by Christianna Kelley</li>
+    <li><a href="http://dmap.pitt.edu/node/301">The Extinction Crisis</a>, by Fathima Shabnam</li>
+    <li><a href="http://dmap.pitt.edu/node/300">Radiate</a>, by Emma Knaub</li>
+    <li><a href="https://github.com/anayoungblut/visual-argument-2023spring/blob/main/FINAL/Screen%20Shot%20final%202%3A26.png">Don't Do It</a>, by Ana Youngblut</li>
+    <li><a href="https://github.com/suchiattota/visual-argument-2023spring/blob/main/TheCoverUp.png">The Cover-Up"</a>, by Suchi Attota</li>
+</ol>
+
+<div class="alert alert-success">
+    <p>Look through these images, starting with the letter that corresponds to your table. <strong>Discuss with your tablemates:</strong></p>
+    <ul>
+        <li>What argument is the piece making?</li>
+        <li>How does the <em>visual</em> contribute to that argument?</li>
+        <li>What does the <em>text</em> add that the visual couldn't do on its own?</li>
+    </ul>
+    <p>Take notes in the <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes">shared notes doc</a>.</p>
 </div>
 
-## 3. Visual unit overview and assignment
+EXT: When you're done talking about your table's starter piece, move to the next, wrapping around as needed.
 
-Your second project is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an _argument_ to make, an intervention in the world. In assigning this, I have two main goals for you:
+Let's discuss!
 
-1. to learn how to capture images and arrange them using digital tools, and
-2. to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
+
+## 3. Visual unit assignment
 
 <div class="alert alert-success">
 To read the full assignment – and make a copy for yourself – go to <strong><a href="https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#project-2-visual-argument--rhetorical-collage">github.com/benmiller314/visual-argument-{{site.course.slugterm}}</a></strong>.
 </div>
 
-Let's read through this together.
+Let's read through this together, including the timeline and the parachute prompts.
 
 <!-- Go through overview, constraints, deadlines. -->
 
-## 4. Examples
 
-Here are some more student examples in response to this actual assignment:
-* [Human Trafficking](https://github.com/csk32/visual-argument-2020fall/blob/master/Human_Trafficking_updated.png), by Christianna Kelley
-<!-- * [The Future of Sports](https://raw.githubusercontent.com/ktdemay/visual-argument-2020spring/master/pngs/future.png), by Kevin DeMaioribus -->
-* [Let's Talk About It](https://raw.githubusercontent.com/sydneymasterson/visual-argument-2020spring/master/PNGs/visual-argument-2-23.png), by Sydney Masterson
-* [The Extinction Crisis](http://dmap.pitt.edu/node/301), by Fathima Shabnam
-* [Radiate](http://dmap.pitt.edu/node/300), by Emma Knaub
-* [Be Kind](http://dmap.pitt.edu/node/244), by Tessa Sayers
-* [Women in Tech](http://dmap.pitt.edu/node/245), by Nicole Dash
+## 4a. Loop writing <!-- Takes at least 15 min, so start no later than 1:55, ideally 1:45 or 1:50 -->
+<aside class="alert alert-info">
+NB: For this generative exercise, adapted from <a href="http://bit.ly/perlfeltsense">one by Sondra Perl</a>, you'll need somewhere to write and somewhere to <em>draw</em>. For the latter, printer paper is great; a notebook is also okay; the computer's probably not, unless you're experienced. I like pencil, but your preference may vary.
+</aside>
 
+Let's take a few minutes to think in writing about the visual arguments you might want to make. I'll read a series of questions aloud. Repeat them silently to yourself, and when you feel yourself answering, make a list.
 
-<!-- Want still more? I've also pinned some examples of the kinds of collages and collisions I've seen on the open web, but definitely don't take this as expressing some absolute sense of range:
-<a href="https://www.pinterest.com/benmiller314/visual-argumentexplanation/">www.pinterest.com/benmiller314/visual-argumentexplanation</a> -->
+These lists will remain private, unless you choose to share. I won't ask for them.
 
+1. What ideas do you want help remembering?
+2. Or what do you want to persuade others of?
+3. Is there something you've noticed that you want to bring to the attention of others?
+4. Is there anything else you'd like to add? Something from a course? From an activity or group you participate in? Something you've been reading about? (If there's an idea you thought of working on before coming to class today, be sure to add it now.)
 
-## EXT: Play with GIMP? Start homework?
-If we have extra time, why not play around with GIMP and see where it steers your attention? First download the application at the link below, then have a look through the in-class exercise folder within the repository you just forked. 
+Take a moment now to read back over your lists. Is there something that stands out, that says, _me, pick me_? Choose one thing to work with, at least for today, and mark it in some way. Then copy it into a clean page.
 
-<!-- – or substitute the image of yourself (or your pet, etc) that you posted to the [Greetings and Salutations forum]({{site.github.issues_url}}/1), way back when. -->
+With that chosen subject, write again:
 
-<!-- ### EXT: Google Image's Advanced Search Tools -->
-<!--
-Not everything is just available for any use – even if you can find it on a public website. See my FAQ from last year at https://cdm2017.majoringinmeta.net/lesson-04/#key-questions-and-considerations-20-30-min.
--->
+<ol start="5">
+    <li>What terms or images come to mind when you think of this subject? ... Think about categories of words: actions vs things. Descriptors.</li>
+    <li>Is there anything you're forgetting to add to your list? A line from a song? A color?</li>
+    <li>Who else might be interested in this? Who, that is, could be your audience?</li>
+</ol>
 
-<!--
-## EXT: More on GIMP
-I'll demo, using Beverly & Pack. "Fly Me to the Moon, by Way of a Hot Air Balloon."" 7 Sept. 2009. Flickr, https://www.flickr.com/photos/walkadog/3897126692/.
--->
+See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
 
-As an alternative, let me tell you what I'm asking you to do by next class, and you can work on the reading now, instead, because I admit it could be kind of long for a mid-week assignment:
+### 4b. Offline sketching (10 min)
+And now, draw. Take a piece of paper, divide it in quarters (e.g. by folding in half both ways), and in each quarter sketch out some possibility, some version, of what your idea might look like.
 
+If you can, try to make each image significantly different from each other, to give you options; you can use your lists for inspiration. If you can't think of very different ones, then work to make just _some_ change.
 
-# Homework for next time:
+We'll work here for a while.
 
-* If you haven't already, **download and install** [GIMP](https://www.gimp.org/downloads/), the GNU Image Manipulation Program
+<div class="alert alert-info">
+NB: The proposal isn't due until next week, so don't worry if you don't have a clear plan yet.
+</div>
 
-* **Read** the following articles from a series on design principles, from Smashing Magazine:
-    - [Visual Perception And The Principles Of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
-    - [Connecting and Separating Elements through Contrast and Similarity](https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/)
-    - [Space and the Figure-Ground Relationship](https://www.smashingmagazine.com/2014/05/design-principles-space-figure-ground-relationship/)
+<details><summary>EXT: Getting into GIMP</summary>
+    <p>The software I'm asking you to use is <a href="https://www.gimp.org/downloads/">GIMP</a>: the <abbr title="GNU, in turn, stands for _GNU's Not Unix._ Yyup.">GNU</abbr> Image Manipulation Program.</p>
 
-<!-- These aren't ideal. Next time, consider using https://www.smashingmagazine.com/2014/12/design-principles-visual-weight-direction/ and https://www.smashingmagazine.com/2016/05/improve-your-designs-with-principles-similarity-proximity-part-1/ -->
+    <figure role="figure">
+        <a href="https://www.gimp.org"><img src="../assets/img/gimp-header.png" alt="over background of champagne flutes raised in a toast by hands of different skin tones (and also two hooves), text reads 'GIMP: GNU Image Manipulation Program'"></a>
+        <figcaption>Header image from GIMP website. Click to visit www.gimp.org.</figcaption>
+    </figure>
 
-* **Find and either [screenshot](https://www.take-a-screenshot.org/) or photograph** at least one example of a visual or graphic design out in "the wild" that makes some sort of claim, or argument.
-  - By "design," I mean that some person made an active choice in its arrangement. A heap of clothes on the floor may have a lot of artistic potential to a photographer, but it's not yet *designed*.
-  - By "in the wild," I mean that I expect you to come across some in the course of your routine travels around the web – or around your surroundings, if you're in a place where you get out into your surroundings. That said, if you need to search more actively, so be it; for one thing, you may need to pay more attention to ads that you've trained yourself to ignore.
-   - By "argument," I mean there should be an idea beyond the pure visual layout. The argument could be explicit or implicit; it could be serious or a joke. (Some claims are just _X is like Y_.) But you should be able to put it in words.
-* **Write** a short blog post, sharing your visual argument example. Examine it through the lenses from the reading of positive/negative, dominance/hierarchy, and rhythm/movement: what do those lenses help you see? Would you say this is effectively designed for making its argument? (NB: If the argument is implicit, please try to articulate what you think it's claiming.)
-   - Post this to the [issue queue]({{site.github.issues_url}}), under "Visual Arguments are Everywhere".
+    <p>I want to do just a quick preview today, while we're thinking about the shape of tools – and then we'll focus on what I'm asking you to do with them. We'll have more time to play with the software next time, after you've seen a 20-ish minute video introducing the basics.</p>
+
+    <p>Let's go back to Kevin's "The Future is Here" visual argument. If we open it in GIMP, how does the software tell us what's present, and what's possible?</p>
+
+    <!-- We can ask the same questions of the interface as we did before of the image as a whole. But I'm also interested in whether/how the interface enacts or thwarts your expectations. -->
+    <ol>
+        <li>Where is your attention drawn? e.g. What takes up the most area? What's given high contrast, in color or size?</li>
+        <li>What's grouped together? Can you tell why, or by what principle?</li>
+        <li>What features/tools do you have quick access to? For instance, what can you interact with directly? What buttons or menus do you have, whether in a toolbar or when you right-click?</li>
+    </ol>
+
+    <!-- Note that these are the same questions I asked of GitHub and Pulsar. -->
+    <!-- give tour: layers at bottom right, tools at upper left, tool options at lower left, undo at top right. -->
+    <!-- Toggle visibility. -->
+    <!-- Toggle groups. -->
+    <!-- Duplicate -->
+    <!-- Warning about raster graphics: can scale down, but not up -->
+
+    <aside class="alert alert-white">
+        <p>There are lots of tutorials out there, including right on the GIMP website. If you ever get stuck, try their aptly named <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a>. (I've also put some other resources on the <a href="{{site.github.url}}/resources">resources page</a>, and please feel free to suggest others as you find them!)</p>
+    </aside>
+</details>
+
+## Homework for next time
+
+We'll start working with GIMP next class. To get ready, you'll need some software...
+
+* **Download and install** [GIMP](https://www.gimp.org/downloads/) if you haven't already
+* **Watch** [Learn GIMP in 20 Minutes](https://www.youtube.com/watch?v=w0quo4S8Oqw) from Chris' Tutorials.
+
+and also some food for thought...
+
+* **Read** [An exercise in frustration](https://www.aiweirdness.com/an-exercise-in-frustration/) by Janelle Shane (from her blog, AI Weirdness; Medium calls it a 6-minute read)
+* **Also read** [the Facebook post Shane links to](https://www.facebook.com/groups/1404116417142065/posts/1459674184919621/) in her opening line
+<!-- * **Find** an example of a rhetorical visual design (on your own) -->
+
+and let's start thinking as a community:
+
+* **Write** a short blog post, about either the reading or the video. What do you notice? What do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
+    - _optional:_ If you're one of the first five to post, I encourage you to pose questions for your classmates; if you're not, I encourage you to respond to them.
+
+<div class="alert alert-info">NB: We'll have studio next class. Bring headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like</div>
