@@ -289,7 +289,7 @@ Under the <a href="#assets">assets listings</a> above, you might find FreeSound,
 </dd>
 
 <dt>Tips for Recording Audio on a Phone</dt>
-<dd>As part of a guide on oral history, Ben Daigle of the University of Dayton libraries put together this <a href="https://libguides.udayton.edu/oral-history-recording/phone-tips">LibGuide</a>
+<dd>As part of a guide on oral history, Ben Daigle of the University of Dayton libraries put together this <a href="https://libguides.udayton.edu/oral-history-recording/phone-tips">LibGuide</a></dd>
 
 <dt><a href="https://thewirecutter.com/reviews/the-best-voice-recorder/#the-best-smartphone-apps-for-occasional-recording">Recommended smartphone recording apps</a></dt>
 <dd>The New York Times's <em>Wirecutter</em> review site has a relatively recent roundup of free and nearly free apps for iPhone and Android. Save yourself some time trying to find the app with the least intrusive ads, and start with something pre-vetted and user-tested.</dd>
