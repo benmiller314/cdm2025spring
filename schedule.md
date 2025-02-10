@@ -142,7 +142,6 @@ For next time:
 * **Bring** headphones so you can work in class
 
 
-<a id="current"/>
 <h3>Wednesday, Feb 5 – <a href="plans/lesson-08" id="lesson-08">Lesson 8</a> – Sound Studio</h3>
 
 For next time:
@@ -152,43 +151,66 @@ For next time:
     - Annotations on these screenshots are optional but I've found them helpful in the past, and you might, too.
 
 
-
+<a id="current"/>
 ## Unit III: Visual Rhetorics and Argument
 {: .unit #unit-3}
 
 *In this unit, you will make a rhetorical intervention (a claim) through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive, interesting, or memorable, and how you therefore wish to attract and direct their attention.*
 
-<h3>Monday, Feb 10 – <a href="plans/lesson-09" id="lesson-09">Lesson 9</a> – Can You Picture It? Visual Rhetorics and Argument</h3> <!-- Introduce unit assignment; start hw reading in class, if possible; add discussion of AI Weirdness around revision. DO read the original post by Dani Rose. -->
+<div class="alert alert-warning">
+Heads up: on further reflection as we wrap the Audio Narrative unit, I'm moving some things around at the start of the Visual Argument unit. No major deadlines are shifting, but I think this new order of operations will scaffold your learning more effectively! If you want to see what's changed, head over to the GitHub repo (there's a link at the bottom of this page) and find the latest commit on <code class="alert-warning">schedule.md</code>.
+</div>
+
+<h3>Monday, Feb 10 – <a href="plans/lesson-09" id="lesson-09">Lesson 9</a> – Can You Picture It? Generating Visual Ideas</h3>
+<!-- THOUGHTS as I prep for 2025 SPRING: the in-class exercise should go better if they have time to watch an intro video for GIMP, like we did for Audacity. (And even then some people had trouble.) So I may want to swap a lot of lessons 9-10-11: e.g. have the generative writing right away in lesson 9, then for hw they watch a GIMP video & read AI weirdness + ~~find/post an example argument, without analysis~~ write a response post; then in lesson 10 they do the in-class exercise with background extraction / relocating an object (EXT: try it again with a generated image); for hw over the weekend, still writing a proposal, but now it's paired with the Smashing Magazine articles on design -->
+
+For next time, some software...
+
+* If you haven't already, **download and install** [GIMP](https://www.gimp.org/downloads/), the GNU Image Manipulation Program
+* **Watch** [Learn GIMP in 20 Minutes](https://www.youtube.com/watch?v=w0quo4S8Oqw) from Chris' Tutorials.
+
+... and some food for thought...
+
+* **Read** [An exercise in frustration](https://www.aiweirdness.com/an-exercise-in-frustration/) by Janelle Shane (from her blog, AI Weirdness; Medium calls it a 6-minute read)
+    * **Also read** [the Facebook post Shane links to](https://www.facebook.com/groups/1404116417142065/posts/1459674184919621/) in her opening line
+<!-- * **Find** an example of a rhetorical visual design (on your own) -->
+
+... ending with some digital textual composing:
+
+* **Write** a short blog post, about either the reading or the video. What do you notice? What do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
+    - _optional:_ If you're one of the first five to post, I encourage you to pose questions for your classmates; if you're not, I encourage you to respond to them.
+
+<div class="alert alert-info">NB: We'll have studio next class. Bring headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like</div>
+
+<h3>Wednesday, Feb 12 – <a href="plans/lesson-10" id="lesson-10">Lesson 10</a> – Generative Studio</h3>
+<!-- Do the in-class exercise with background extraction / relocating an object. EXT: try it again with a generated image. EXT: start homework reading. NEW AFTER 2023 SPRING: help students choose reasonable canvas sizes by looking into the defaults for new files when you tour the software. -->
 
 For next time:
 
-* **Read** a quick introduction to graphic design principles <!-- and the in-class reading, if you missed it or want more time --> (see lesson plan)
-* **Find** an example of a rhetorical visual design (on your own)
-* **Write** a post about your example on the relevant <a href="{{site.github.issues_url}}">issue queue</a>, using the analytical language from the reading
+* **Read** the following articles, each from a series on design principles in _Smashing Magazine_:
+    - [Improve Your Designs With The Principles Of Similarity And Proximity (Part 1)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-principles-similarity-proximity-part-1/), by Jon Hensley
+    - [Improve Your Designs With The Principles Of Closure And Figure-Ground (Part 2)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-the-principles-of-closure-and-figure-ground-part-2/), by Jon Hensley
+    - [Design Principles: Compositional, Symmetrical And Asymmetrical Balance](https://www.smashingmagazine.com/2015/06/design-principles-compositional-balance-symmetry-asymmetry/), by Steven Bradley
+    - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/), by Steven Bradley
+* **Write** a visual argument _proposal_, including a prospective asset list and a photo of a rough sketch; see lesson plan for more. **Post** to <a href="{{site.github.issues_url}}">the issue queue</a>
 
-<h3>Wednesday, Feb 12 – <a href="plans/lesson-10" id="lesson-10">Lesson 10</a> – Generating Visual Ideas</h3> <!-- practice vocab by analyzing examples of past student projects: emphasize emphasis; design vs. intervention; audience addressed, audience invoked. end with Perl-esque guidelines -->
+
+<h3>Monday, Feb 17 – <a href="plans/lesson-11" id="lesson-11">Lesson 11</a> – Visual Rhetorics and Argument</h3>
+<!-- practice vocab by analyzing examples of past student projects: emphasize emphasis; design vs. intervention; audience addressed, audience invoked. -->
 
 For next time:
 
-* **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and read/watch more deeply in anything that seems like it would help you.
-    - In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." It's about *5* hours of material, which I'm not expecting you to view all of in one weekend (though you do you): as before, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp). I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. Note that there are exercise files, should you want to follow along and make sure it works in practice.<!-- - If you've been having trouble with LinkedIn Learning, try [this LIL link, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=). I also am happy to troubleshoot with you during office hours! -->
-* **Write** a visual argument _proposal_, including a prospective asset list and a rough sketch; post to <a href="{{site.github.issues_url}}">the issue queue</a>
-* **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
-
-<h3>Monday, Feb 17 – <a href="plans/lesson-11" id="lesson-11">Lesson 11</a> – Generative Studio</h3>
-<!-- Open class with guidance re: proposals -->
-<!-- NEW AFTER 2023 SPRING: help students choose reasonable canvas sizes by looking into the defaults for new files when you tour the software. -->
-For next time:
-
+* **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and **read/watch** more deeply in anything that seems like it would help you.
+    * _optional:_ This weekend's assigned reading, should you want it / have more time now, is [about fonts](https://venngage.com/blog/how-to-choose-fonts/): groups, pairings, hierarchies, etc
 * **Compose and push** a visual argument _preview_; get it started, see how it feels to work with these tools/materials. A workshop-ready draft due in one week.
-* (Weekend reading, should you want it / have more time now: **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game<!-- http://www.typeconnection.com/ -->)
+
 
 
 <h3>Wednesday, Feb 19 – <a href="plans/lesson-12" id="lesson-12">Lesson 12</a> – Visual Unit Criteria and Stretch Goals</h3>
 
 For next time:
 
-* **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
+* **Read** [about fonts](https://venngage.com/blog/how-to-choose-fonts/): groups, pairings, hierarchies, etc
 * **Work** toward baseline criteria for your visual argument / rhetorical collage
 * **Compose and push** a workshop-ready *full draft*
 
@@ -264,6 +286,8 @@ EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own
 NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doesn't work like the tutorial's.
 
 NEW AFTER 2023spring: Suggest the Web Typography lesson as an EXT, and then as a priority for in-class work next class.
+
+EXT: [Improve Your Designs With The Principles Of Continuation And Common Fate (Part Three)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-the-principles-of-continuation-and-common-fate-part-three/)
 
 -->
 
