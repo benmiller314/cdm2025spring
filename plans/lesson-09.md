@@ -18,8 +18,11 @@ First, congratulations on finishing your first project for the class! Take a dee
 <!-- Have GIMP already running in the BG, to save startup time -->
 1. Some long-delayed introductions  <!-- (15-20 min) -->
 2. Visual unit overview <!-- -->
-3. Visual weight
-4. Examples
+    - An example
+    - Group exercise: training our eyes to see claims
+3. Visual unit assignment and schedule
+4. Loop writing and drawing
+5. Homework for next time
 
 <!-- Here I decided to cut the writing & discussion of sound as medium and software as trying to make the difficult things easier. It was never quite as productive as I would have wanted, and it's an energy drain. See 2023spring if you need it back. -->
 
@@ -71,7 +74,7 @@ Here's a project from a previous semester:
 Based on that, what do you think the creator was trying to claim? What intervention was he making?
 
 
-### More Examples
+### Group exercise: training our eyes to see claims
 
 Here are some more student examples in response to this actual assignment:
 
@@ -98,7 +101,7 @@ EXT: When you're done talking about your table's starter piece, move to the next
 Let's discuss!
 
 
-## 3. Visual unit assignment
+## 3. Visual unit assignment and schedule
 
 <div class="alert alert-success">
 To read the full assignment – and make a copy for yourself – go to <strong><a href="https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#project-2-visual-argument--rhetorical-collage">github.com/benmiller314/visual-argument-{{site.course.slugterm}}</a></strong>.
