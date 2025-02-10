@@ -89,7 +89,8 @@ Here are some more student examples in response to this actual assignment:
 <div class="alert alert-success">
     <p>Look through these images, starting with the letter that corresponds to your table. <strong>Discuss with your tablemates:</strong></p>
     <ul>
-        <li>What argument is the piece making?</li>
+        <li>Where is your attention drawn? e.g. What takes up the most area? What's given high contrast, in color or size?</li>
+        <li>Based on that, what do you think the creator was trying to claim? What intervention or argument were they making?</li>
         <li>How does the <em>visual</em> contribute to that argument?</li>
         <li>What does the <em>text</em> add that the visual couldn't do on its own?</li>
     </ul>
