@@ -80,8 +80,8 @@ Here are some more student examples in response to this actual assignment:
 
 <ol class="ualpha">
     <li><a href="https://github.com/csk32/visual-argument-2020fall/blob/master/Human_Trafficking_updated.png">Human Trafficking</a>, by Christianna Kelley</li>
-    <li><a href="http://dmap.pitt.edu/node/301">The Extinction Crisis</a>, by Fathima Shabnam</li>
-    <li><a href="http://dmap.pitt.edu/node/300">Radiate</a>, by Emma Knaub</li>
+    <li><a href="https://github.com/fathimashabnam/visual-argument-2019fall/blob/master/VisualArgument.png">The Extinction Crisis</a>, by Fathima Shabnam</li>
+    <li><a href="https://github.com/emmaknaub/visual-argument/blob/master/visual_argument.png">Radiate</a>, by Emma Knaub</li>
     <li><a href="https://github.com/anayoungblut/visual-argument-2023spring/blob/main/FINAL/Screen%20Shot%20final%202%3A26.png">Don't Do It</a>, by Ana Youngblut</li>
     <li><a href="https://github.com/suchiattota/visual-argument-2023spring/blob/main/TheCoverUp.png">The Cover-Up</a>, by Suchi Attota</li>
 </ol>
