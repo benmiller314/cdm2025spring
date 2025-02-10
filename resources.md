@@ -338,19 +338,21 @@ Under the <a href="#assets">assets listings</a> above, you might find FontSquirr
 </dd>
 <dd>There's a nice <a href="https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz">GIMP tutorial series</a> posted to YouTube by <a href="https://www.youtube.com/c/LogosByNick">LogosByNick</a>, still being updated as of Fall 2020; his main channel also includes things like <a href="https://www.youtube.com/watch?v=JQj7uUGl6Sk">Common Mistakes New GIMP Users Make</a>, as well as other series on Inkscape (a vector graphics program) and logo design.</dd>
 
+<dt>Visual Design Principles</dt>
+<dd><em>Smashing Magazine</em>, primarily a web design publication, has periodically invited working designers to talk write about the <a href="https://www.smashingmagazine.com/category/design-principles">design principles</a> they use, and many of their posts are quite relevant to less interactive media. I'll assign some of the pieces for homework, but if you have time I do recommend the full runs by <a href="https://www.smashingmagazine.com/2016/05/improve-your-designs-with-principles-similarity-proximity-part-1/">Jon Hensley</a> and by <a href="https://www.smashingmagazine.com/2015/06/design-principles-compositional-balance-symmetry-asymmetry/">Steven Bradley</a></dd>
+
 <dt>Examples of Visual Rhetoric in Action</dt>
 <dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
 
-<!-- <dt>Visual Design Lessons</dt>
-<dd>There are lots of tutorials out there. One I've been enjoying is a series of blog posts by designer Julie Thompson on teaching middle-schoolers about principles of graphic design. You can read <a href="https://www.thetypetree.com/blog/category/graphic-design-lessons">the whole series</a> (from bottom to top), or jump to lessons on <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>, ways to create visual <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>, or <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a> – even in static images. The exercises are designed for a non-digital space, but the lessons easily apply in digital realms.</dd> -->
-
 <dt>Font advice</dt>
 <dd>There's a lot of this about! I'm still looking for the ideal balance of information and succinctness without being too overwhelming or didactic; let me know if you have any recommendations. For now, I'm putting forward <a href="https://venngage.com/blog/how-to-choose-fonts/">How to Choose Fonts For Your Designs (With Examples)</a> as a good-enough solution that includes some useful categories toward the end (playful, professional, etc), reducing your search space to a more manageable volume than the ever-growing lists at, say, Font Squirrel, while still giving you a range of possibilities to choose from.</dd>
-</dl>
+
+<dt><a href="https://craftsupply.co/articles/font-finder">Font identification tools</a></dt>
+<dd>Found what looks like the perfect typeface, and now you're trying to figure out what it is? There are services for that! MyFont and FontSquirrel both have identification tools, allowing you to upload an image with text in it, and they'll do their best to identify it for you. (They may also try to sell you a version of it, but having a name should let you search for similar fonts that are more affordable, as in, for this class, free.)</dd>
 
 <dt>Logo design</dt>
 <dd>Some people have expressed interest in designing logos. The <a href="https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk">Inkscape Logo Design Tutorials</a> tutorial series, from <a href="https://www.youtube.com/c/LogosByNick">LogosByNick</a>, seems like it might be useful.</dd>
-
+</dl>
 
 *[Back to main table of contents](#resources-toc)* |
 *[Back to advice/examples table of contents](#advice-and-examples)*
