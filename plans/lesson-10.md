@@ -68,13 +68,15 @@ But once you've done those, the rest of the time is Open Studio: find and watch 
 
 ### 2a. Extract foreground from background
 
-To save time finding images to work with, I've bundled a few for you in your visual-argument-2025spring repos: look for the "in-class-exercise" folder.
+The idea of this exercise is to practice extracting an image from its context, so you can repurpose it in another context. To save time finding images to work with, I've bundled a few for you in your visual-argument-2025spring repos: look for the "in-class-exercise" folder, which includes instructions as well.
 
-<aside class="alert alert-white">Note that when a repo's subfolder has a README, the GitHub website will also display that when you open the folder. For convenience, I'll reproduce the heart of those instructions here.</aside>
+<aside class="alert alert-white">Note that when a repo's subfolder has a README, the GitHub website will also display that when you open the folder.</aside>
 
-The idea of this exercise is to practice extracting an image from its context, so you can repurpose it in another context. To begin, expand the zipped archive (images.zip) to find a set of five images to work with.
+Since you'll be working locally, though, not through the website, for convenience, I'll reproduce the heart of those instructions here.
 
-Starting with the image of a hot-air balloon (beverly-and-pack--fly-me-to-the-moon.jpg), experiment with GIMP's tools to select just the balloon – or just the moon, etc. Once it's selected, you can copy it and paste it into a new layer where it can be resized, repositioned, recolored, and so on.
+ **To begin, expand the zipped archive (images.zip) to find a set of five images to work with.**
+
+Starting with the image of a hot-air balloon (beverly-and-pack--fly-me-to-the-moon.jpg), **experiment with GIMP's tools to select just the balloon** – or just the moon, etc. Once it's selected, you can copy it and paste it into a new layer – or into an entirely different file – where it can be resized, repositioned, recolored, and so on.
 
 <details open><summary>A few options to consider for selecting</summary>
     <ul>
