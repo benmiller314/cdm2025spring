@@ -151,7 +151,6 @@ For next time:
     - Annotations on these screenshots are optional but I've found them helpful in the past, and you might, too.
 
 
-<a id="current"/>
 ## Unit III: Visual Rhetorics and Argument
 {: .unit #unit-3}
 
@@ -173,7 +172,7 @@ For next time, some software...
 
 * **Read** [An exercise in frustration](https://www.aiweirdness.com/an-exercise-in-frustration/) by Janelle Shane (from her blog, AI Weirdness; Medium calls it a 6-minute read)
     * **Also read** [the Facebook post Shane links to](https://www.facebook.com/groups/1404116417142065/posts/1459674184919621/) in her opening line
-<!-- * **Find** an example of a rhetorical visual design (on your own) -->
+<!-- FOR NEXT TIME: add an AI-positive voice -->
 
 ... ending with some digital textual composing:
 
@@ -182,8 +181,9 @@ For next time, some software...
 
 <div class="alert alert-info">NB: We'll have studio next class. Bring headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like</div>
 
+<a id="current"/>
 <h3>Wednesday, Feb 12 – <a href="plans/lesson-10" id="lesson-10">Lesson 10</a> – Generative Studio</h3>
-<!-- Do the in-class exercise with background extraction / relocating an object. EXT: try it again with a generated image. EXT: start homework reading. NEW AFTER 2023 SPRING: help students choose reasonable canvas sizes by looking into the defaults for new files when you tour the software. -->
+<!-- Do the in-class exercise with background extraction / relocating an object. EXT: try it again with a generated image. EXT: start homework reading.  -->
 
 For next time:
 
@@ -199,7 +199,7 @@ For next time:
 <!-- practice vocab by analyzing examples of past student projects: emphasize emphasis; design vs. intervention; audience addressed, audience invoked. -->
 
 For next time:
-
+<!-- NEW AFTER 2023 SPRING: help students choose reasonable canvas sizes by looking into the defaults for new files when you tour the software. -->
 * **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and **read/watch** more deeply in anything that seems like it would help you.
     * _optional:_ This weekend's assigned reading, should you want it / have more time now, is [about fonts](https://venngage.com/blog/how-to-choose-fonts/): groups, pairings, hierarchies, etc
 * **Compose and push** a visual argument _preview_; get it started, see how it feels to work with these tools/materials. A workshop-ready draft due in one week.
