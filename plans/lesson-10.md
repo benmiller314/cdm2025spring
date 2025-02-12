@@ -23,7 +23,7 @@
 1. On AI and Editing
 2. In-class exercises
     - extracting a figure from its background
-    - from flat to layered
+    - from flat to layered: examining examples
 4. Open studio
     <!-- Option: try it again with a generated image. Option: start homework reading. -->
 5. Homework for next time: design principles; proposal
