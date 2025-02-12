@@ -1,155 +1,148 @@
 
-# Generating Visual Ideas
+# Lesson 10: Generative Studio
 
-**Work to have achieved**:
-
-* Read about graphic design principles (<a href="https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt">principles of gestalt</a>, <a href="https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/">contrast and similarity</a>, <a href="https://www.smashingmagazine.com/2014/05/design-principles-space-figure-ground-relationship/">figure & ground</a>)
-* Find and [post]({{site.repo_url}}/issues) a graphic or visual design that makes a claim or argument
-* If you can, analyze the designed artifact through the lenses of graphic design principles. (If not, that's for today!)
+<section class="prereqs">
+    <details><summary><strong>Texts to have read / listened to / watched</strong></summary>
+        <ul>
+            <li><a href="https://www.aiweirdness.com/an-exercise-in-frustration">An Exercise in Frustration</a>, by Janelle Shane</li>
+            <li>the anonymous <a href="https://www.facebook.com/groups/1404116417142065/posts/1459674184919621">Facebook post</a> Shane links to in the opening line</li>
+            <li><a href="https://www.youtube.com/watch?v=w0quo4S8Oqw">Learn GIMP in 20 Minutes</a>, from Chris' Tutorials</li>
+        </ul>
+    </details>
+    <details><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>Download and install <a href="https://www.gimp.org/downloads">GIMP</a></li>
+            <li>Post a reading-response to the <a href="{{site.github.issues_url}}/7">the Issue Queue</a></li>
+        </ul>
+    </details>
+</section>
 
 
 **Plan for the day**:
 
-1. Building (with) our vocabulary (20 min) <!-- was 30 last time, let's see if that continues online or not -->
-    * Ben's highlights
-    * Group activity: 
-2. GIMP Practice and concurrent GIMP Demo (20-25 min)
-3. Loop writing into offline sketching (15 + 10 min)
-5. Homework for next time
+1. On AI and Editing
+2. In-class exercises
+    - extracting a figure from its background
+    - from flat to layered
+4. Open studio
+    <!-- Option: try it again with a generated image. Option: start homework reading. -->
+5. Homework for next time: design principles; proposal
 
 
-## 1. Building (with) our vocabulary (10-15 min)
+## 1. On AI and Editing: takeaways and open questions from the forum
 
-I know that was a lot of potentially new terms!
+Josh noted that I didn't give you an AI-advocate voice, and that was an oversight. Mea culpa! But he also helpfully complicated the issue by reminding us that it's not an all-or-nothing proposition: genAI can produce _materials for human designers to work with and edit_.
 
-For my purposes, what's most important is how they help us think about directing attention, and for that purpose there are a few key highlights to hit:
+Likewise, Grace gestured toward another tension, between achieving an artist's singular vision and making concessions to whatever the tool produces. Again, it's easy to imagine that one or the other will dominate, but I encourage you to live within the dialectic: whether working with AI tools or not, creative endeavors are often a push-and-pull between the initial idea and the ideas that emerge as you're writing, drawing, playing. It's that mid-ground tension that produces the best vibrations, I find.
 
-1. The principle of emergence: we see the whole image first.
-2. Contrast draws attention, and works best when used sparingly: [as Bradley puts it](https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/#:~:text=when%20everything%20is%20the%20same%2C%20you%20get%20tedium.%20when%20everything%20is%20different%2C%20you%20get%20noise.%20the%20best%20designs%20have%20a%20healthy%20mix%20of%20similarity%20and%20contrast%20and%20show%20a%20clear%20understanding%20of%20what%20they%E2%80%99re%20trying%20to%20communicate.), "When everything is the same, you get tedium. When everything is different, you get noise. The best designs have a healthy mix of similarity and contrast."
-3. "By giving visually similar characteristics to multiple elements, we communicate that something is similar about the elements." And vice versa.
-    * Size, shape, color, value (intensity), texture, alignment (parallelism), common fate (direction of movement) – all these elements become means of signaling similarity or establishing contrast.
-4. Visual groupings produce a hierarchy: 
-    * *common regions* (via enclosure or background) group things more than
-    * *connectedness* (via lines or "common fate") groups things more than
-    * *symmetry or pattern* groups things more than
-    * *shared color* groups things more than 
-    * *proximity* groups things more than
-    * *common shape*. 
-    * usually.
+This puts me in mind of something Weini wrote:
+> AI is simply a tool that can improve efficiency and assist with tasks, but it cannot do the entire job for you. It still requires human creativity, judgment, and effort to achieve the best results.
 
-### Group activity: noticing layout, wholes and parts
+<details><summary>Does anyone remember what I set as the genAI policy for this class?</summary>
+    <p>In brief:
+    <ul>
+        <li>Acknowledge it</li>
+        <li>Generate multiple responses to the prompt, so you have to make active choices</li>
+        <li>Exercise your own judgment, and take your own responsibility</li>
+    </ul>
+    </p>
+    <p>See <a href="../policies#on-artificial-intelligence">the Policies page</a> for more details and my reasoning.</p>
+    <p>In the context of this assignment, you may want to generate some images if you're not finding what you were looking for in Flickr or Unsplash or wherever; but <strong>don't generate the <em>whole</em> visual argument – generate <em>assets</em>, and edit from  there.</strong> Become the capable editors the FB writer was looking for, rather than the hapless prompters who can't revise.</p>
+</details>
 
-In your usual groups, share the images you posted online. Think out loud about the way the image works to create a hierarchy: 
-
-* What are the biggest areas, or groupings, defined in the space? How are they defined?
-* How is negative space (ground) used to teach us how to read the positive space (figure)?
-* What (else) did the designer use to guide your eyes through the image? Do you all agree on where your eyes are drawn? 
-* What about this image's design strategies might you want to emulate? What might you want to avoid?
-
-EXT: If you're done with yours, skim through the others posted [on the forum]({{site.github_url}}/issues).
-
-EXT: Done that, too, and still waiting? Try the in-class exercise in the visual argument assignment repository.
+There were lots of other insightful posts. Any other questions or takeaways that you wanted to discuss?
 
 
-<!-- ### EXT: Using our vocabulary (5-10 min)
-If your group feels finished and others are still working, share the images you posted to the forum within your group. See if you can level up on your comfort analyzing visual design, using the terms from the reading (and now google doc). -->
 
-<!--
-## EXT: Clear hierarchy vs. flat hierarchy
-If we all finish filling out the google doc with time to spare (by 3:05, say), I'd like to look at two examples that came in on the forum.
--->
+## 2. In-class exercise: into GIMP
 
-## 2. GIMP Practice and concurrent demo (20 min)
+Now that you've had a tour of the software, it's time to play around with GIMP for yourselves and see what it and you are already capable of.
 
-I want to give you another chance to practice with GIMP. For those who aren't sure where to start, you can follow along with me as I do some noodling around! Alternately, I highly recommend the LinkedIn Learning series on [GIMP Essential Training](https://www.linkedin.com/learning/gimp-essential-training-4), which is also linked on our course site Resources page and in the homework assignment, below.
+I've got two main ideas for what you might do:
+
+1. Practice extracting images from their backgrounds, and
+2. Open one of the finished visual arguments from last class, to see how it was done.
+
+But once you've done those, the rest of the time is Open Studio: find and watch tutorials, start the homework reading, experiment with image generators, have some fun! Feel free to post your own work to your in-class-exercise folder, but please _don't_ post anything that you don't have license to distribute... including especially past students' work.
+
+
+### 2a. Extract foreground from background
+
+To save time finding images to work with, I've bundled a few for you in your visual-argument-2025spring repos: look for the "in-class-exercise" folder.
+
+<aside class="alert alert-white">Note that when a repo's subfolder has a README, the GitHub website will also display that when you open the folder. For convenience, I'll reproduce the heart of those instructions here.</aside>
+
+The idea of this exercise is to practice extracting an image from its context, so you can repurpose it in another context. To begin, expand the zipped archive (images.zip) to find a set of five images to work with.
+
+Starting with the image of a hot-air balloon (beverly-and-pack--fly-me-to-the-moon.jpg), experiment with GIMP's tools to select just the balloon – or just the moon, etc. Once it's selected, you can copy it and paste it into a new layer where it can be resized, repositioned, recolored, and so on.
+
+<details open><summary>A few options to consider for selecting</summary>
+    <ul>
+        <li><strong>Scissors select</strong> (edge detection). Using a series of single clicks, trace your way around the border between the foreground and the background. If the contrast is high enough, GIMP should automatically curve the selection lasso along the boundary line.</li>
+        <li><strong>Fuzzy select</strong> ("magic wand") to detects contiguous pixels or <strong>Color select</strong> for non-contiguous pixels, but both based on color similarities. You can adjust the sensitivity (ie. how similar is "similar"?) in the tool options pane. It's often particularly useful to select a relatively monochrome <em>background</em>, allowing you to then Invert Selection to extract a foreground object.</li>
+        <li><strong>Additive/subtractive selection</strong>. With all the select tools, you can hold down combinations of control, shift, and alt/command to change whether you're <em>replacing</em> an existing selection (the default), <em>adding</em> to it, <em>subtracting</em> from it, or finding the <em>intersection</em> between old and new. Try it with the <strong>shape select</strong> (i.e. rectangle or ellipse) and <strong>free select</strong> (lasso) tools – or with either AI-assisted tool above – to iteratively get closer to the selection you want.</li>
+    </ul>
+</details>
 
 <div class="alert alert-info">
-We can work here until about 1:45 and still have time for the generative writing to get you started on your project proposals over the weekend.
+    NB: Because you can edit selection anchors until you're satisfied, you'll want to <strong>press Enter</strong>, double-click inside the selection, or switch to another tool <strong>to confirm the selection.</strong>
 </div>
 
-I'm going to focus on a fairly common task, extracting a foreground object from its background, so you can move it (sometimes to an entirely new background). Here's what I'm using, and you can find it already in your repo (under "in-class exercise"):
+<aside class="alert alert-white">
+If you're a more visual learner and want to see some options in video form, check out <a href="https://www.youtube.com/watch?v=lOzSiOIipSM">5 Ways to Remove a Background with GIMP</a> from Logos By Nick (runtime 6:42).
+</aside>
+Once you have your selection, you can...
 
-<figure role="figure">
-<img src="../assets/img/beverly-and-pack--fly-me-to-the-moon.jpg" alt="A striped hot air balloon floating in a blue sky, darker toward the top of the image. A small, nearly full moon is visible; the ground is not." />
-
-<figcaption>"Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by <a href="https://www.flickr.com/photos/walkadog/">Beverly & Pack</a>, <a href="https://www.flickr.com/photos/walkadog/3897126692/">on Flickr</a>. <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY-2.0</a>.
-</figcaption>
-</figure>
-
-
-A few options to consider:
-* Scissors select (edge detection)
-* Select _background_ and Invert Selection
-* Fuzzy select ("magic wand": contiguous pixels by color similarities)
-* Additive/subtractive selection with shape tools (rectangle, ellipse) and Free select (lasso)
-
-Once we have our selection, we can...
 * Copy and paste to create a new "floating" layer
-* Secure that new layer more permanent status 
+* Click the green page button to secure more permanent status for that new layer
 * Play around with sizes and colors
-    - NB: This is a *raster* editing program, so once something gets smaller, you can't guarantee you'll be able to make it bigger again: pixels get thrown away
-* Transfer to a new file
+    - NB: This is a *raster* editing program, so once something gets smaller, you can't guarantee you'll be able to make it bigger again: pixels get thrown away.
+    - It's often a good idea to **resize a copy** until you find the right position and size, and then move the original directly into that desired destination.
+* Paste into a new file
+* Paste as a repeating pattern
 
-<!--
-1. Image > Canvas Size (use %)
-2. Scissor tool
-3. Copy + Paste -> Floating layer -> anchor as new
-4. Scale layer
-5. Scissor tool (again)
-6. Invert selection, new layer again
-7. Layer to image size
-8. Select vertical rectangle; feather edges
-9. Copy + Paste as pattern
--->
-
-There's quite a bit more, of course, and I encourage you to find tutorials for any task your imagination suggests to you! 
+There's quite a bit more, of course, and I encourage you to find tutorials for any task your imagination suggests to you! I've linked to some on the [../resources] page, but there are a great many more only a search-engine away.
 
 
-## 3a. Loop writing (15 min) <!-- Takes 15 min -->
-For this generative exercise, adapted from [one by Sondra Perl](http://bit.ly/perlfeltsense), you'll need somewhere to write and somewhere to *draw*. Printer paper would be great; a notebook is also okay; the computer's probably not. I like pencil, but your preference may vary.
+### 2b. From flat to layered
 
-<!-- <div class="alert alert-info">
-<p><strong>If you need to take a minute to get those supplies, please do so now.</strong></p>
+Each of the projects I linked to in our last class was in a repository, where you can also find a .xcf GIMP project file (or, in one case, a .psd Photoshop file). <strong>Choose one</strong>, download the file like we did for the [audio workshop](lesson-07), and open it up in the appropriate software.
 
-<p>If you're waiting for everyone else to come back, see if you can close your eyes and listen to your breath. (If this kind of body attention makes you uncomfortable, though, don't do it. Just have patience, and try not to judge.) Think about how you're sitting: where you're supported. Try to alleviate any tension.</p>
-</div> -->
+Consider:
 
-Let's take a few minutes to think in writing about the visual arguments you might want to make. I'll read a series of questions aloud. Repeat them silently to yourself, and when you feel yourself answering, make a list.
+* How did they organize the layers?
+* Try turning the visibility of layers on and off to appreciate how they created the attentional effects you noticed last time.
 
-These lists will remain private, unless you choose to share. I won't ask for them.
+Options:
+<ol>
+    <li><a href="https://github.com/ktdemay/visual-argument-2020spring/blob/master/future.xcf">The Future of Sports</a>, by Kevin DeMaioribus</li>
+    <li><a href="https://github.com/csk32/visual-argument-2020fall/blob/master/Human_Trafficking_updated.xcf">Human Trafficking</a>, by Christianna Kelley</li>
+    <li><a href="https://github.com/fathimashabnam/visual-argument-2019fall/blob/master/VisualArgument.xcf">The Extinction Crisis</a>, by Fathima Shabnam</li>
+    <li><a href="https://github.com/emmaknaub/visual-argument/blob/master/visual_argument.xcf">Radiate</a>, by Emma Knaub</li>
+    <li><a href="https://github.com/anayoungblut/visual-argument-2023spring/blob/main/FINAL/visual%20argument%20FINAL.psd">Don't Do It</a>, by Ana Youngblut</li>
+    <li><a href="https://github.com/suchiattota/visual-argument-2023spring/blob/main/TheCoverUp.xcf">The Cover-Up</a>, by Suchi Attota</li>
+</ol>
 
-1. What ideas do you want help remembering?
-2. Or what do you want to persuade others of?
-3. Is there something you've noticed that you want to bring to the attention of others?
-4. Is there anything else you'd like to add? Something from a course? From an activity or group you participate in? Something you've been reading about? (If there's an idea you thought of working on before coming to class today, be sure to add it now.)
+## Open Studio
 
-Take a moment now to read back over your lists. Is there something that stands out, that says, _me, pick me_? Choose one thing to work with, at least for today, and mark it in some way. Then copy it into a clean page.
+This is your time: find and watch tutorials, start the homework reading (or writing), experiment with image generators. Have some fun!
 
-With that chosen subject, write again:
-
-5. What terms or images come to mind when you think of this subject? ... Think about categories of words: actions vs things. Descriptors.
-6. Is there anything you're forgetting to add to your list? A line from a song? A color?
-7. Who else might be interested in this? Who, that is, could be your audience?
-
-See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
-
-## 3b. Offline sketching (10 min)
-And now, draw. Take a piece of paper, fold it in quarters, and in each quarter sketch out some possibility, some version, of what your idea might look like.
-
-If you can, try to make each image significantly different from each other, to give you options; you can use your lists for inspiration. If you can't think of very different ones, then work to make just _some_ change.
-
-We'll work here for a while.
+<div class="alert alert-success">As always, please set yourself a <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">studio goal in the doc</a>; at the end of class, I'll ask you to write a brief exit note on what you were able to achieve / what your next steps are.</div>
 
 
 
 # Homework for next time:
-* **Review** the unit-assignment [goals and options](https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#project-2-visual-argument--rhetorical-collage) for the rhetorical collage / visual argument, including the Parachute Prompts if you're not sure what to propose.
+
+The main thing will be to write a proposal for your unit project, but first, some design theory and examples!
+
+* **Read** the following articles, each from a series on design principles in _Smashing Magazine_:
+    - [Improve Your Designs With The Principles Of Similarity And Proximity (Part 1)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-principles-similarity-proximity-part-1/), by Jon Hensley
+    - [Improve Your Designs With The Principles Of Closure And Figure-Ground (Part 2)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-the-principles-of-closure-and-figure-ground-part-2/), by Jon Hensley
+    - [Design Principles: Compositional, Symmetrical And Asymmetrical Balance](https://www.smashingmagazine.com/2015/06/design-principles-compositional-balance-symmetry-asymmetry/), by Steven Bradley
+    - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/), by Steven Bradley
+* **Review** the unit-assignment [goals and options](https://github.com/benmiller314/visual-argument-{{site.course.slugterm}}#project-2-visual-argument--rhetorical-collage) for the rhetorical collage / visual argument, including the current baseline requirements and the Parachute Prompts if you're not sure what to propose.
 * **Write** a project proposal, thinking in words about what you'd like to make:
-    - What idea or argument will you try to represent? What _claim_ will you try to make – or, at least, what is the triggering idea (starting point) of that claim?
+    - What idea or argument will you try to present to or illustrate for readers? Or, at least, what is the triggering idea (starting point) of that argument or idea? What intervention will you try to make?
     - Include or link to a **prospective assets list**, i.e. a table of the images you think you'll need and where you might be able to source them. You can choose to include that assets list in the proposal or place it as a file in your repository, to more easily track changes.
     - **Link to your project repository,** so it's easier to find when we get to group work.
 * **Post** your proposal to the appropriate forum on the [Issue Queue]({{site.repo_url}}/issues).
-* **Skim** the visual media [resources]({{site.github_url}}/resources) on the course site, and **read/watch** more deeply in anything that seems like it would help you, whether [advice]({{site.github_url}}/resources#visual) or [material to work with]({{site.github_url}}/resources#visuals).
-  * In particular, I highly recommend the LinkedIn Learning series of videos on "GIMP Essential Training." I've been using GIMP for years, and I confess I learned some things even from the basic tool options videos. The whole series is about 5 hours of material, but I'm not asking you to watch the whole thing in one go! Instead, [I've marked some highlights and starting points]({{site.github_url}}/resources#lil-gimp): please at least view at those, which total around 45 minutes runtime.
-  - Note that there are exercise files, should you want to follow along and make sure it works in practice.
-  - If you have trouble accessing LinkedIn Learning from my links on the Resources page, try [this LIL link instead, which routes through MyPitt](https://my.pitt.edu/launch-task/all/cssd-linkedinlearning?terms=linkedin&roles=); you should have to log in with Pitt Passport once, but then all those direct links should just work! (Fingers crossed.) I am also happy to troubleshoot with you during office hours.

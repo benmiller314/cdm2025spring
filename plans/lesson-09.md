@@ -196,7 +196,7 @@ and also some food for thought...
 
 and let's start thinking as a community:
 
-* **Write** a short blog post, about either the reading or the video. What do you notice? What do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
+* **Write** a short blog post, about either the reading or the video. What do you notice? What do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issue Queue</a>.
     - _optional:_ If you're one of the first five to post, I encourage you to pose questions for your classmates; if you're not, I encourage you to respond to them.
 
 <div class="alert alert-info">NB: We'll have studio next class. Bring headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like</div>
