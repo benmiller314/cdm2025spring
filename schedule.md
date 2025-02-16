@@ -181,7 +181,7 @@ For next time, some software...
 
 <div class="alert alert-info">NB: We'll have studio next class. Bring headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like</div>
 
-<a id="current"/>
+
 <h3>Wednesday, Feb 12 – <a href="plans/lesson-10" id="lesson-10">Lesson 10</a> – Generative Studio</h3>
 <!-- Do the in-class exercise with background extraction / relocating an object. EXT: try it again with a generated image. EXT: start homework reading.  -->
 
@@ -194,7 +194,7 @@ For next time:
     - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/), by Steven Bradley
 * **Write** a visual argument _proposal_, including a prospective asset list and a photo of a rough sketch; see lesson plan for more. **Post** to <a href="{{site.github.issues_url}}">the issue queue</a>
 
-
+<a id="current"/>
 <h3>Monday, Feb 17 – <a href="plans/lesson-11" id="lesson-11">Lesson 11</a> – Visual Rhetorics and Argument</h3>
 <!-- practice vocab by analyzing examples of past student projects: emphasize emphasis; design vs. intervention; audience addressed, audience invoked. -->
 
