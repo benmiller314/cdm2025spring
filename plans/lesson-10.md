@@ -65,6 +65,12 @@ I've got two main ideas for what you might do:
 
 But once you've done those, the rest of the time is Open Studio: find and watch tutorials, start the homework reading, experiment with image generators, have some fun! Feel free to post your own work to your in-class-exercise folder, but please _don't_ post anything that you don't have license to distribute... including especially past students' work.
 
+<!-- FOR NEXT TIME: start with some common settings changes:
+- Settings > Toolbox > uncheck "use tool groups"
+- Settings > Icon Themes > color
+- Activate the Move tool > change default to "Move the current layer"
+
+Also show everyone that the tools are organized in the Tools menu in a way that might be more intuitive. -->
 
 ### 2a. Extract foreground from background
 
@@ -96,10 +102,10 @@ If you're a more visual learner and want to see some options in video form, chec
 Once you have your selection, you can...
 
 * Copy and paste to create a new "floating" layer
-* Click the green page button to secure more permanent status for that new layer
+* Click the green page button (in the lower left of the layers panel) to secure more permanent status for that new layer
 * Play around with sizes and colors
     - NB: This is a *raster* editing program, so once something gets smaller, you can't guarantee you'll be able to make it bigger again: pixels get thrown away.
-    - It's often a good idea to **resize a copy** until you find the right position and size, and then move the original directly into that desired destination.
+    - It's often a good idea to resize **a copy** until you find the right position and size, and then move the original directly into that desired destination. Temporarily lowering the opacity can help you line it up.
 * Paste into a new file
 * Paste as a repeating pattern
 
