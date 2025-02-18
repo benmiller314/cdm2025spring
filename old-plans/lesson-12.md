@@ -107,6 +107,8 @@ Before you leave, please go back into the google doc and reply to your stated in
 
 
 ## For next time:
+
+* If you haven't yet, please **read** [about fonts](https://venngage.com/blog/how-to-choose-fonts/): types, pairings, hierarchies, etc. I expect it should take 10–15 minutes.
 * **Work** to bring in a _full draft_: a solid attempt at a complete visual argument, ideally meeting baseline criteria. Rough edges are still welcome.
   - Remember that you don't need to change the project filename from draft to draft: Why duplicate or triplicate your file storage needs? If it's the same basic project, just further along, you can and keep track of which draft is which by describing what's new in your commit messages.
 * **Continue** taking periodic screenshots and posting meaningful commit messages in Git
