@@ -194,7 +194,7 @@ For next time:
     - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/), by Steven Bradley
 * **Write** a visual argument _proposal_, including a prospective asset list and a photo of a rough sketch; see lesson plan for more. **Post** to <a href="{{site.github.issues_url}}">the issue queue</a>
 
-<a id="current"/>
+
 <h3>Monday, Feb 17 – <a href="plans/lesson-11" id="lesson-11">Lesson 11</a> – Visual Rhetorics and Argument</h3>
 <!-- practice vocab by analyzing examples of past student projects: emphasize emphasis; design vs. intervention; audience addressed, audience invoked. -->
 
@@ -205,7 +205,7 @@ For next time:
 * **Compose and push** a visual argument _preview_; get it started, see how it feels to work with these tools/materials. A workshop-ready draft due in one week.
 
 
-
+<a id="current"/>
 <h3>Wednesday, Feb 19 – <a href="plans/lesson-12" id="lesson-12">Lesson 12</a> – Visual Unit Criteria and Stretch Goals</h3>
 
 For next time:
