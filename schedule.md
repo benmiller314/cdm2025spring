@@ -205,7 +205,7 @@ For next time:
 * **Compose and push** a visual argument _preview_; get it started, see how it feels to work with these tools/materials. A workshop-ready draft due in one week.
 
 
-<a id="current"/>
+
 <h3>Wednesday, Feb 19 – <a href="plans/lesson-12" id="lesson-12">Lesson 12</a> – Visual Unit Criteria and Stretch Goals</h3>
 
 For next time:
@@ -214,7 +214,7 @@ For next time:
 * **Work** toward baseline criteria for your visual argument / rhetorical collage
 * **Compose and push** a workshop-ready *full draft*
 
-
+<a id="current"/>
 <h3>Monday, Feb 24 – <a href="plans/lesson-13" id="lesson-13">Lesson 13</a> – Visual Unit Workshop</h3>
 
 For next time:
