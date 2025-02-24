@@ -712,3 +712,24 @@ blockquote p.bq_cite {
 @media screen and (prefers-reduced-motion: reduce) {
     .animate { animation: none !important; }
   }
+
+
+/* Add keyboard-esque styling for inputs,
+   as per https://dylanatsmith.com/wrote/styling-the-kbd-element and https://codepen.io/kevinpowell/pen/qEBWJYN */
+
+kbd {
+    background: initial;
+    color: initial;
+    font: inherit;
+    margin-inline: 0;
+    padding-inline: 0;
+}
+
+kbd:not(:has(kbd, samp)) {
+    color: #333;
+    background: #eee;
+    border-radius: 4px;
+    padding-inline: 4px;
+    box-shadow: 1px 1px 0 2px lightsteelblue;
+    margin-inline: 0.25ch 0.5ch;
+}
