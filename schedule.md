@@ -214,7 +214,7 @@ For next time:
 * **Work** toward baseline criteria for your visual argument / rhetorical collage
 * **Compose and push** a workshop-ready *full draft*
 
-<a id="current"/>
+
 <h3>Monday, Feb 24 – <a href="plans/lesson-13" id="lesson-13">Lesson 13</a> – Visual Unit Workshop</h3>
 
 For next time:
@@ -224,6 +224,7 @@ For next time:
 * *Optionally*, **write** a post on the <a href="{{site.github.issues_url}}">issue queue</a> with more ideas toward the final / integrative project unit. What further possibilities might you want to explore? Or what do you know you won't have time for now, but maybe could look into and build toward by the end of the term?
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
+<a id="current"/>
 <h3>Wednesday, Feb 26 – <a href="plans/lesson-14" id="lesson-14">Lesson 14</a> – Revision Studio</h3>
 
 For next time:
