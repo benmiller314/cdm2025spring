@@ -224,7 +224,7 @@ For next time:
 * *Optionally*, **write** a post on the <a href="{{site.github.issues_url}}">issue queue</a> with more ideas toward the final / integrative project unit. What further possibilities might you want to explore? Or what do you know you won't have time for now, but maybe could look into and build toward by the end of the term?
 * **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
-<a id="current"/>
+
 <h3>Wednesday, Feb 26 – <a href="plans/lesson-14" id="lesson-14">Lesson 14</a> – Revision Studio</h3>
 
 For next time:
@@ -239,7 +239,7 @@ For next time:
 <strong>Spring break!</strong> No classes on March 3rd or 5th. NB: If you need to <a href="https://www.cgs.pitt.edu/advising/withdrawal-courses">withdraw</a> from any class, forms are due by email no later than end-of-business on Tuesday, March 11.
 </div>
 
-
+<a id="current"/>
 ## Unit IV: Webslinging (HTML + CSS markup)
 {: .unit #unit-4}
 
