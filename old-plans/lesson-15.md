@@ -1,7 +1,15 @@
 
 # Midterm Reflections and Generative Writing
 
-**Work to have done**: finish, at least for now, a Visual Argument / Rhetorical Collage and reflect on it
+<section class="prereqs">
+    <details><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>finish, at least for now, a Visual Argument / Rhetorical Collage</li>
+            <li>Push it to your repo</li>
+            <li>Post a reflection to <a href="{{site.github.issues_url}}/9">the issue queue</a></li>
+        </ul>
+    </details>
+</section>
 
 **Plan for the day**:
 
@@ -14,19 +22,20 @@
 
 
 ## 1. Looking back to look forward
+Welcome back!
 
 We begin with writing, as a way of priming the pump of conversation, but also, really, as a way of letting your thoughts surface: writing can be a way of telling yourself what you think. It can lead to surprises, if you let it. Try to think on the page.
 
 <div class="alert alert-success">
-<p>Below are a series of openings for reflection, focused on (1) surprise; (2) sequence; (3) simile; (4) consumption; and (5) questions. After skimming through, <strong>start with the prompt that speaks the most to you right now, and then move on to others</strong> as you finish answering. Write your response somewhere you'll be able to refer back to it.</p><p><em>NB: Sharing the writing itself will be optional, but I do hope you'll share *some* thoughts aloud today</em>, using your notes to jump off from.</p>
+<p>Below are a series of openings for reflection, focused on (1) surprise; (2) sequence; (3) simile; (4) media consumption; and (5) questions. After skimming through, <strong>start with the prompt that speaks the most to you right now, and then move on to others</strong> as you finish answering. Write your response somewhere you'll be able to refer back to it.</p><p><em>NB: Sharing the writing itself will be optional, but I do hope you'll share *some* thoughts aloud today</em>, using your notes to jump off from.</p>
 </div>
 
 We'll take about 10 minutes here.
 
 <ol class="spaced">
-<li>What, if anything, has <strong>surprised</strong> you over the course of the projects so far: the visual argument, the soundscape narrative, or even the collaborative notes on digital affordances?</li>
+<li>What, if anything, has <strong>surprised</strong> you over the course of the projects so far: the visual argument, the audio narrative, or even the collaborative notes on digital affordances?</li>
 
-<li>What do you see as the goals of this assignment <strong>sequence</strong>? For example, what do you see as the relationship among these projects, including the differences between them – or between these and other writing you've done? Would the projects work together in a different order? Would they work in the same way?</li>
+<li>What do you see as the goals of the assignment <strong>sequence</strong> thus far? For example, what do you see as the relationship among these projects, including the differences between them – or between these and other writing you've done? Would the projects work together in a different order? Would they work in the same way?</li>
 
 <li>See if you can finish one of the following <strong>similes</strong>:<ul><li><em>Writing with {sound, images} is like...</em></li>
 <li><em>Writing with {Audacity, GIMP, Photoshop} is like...</em></li>
@@ -57,12 +66,12 @@ EXT 2: Reflect on your goals for the course: given your goals and expectations w
 
 ## 2. Share and discuss reflections + questions (10-15 min)
 
-Any volunteers to share?
+* Any volunteers to share?
 
-Anyone have a different response?
+* Anyone have a different response?
 
 <!-- Again, I'd really like to get everyone's voices in the room today.  -->
-I want to make sure we leave plenty of time for generative writing toward the new unit, especially with spring break next week, so I'll have to cut us off by 1:30 or so. (Apologies! If we have time later, we can come back.) Any outstanding insights or questions, especially those you'd prefer remain anonymous, please post to the [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes).
+I want to make sure we leave plenty of time for generative writing toward the new unit, so I'll have to cut us off by 1:30 or so. (Apologies! If we have time later, we can come back.) Any outstanding insights or questions, especially those you'd prefer remain anonymous, please post to the [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes).
 
 
 ## 3. Web-design unit overview and assignment
@@ -106,9 +115,9 @@ NB: If you're feeling stuck after the loop writing above, you can turn to one of
 
 ## 5. Offline sketching (10 min)
 <div class="alert alert-success">
-<p>And now, draw. Given what's essential, given your knowledge of how websites work, and given the principles of designing for attention we learned last unit, <strong>make a few quick sketches of your possible website's landing page.</strong></p>
+<p>And now, draw. Given what's essential, given your knowledge of how websites work, and given the principles of designing for attention we learned last unit, <strong>make a few quick sketches of your possible website's landing page, <em>starting with a mobile phone layout.</em></strong></p>
 
-<p><em>Starting with a mobile phone layout</em>, what would you want to make sure visitors to the site will see without having to scroll? Where might they click to go deeper into your site?</p>
+<p>What would you want to make sure visitors to the site will see without having to scroll? Where might they click to go deeper into your site?</p>
 
 <p>Once you have a few options for mobile, consider how you might change the layout given the added space of a laptop screen. What might you add for a full-sized desktop monitor?</p>
 </div>
@@ -130,7 +139,7 @@ Not sure what that should look like? Above all, keep it simple: basic shapes, mi
 * Review sample student website projects:
   - [Fatema Quaid](https://fatemaquaid987.github.io/website/index.html), by Fatema Quaid
   - [Hi, I'm Caela](https://cmgo412.github.io/website-portfolio-2021spring/), by Caela Go
-  - [Loose Leaf](https://cap-alt-delete.github.io/website-portfolio-2021spring/), by Lynn Priestley
+  - [Loose Leaf](https://by-lynn-priestley.github.io/website-portfolio-2021spring/), by Lynn Priestley
   - [The Rwandan Genocide: 100 Days of Silence](https://shreyababu.github.io/website-portfolio-2020fall), by Shreya Babu
 * Consider the collections of work you might want to gather
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.

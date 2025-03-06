@@ -3,7 +3,7 @@
 <section class="prereqs">
     <details><summary><strong>Work to have achieved</strong></summary>
         <ul>
-            <li>An optional short [blog post about possible consolidation-unit projects]({{site.github.issues_url}}/9)</li>
+            <li>An optional short <a href="{{site.github.issues_url}}/9">blog post about possible consolidation-unit projects</a></li>
             <li>Work in pursuit of a final visual argument / rhetorical collage</li>
         </ul>
     </details>
