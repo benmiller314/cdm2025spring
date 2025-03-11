@@ -310,6 +310,10 @@ If you're already experienced at web design and/or you find yourself breezing th
 
 ## Homework for Next Time
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://web.archive.org/web/20220809145153/https://internetingishard.netlify.app/html-and-css/) tutorial as time and interest allow – but *at least up through "Hello, CSS"*
-   - Heads up to fast workers: "float" layouts used to be a big deal, but aren't as widely recommended any more: modern techniques like grid and flex are more flexible, and easier to get right. You can probably skip that chapter, at least for now; the [Resources](../resources) page has links to some Grid tutorials.
-* **Show your work** by pushing your tutorial code to GitHub, presumably inside your tutorials folder.
+* **Sign up** for Kevin Powell's [HTML & CSS for absolute beginners](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners). It requires a free login, but that's mainly to help save your progress; you shouldn't get any spam emails.
+* **Work through** the first three modules. Note that you should be able to *either* read the text *or* watch the videos: they mostly repeat each other's content. Use whichever suits your preferences!
+    - The quick [introduction to the course](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/1-introduction/1-welcome-to-the-course)
+    - [Module 2, on HTML](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/2-html/1-the-languages-that-make-up-the-web)
+    - [Module 3, on CSS](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/3-css/1-what-is-css)
+* **Show your work** by building out the model website he guides you through, _pushing your tutorial code to the tutorials folder of your project repository_.
+  * If your local pages are not working the same as in the tutorial videos, please do check with me! I'll set aside some breakout group time next class, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.

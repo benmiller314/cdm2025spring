@@ -233,7 +233,9 @@ For next time:
 * By **noon on Monday,** post a prose reflection to <a href="{{site.github.issues_url}}">the issue queue</a> that incorporates screenshots of your feedback and of your project workspace as it developed.
     - Annotations on these screenshots are optional but I've found them helpful in the past, and you might, too.
 <!-- BEN HW: Choose sample student website projects to assign. Focus on work by people without prior experience – including Lynn Priestley's tea shop -->
-
+* *Optional* If you haven't yet, spend some time getting to know your plain-text editor.
+  - Can it show two or more files side by side? Can it preview how an html file will render? Does it allow plugins or extensions to enable either of those things?
+  - If you're using VSCode, you may want to check out some [intro tutorials](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6). I also recommend this list of [HTML-specific features and optional settings](https://code.visualstudio.com/docs/languages/html).
 
 <div class="alert alert-warning">
 <strong>Spring break!</strong> No classes on March 3rd or 5th. NB: If you need to <a href="https://www.cgs.pitt.edu/advising/withdrawal-courses">withdraw</a> from any class, forms are due by email no later than end-of-business on Tuesday, March 11.
@@ -255,25 +257,21 @@ For next time:
 
 <a id="current"/>
 <h3>Wednesday, Mar 12 – <a href="plans/lesson-16" id="lesson-16">Lesson 16</a> – Intro to Markup and Web Design</h3>
-<!--
-BEN HW:
-  * Record and post screencast on <nav><ul><li><a>, removing bullets, and resizing with padding. Then update the HW for after break to include this.
-  * Record and post a screencast of building a CSS layout from an offline sketch
--->
 
 For next time:
 
-<!-- NEW AFTER 2023spring: Add semantic HTML tutorial now instead of later! -->
+<div class="alert alert-warning">
+    <p>Excitingly, the website for <a href="https://web.archive.org/web/20220809145153/https://internetingishard.netlify.app/html-and-css/">my up-til-now favorite tutorial</a> is having some pretty <a href="https://internetingishard.netlify.app/html-and-css/">major issues</a>! <strong>But</strong> my still-favorite <span title="don't mock me, it's totally a thing">CSS YouTuber</span> very recently launched an introductory tutorial of his own. <strong>So</strong> I spent a bunch of time yesterday swapping out the tutorial assignments I'd had planned with the new ones you'll now find below.</p>
+    <p>Please bear with me if the timings aren't quite as worked-out: in fact, if you can keep me up to date with how long you're spending on homework this unit, that will help me fine-tune the assignments in response.</p>
+</div>
 
-* *Optional* If you haven't yet, spend some time getting to know your plain-text editor.
-  - Can it show two or more files side by side? Can it preview how an html file will render? Does it allow plugins or extensions to enable either of those things?
-  - If you're using VSCode, you may want to check out some [intro tutorials](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6). I also recommend this list of [HTML-specific features and optional settings](https://code.visualstudio.com/docs/languages/html).
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.netlify.app/html-and-css/) tutorial as you have time for – but **at least parts 1-4** (from Introduction through Hello, CSS).
-    - EXT for speedy workers: if you want to keep going, do The Box Model (part 5), then skip ahead to Semantic HTML before looping back to CSS Selectors, then Web Typography. Beyond that, use links below from our class schedule for things like responsive layout.
-    - Why? Float layouts used to be a big deal, but they're not recommended now that we have better tools in Flexbox and Grid – and better tutorials for those, as well.
-* **Show your work** by pushing your tutorial code to your project repository.
-  * Start by copying the pages as written, before attempting to adapt to your own work: confirm that you can get them to look the same as in the tutorial.
-  * If your pages *aren't* working the same as in the tutorial, please do check with me! I'll set aside some breakout group time when we get back, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
+* **Sign up** for Kevin Powell's [HTML & CSS for absolute beginners](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners). It requires a free login, but that's mainly to help save your progress; you shouldn't get any spam emails.
+* **Work through** the first three modules. Note that you should be able to *either* read the text *or* watch the videos: they mostly repeat each other's content. Use whichever suits your preferences!
+    - The quick [introduction to the course](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/1-introduction/1-welcome-to-the-course)
+    - [Module 2, on HTML](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/2-html/1-the-languages-that-make-up-the-web)
+    - [Module 3, on CSS](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/3-css/1-what-is-css)
+* **Show your work** by building out the model website he guides you through, _pushing your tutorial code to the tutorials folder of your project repository_.
+  * NB: If your pages aren't working the same as in the tutorial, please do check with me! I'll set aside some breakout group time next class, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
 
 <!-- * *Optionally* bring headphones for sonic isolation during studio time -->
 
@@ -282,9 +280,9 @@ For next time:
 
 <!--
 
-EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own. That is, once you have the tutorial working, try swapping in your own content for the tutorial's: an about page, an image or two, a linked credits page. And if not today, then Thursday
+EXT: Self-paced tutorialing, using the lessons to build prelim pages of your own. That is, once you have the tutorial working, try swapping in your own content for the tutorial's: an about page, an image or two, a linked credits page. And if not today, then next time
 
-NEW AFTER 2020fall: Troubleshoot with Ben in a breakout room if your content doesn't work like the tutorial's.
+Troubleshoot with Ben if your content doesn't work like the tutorial's.
 
 NEW AFTER 2023spring: Suggest the Web Typography lesson as an EXT, and then as a priority for in-class work next class.
 
@@ -292,22 +290,29 @@ EXT: [Improve Your Designs With The Principles Of Continuation And Common Fate (
 
 -->
 
-* **Do** more of the [Internetingishard tutorial](https://internetingishard.netlify.app/html-and-css/), including at least The Box Model, Semantic HTML (skip down), and CSS Selectors (skip back up) if you haven't yet.
-    - EXT for speedy workers: after CSS Selectors, jump down to Web Typography. Beyond that, use links below from our class schedule for things like responsive layout. The rest of the Internetingishard tutorial is best saved as advanced or historical topics beyond what I'll assign across the rest of the unit.
-* **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
-<!-- * **View** screencast on using <nav><ul><li></a> and CSS to remove bullets ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model. -->
+* **Work through** more of the [HTML & CSS tutorial](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners):
+    - [Module 4: The box model](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/4-the-box-model/1-everything-is-a-box)
+    - [Module 5: Selectors, Specificity, and more styling](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/5-selectors-specificity-and-more-styling/1-time-for-version-2)
+* _Optional EXT:_ Want to get deeper?
+    - See if the old tutorial's page on [Web Typography](https://internetingishard.netlify.app/html-and-css/web-typography/) is up and running
+        - Remember your resources on fonts from the previous unit? They can help you here, too!
+    - Read more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
+    - Try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/).
 
 
 <h3>Wednesday, Mar 19 – <a href="plans/lesson-18" id="lesson-18">Lesson 18</a> – Studio / Navigation</h3>
 
-<!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>. -->
+<!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>.
+-->
 
 For next time:
 
 * **View** Kevin Powell's video on [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=4) (runtime: 15:53 at 1x speed)
-* **Do** the Internetingishard tutorial on Web Typography if you haven't yet.
-    - Remember your resources on fonts from the previous unit? They can help you here, too!
 * **Compose and push** a _first draft_ of your website: a beginning, focused on html content and mobile (i.e. minimal) design.
+* _Recommended EXT:_ **Read** [Getting Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started) and recall your knowledge of font choices from the visual unit to **choose** one main body font and one main header font (or consciously keep them the same, but at different weights / font sizes)
+* _EXT for eager readers:_ Want still more advice?
+    - Dive back into design principles: [Improve Your Designs With The Principles Of Continuation And Common Fate (Part Three)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-the-principles-of-continuation-and-common-fate-part-three/)
+    - Get into the weeds with web fonts: [Choosing web fonts: A beginner's all-in-one guide](https://fonts.google.com/knowledge/choosing_type/choosing_web_fonts_beginners_guide)
 
 
 <h3>Monday, Mar 24 – <a href="plans/lesson-19" id="lesson-19">Lesson 19</a> – Web Unit Studio / Deployment</h3>
@@ -323,11 +328,16 @@ For next time:
 
 For next time:
 
-* **Read** Josh Comeau's [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) and [Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-    - EXT: Want some layout templates and examples? Try Powell's follow-up video on some common patterns, [Useful & Responsive Layouts, no Media Queries required](https://www.youtube.com/watch?v=p3_xN2Zp1TY).
-    - EXT: Want even *more* layout templates and examples? Try Rachel Andrew's [Grid By Example](https://gridbyexample.com/patterns/), which also has video tutorials.<!-- * **Test** your skills with https://flexboxfroggy.com/  - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors. -->
-* **Compose and push** a _second draft_, now adding or updating desktop layout.
+* **Work through** tutorial [Module 6: Layouts](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/6-layouts/1-creating-layouts-with-css)
+    - NB: when you get to [Flexible layouts with Flexbox](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/6-layouts/5-flexible-layouts-with-flexbox), there's a typo in the first interactive code block: he says there are two layouts, one using grid and one using flex, but the HTML only has one. You can fix it with a little copy-paste! Just edit the class on the outer `div` so you have one `<div class="flex">` and one `<div class="grid">`.
+* Also **watch** Powell's [Useful & Responsive Layouts, no Media Queries required](https://www.youtube.com/watch?v=p3_xN2Zp1TY).
+* **Compose and push** a _second draft_, now adding or updating layout for larger screens (i.e. desktop).
     - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
+
+* EXT: Here are some things I was _planning_ to assign before I switched to the new tutorial. They're still great, and get into more depth than the Layouts tutorial does, but I'll make them _optional_ now:
+    - Josh Comeau's [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) and [Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+    - (This was always an EXT:) Want even *more* layout templates and examples? Try Rachel Andrew's [Grid By Example](https://gridbyexample.com/patterns/), which also has video tutorials.<!-- * **Test** your skills with https://flexboxfroggy.com/  - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors. -->
+
 <!-- A full, workshop-ready draft of your website project is due in one week. -->
 
 <h3>Wednesday, Mar 26 – <a href="plans/lesson-20" id="lesson-20">Lesson 20</a> – Web Unit Criteria and Stretch Goals / Studio</h3>
@@ -349,11 +359,11 @@ For next time:
 <h3>Monday, Mar 31 – <a href="plans/lesson-21" id="lesson-21">Lesson 21</a> – Web Unit Workshop </h3>
 For next time:
 
-* Optionally, **write** one more blog post about what you'd like to do in our final / integrative unit. What further possibilities might you want to explore? Or what do you know you won't have time for now, but maybe could look into and build toward by the end of the term? NB: If you're interested in finding people to collaborate with, this is a good time to make a pitch!
-    - Post this to <a href="{{site.github.issues_url}}">the issue queue</a>, as usual
 * Continue to **save, commit, and push** toward your project, incorporating feedback from partners.
     - If you didn't get feedback, please **let me know** asap!
-    - If you haven't finished *giving* feedback, please do so asap, and no later than noon on Wednesday for full credit.
+    - If you haven't finished *giving* feedback, please do so asap, and no later than noon on Wednesday for full credit.    
+* Optionally, **write** one more blog post about what you'd like to do in our final / integrative unit. What further possibilities might you want to explore? Or what do you know you won't have time for now, but maybe could look into and build toward by the end of the term? NB: If you're interested in finding people to collaborate with, this is a good time to make a pitch!
+    - Post this to <a href="{{site.github.issues_url}}">the issue queue</a>, as usual
 
 <!-- <div class="alert alert-danger">
 <span style="color: #c51100;">Heads up: This will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details, but please try to leave your feedback <em>by Thursday morning if possible</em>, so your classmates have the studio time to revise with your input in mind. If you can finish by the end of our usual classtime, all the better!</span>
