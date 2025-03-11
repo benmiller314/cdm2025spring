@@ -239,7 +239,7 @@ For next time:
 <strong>Spring break!</strong> No classes on March 3rd or 5th. NB: If you need to <a href="https://www.cgs.pitt.edu/advising/withdrawal-courses">withdraw</a> from any class, forms are due by email no later than end-of-business on Tuesday, March 11.
 </div>
 
-<a id="current"/>
+
 ## Unit IV: Webslinging (HTML + CSS markup)
 {: .unit #unit-4}
 
@@ -253,7 +253,7 @@ For next time:
 * Consider the collections of work you might want to gather
 * **Write** a _website proposal_, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
-
+<a id="current"/>
 <h3>Wednesday, Mar 12 – <a href="plans/lesson-16" id="lesson-16">Lesson 16</a> – Intro to Markup and Web Design</h3>
 <!--
 BEN HW:

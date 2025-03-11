@@ -1,7 +1,20 @@
 
 # Intro to Markup and Web Design
 
-**Work to have done**: Write a website proposal and post it to the <a href="{{site.github.issues_url}}">issue queue</a>
+<section class="prereqs">
+    <details><summary><strong>Texts to have read</strong></summary>
+        <ul>
+            <li>The <a href="https://github.com/benmiller314/webs{{site.course.slugterm}}">website portfolio assignment</a></li>
+        </ul>
+    </details>
+    <details><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>Fork the assignment repo</li>
+            <li>Write a website proposal and post it to the <a href="{{site.github.issues_url}}">issue queue</a></li>
+        </ul>
+    </details>
+</section>
+
 
 **Plan for the day**:
 
@@ -13,10 +26,9 @@
 
 
 <aside>
-<p>A quick note about your proposals: First, I'm excited to see how many great ideas you have! If you haven't yet posted and want to talk to me, please email or come to office hours. And don't forget about those parachute prompt options...</p>
+    <p>A quick note about your proposals: First, I'm excited to see how many great ideas you have! If you haven't yet posted and want to talk to me, please email or come to office hours. And don't forget about those parachute prompt options...</p>
 
-<p>Second: I want to warn you about the risks of scope creep. If you're still learning HTML and CSS, <em>you probably want to limit how much new material you need to actively research or compose.</em> Instead, <strong>plan around a minimum deliverable product</strong>, with stretch goals on top of that. For example, could you create a mockup with <a href="https://loremipsum.io/">Lorem Ipsum</a> (placeholder) text and images, and then work on replacing it if time allows? Could you try writing just one or two blog posts at first, but build space for where more will go?</p>
-
+    <p>Second: I want to warn you about the risks of scope creep. If you're still learning HTML and CSS, <em>you probably want to limit how much new material you need to actively research or compose.</em> Instead, <strong>plan around a minimum deliverable product</strong>, with stretch goals on top of that. For example, could you create a mockup with <a href="https://loremipsum.io/">Lorem Ipsum</a> (placeholder) text and images, and then work on replacing it if time allows? Could you try writing just one or two blog posts at first, but build space for where more will go?</p>
 </aside>
 
 
@@ -134,10 +146,10 @@ One nice thing about having the tags themselves marked by angle brackets is that
 <table class="table table-bordered thead-light">
   <thead>
     <tr>
-      <th>what we’re marking</th>
-      <th>Markdown syntax</th>
-      <th>HTML syntax</th>
-      <th>what you get</th>
+      <th scope="col">what we’re marking</th>
+      <th scope="col">Markdown syntax</th>
+      <th scope="col">HTML syntax</th>
+      <th scope="col">what you get</th>
     </tr>
   </thead>
   <tbody>
@@ -148,10 +160,10 @@ One nice thing about having the tags themselves marked by angle brackets is that
       <td><a href="http://destination">anchor text</a></td>
     </tr>
     <tr>
-      <td>a hyperlink with extra info</td>
+      <td>a hyperlink with special styling</td>
       <td><em>no default way to do it!</em></td>
-      <td><span title="title text is what you see on hover"><code class="language-plaintext highlighter-rouge">&lt;a href="http://destination" title="Explanation of where link goes"&gt;anchor text&lt;/a&gt;</code></span></td>
-      <td><a href="http://destination"  title="Explanation of where link goes">anchor text</a></td>
+      <td><span title="a class on an HTML element lets you select that element for a CSS rule"><code class="language-plaintext highlighter-rouge">&lt;a href="http://destination" class="alert-success"&gt;anchor text&lt;/a&gt;</code></span></td>
+      <td><a href="http://destination" class="alert-success" title="a class on an HTML element lets you select that element for a CSS rule">anchor text</a></td>
     </tr>
   </tbody>
 </table>
@@ -164,15 +176,18 @@ Right-click in any blank spot on the page, and choose **View Source** from the c
 
 Let's have a look!
 
-<div class="alert alert-warning"><p>NB: Chrome and Firefox have the best tools for web development, as we'll see. If you're using Safari, you won't see View Source by default. But you can <a href="https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/EnableWebInspector/EnableWebInspector.html">activate it under Safari &gt; Preferences &gt; Advanced</a>, down on the bottom: "Show Develop menu in menu bar."</p>
+<details open class="alert alert-warning"><summary>A note about web browsers, especially Safari</summary>
+    <p>NB: Chrome and Firefox have the best tools for web development, as we'll see. If you're using Safari, you won't see View Source by default. But you can <a href="https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/EnableWebInspector/EnableWebInspector.html">activate it under Safari &gt; Preferences &gt; Advanced</a>, down on the bottom: "Show Develop menu in menu bar."</p>
 
-<details><summary>Show me</summary>
-<figure><img src="https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/Art/00developmenu_2x.png" alt="screenshot of Safari advanced preferences page" /></figure>
-</details>
+    <details><summary>Show me</summary>
+        <figure>
+            <img src="https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/Art/00developmenu_2x.png" alt="The option to 'Show Develop menu in menu bar' is at the end of the Advanced tab of Preferences" />
+            <figcaption>Safari's advanced preferences page</figcaption>
+        </figure>
+    </details>
 
-<p>While you're there, you may want to tell the Smart Search Field to <a href="https://apple.stackexchange.com/questions/371473/always-show-full-url-in-safari-address-bar">show the full site address</a>, too. URLs often contain a lot more useful info than just the home page!</p>
-
-</div>
+    <p>While you're there, you may want to tell the Smart Search Field to <a href="https://apple.stackexchange.com/questions/371473/always-show-full-url-in-safari-address-bar">show the full site address</a>, too. URLs often contain a lot more useful info than just the home page!</p>
+</details> <!-- end of browser support note -->
 
 <details><summary>A few things to note in the Zen Garden source</summary>
 <ul class="spaced">
@@ -187,7 +202,7 @@ Let's have a look!
 
 ### CSS in practice
 
-**CSS functions by _selecting_ labeled content** – HTML elements or classes, and sometimes other contextual cues – **and assigning _rules_** for how to display what's been selected.
+**CSS works by _selecting_ labeled content** – HTML elements or classes, and sometimes other contextual cues – **and assigning _rules_** for how to display what's been selected.
 
 These rules generally live in a _style sheet_ that's linked inside the `head` element of the HTML document.
 
@@ -207,20 +222,20 @@ You'll want to come back to this when you're working on your own designs!
 <!-- If that's too much, we could go back to the [codepen](https://codepen.io/benmiller314/pen/poJROZM), using the examples from the tutorial's Introduction and modifying from there. -->
 
 
-## VS Code orientation, then start the homework tutorial
+## Text Editor orientation, then start the homework tutorial
 
 For now, though, I suspect for many of you it'll be most useful to get your feet back on the ground.
 
-I'll be asking you to work through the tutorials at [Interneting is Hard (but it doesn't have to be)](https://www.internetingishard.netlify.app), starting over break with at least the first four chapters: that will take you from "what is HTML?" through "Hello, CSS!"
+I'll be asking you to work through the tutorials at [Interneting is Hard (but it doesn't have to be)](https://web.archive.org/web/20220809144627/https://internetingishard.netlify.app/html-and-css/index.html), starting with the first four chapters: that will take you from "what is HTML?" through "Hello, CSS!"
 
 <div class="alert alert-success"><p>Before you leave today, I want to make sure you're able to get up and running with your text editor and a browser, and seeing how they interact.</p></div>
 
-The first chapter of the tutorial ("Introduction") mostly covers what we just talked about, and – unlike every other chapter – doesn't include any hands-on code examples that you're supposed to copy. So for today's class, I'd like you to **start with chapter two: "[Basic Web Pages](https://www.internetingishard.netlify.app/html-and-css/basic-web-pages/)"**.
+The first chapter of the tutorial ("Introduction") mostly covers what we just talked about, and – unlike every other chapter – doesn't include any hands-on code examples that you're supposed to copy. So for today's class, I'd like you to **start with the second chapter: "[Basic Web Pages](https://web.archive.org/web/20220809144627/https://internetingishard.netlify.app/html-and-css/basic-web-pages/)"**.
 
 
 ### Key VS Code features that will make your life easier
 
-If you haven't yet done so, clone your forked repository onto your local computer, and open it up: GitHub Desktop should even give you the option to do so directly in your text editor of choice. 
+If you haven't yet done so, clone your forked repository onto your local computer, and open it up: GitHub Desktop should even give you the option to do so directly in your text editor of choice.
 
 <figure><img src="../assets/img/github-desktop--open-in-vscode.png" alt="GH Desktop's open in editor button appears when there are no changes to commit.'" />
 </figure>
@@ -230,16 +245,8 @@ If at any time you need to open the files from VS Code directly, you can also op
 <figure><img src="../assets/img/vscode--open-folder.png" alt="VS Code's open folder button appears in the explorer when you haven't yet specified your workspace.'" style="max-height:40vh" />
 </figure>
 
-NB: If you're using another text editor, look for ways your editor can do these things, too!
+NB: If you're using another text editor, like Pulsar, rest assured that your editor can do these things, too!
 
-
-<!-- NOTES FROM 2022 SPRING:
-* Demo with the webs assignment repo, not your lesson plan. *Show* the tutorials folder and its subfolders.
-* Right-click the sidebar to create a new file/folder
-* Right-click the sidebar to Show in Finder, double-click to open in your web browser. (How did you not have this?!)
-* SKIP THE REST – newbies don't need to know about the shortcuts yet, oldbies (oldbies??) don't need to be told – and you've been talking for 45 minutes already. 
-
- -->
 
 * Create new files and folders within the explorer (right-click on a blank space)
 
@@ -249,9 +256,7 @@ NB: If you're using another text editor, look for ways your editor can do these 
   - View your HTML and CSS files at the same time! Or any two files. Or three, or six if you want to split top/bottom, too. It's the best.
 
 
-<!-- * Comment out current line (Edit > Toggle Comment or the more-convenient keyboard shortcut: look in your menu) -->
 
- 
 
 ### Okay, go ahead and do chapter 2!
 
@@ -305,6 +310,6 @@ If you're already experienced at web design and/or you find yourself breezing th
 
 ## Homework for Next Time
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.netlify.app/html-and-css/) tutorial as time and interest allow – but *at least parts 1-4* (from "Introduction" through "Hello, CSS")
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://web.archive.org/web/20220809145153/https://internetingishard.netlify.app/html-and-css/) tutorial as time and interest allow – but *at least up through "Hello, CSS"*
    - Heads up to fast workers: "float" layouts used to be a big deal, but aren't as widely recommended any more: modern techniques like grid and flex are more flexible, and easier to get right. You can probably skip that chapter, at least for now; the [Resources](../resources) page has links to some Grid tutorials.
 * **Show your work** by pushing your tutorial code to GitHub, presumably inside your tutorials folder.
