@@ -181,7 +181,7 @@ Let's have a look!
 
     <details><summary>Show me</summary>
         <figure>
-            <img src="https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/Art/00developmenu_2x.png" alt="The option to 'Show Develop menu in menu bar' is at the end of the Advanced tab of Preferences" />
+            <img src="https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/Art/00developmenu_2x.png" alt="The option to 'Show Develop menu in menu bar' is at the end of the Advanced tab of Preferences." />
             <figcaption>Safari's advanced preferences page</figcaption>
         </figure>
     </details>
@@ -310,10 +310,16 @@ If you're already experienced at web design and/or you find yourself breezing th
 
 ## Homework for Next Time
 
+<div class="alert alert-warning">
+    <p>Excitingly, the website for <a href="https://web.archive.org/web/20220809145153/https://internetingishard.netlify.app/html-and-css/">my up-til-now favorite tutorial</a> is having some pretty <a href="https://internetingishard.netlify.app/html-and-css/">major issues</a>! <strong>But</strong> my still-favorite <span title="don't mock me, it's totally a thing">CSS YouTuber</span> very recently launched an introductory tutorial of his own. <strong>So</strong> I spent a bunch of time yesterday swapping out the tutorial assignments I'd had planned with the new ones you'll now find below.</p>
+    <p>Please bear with me if the timings aren't quite as worked-out: in fact, if you can keep me up to date with how long you're spending on homework this unit, that will help me fine-tune the assignments in response.</p>
+</div>
+
 * **Sign up** for Kevin Powell's [HTML & CSS for absolute beginners](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners). It requires a free login, but that's mainly to help save your progress; you shouldn't get any spam emails.
 * **Work through** the first three modules. Note that you should be able to *either* read the text *or* watch the videos: they mostly repeat each other's content. Use whichever suits your preferences!
     - The quick [introduction to the course](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/1-introduction/1-welcome-to-the-course)
     - [Module 2, on HTML](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/2-html/1-the-languages-that-make-up-the-web)
     - [Module 3, on CSS](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/3-css/1-what-is-css)
 * **Show your work** by building out the model website he guides you through, _pushing your tutorial code to the tutorials folder of your project repository_.
-  * If your local pages are not working the same as in the tutorial videos, please do check with me! I'll set aside some breakout group time next class, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
+    - Note that the subfolders there referred to the old tutorial, so you'll want to replace them with the folders recommended in the new tutorial.
+    - If your local pages are not working the same as in the tutorial videos, please do check with me! I'll set aside some breakout group time next class, but feel free to email or use the [issue queue]({{site.github.issues_url}}) in the meantime: see if your question's been answered, and if not, [post a new issue]({{site.github.issues_url}}/new/choose), because you're probably not alone.
