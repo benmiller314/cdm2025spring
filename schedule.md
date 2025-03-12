@@ -261,7 +261,7 @@ For next time:
 For next time:
 
 <div class="alert alert-warning">
-    <p>Excitingly, the website for <a href="https://web.archive.org/web/20220809145153/https://internetingishard.netlify.app/html-and-css/">my up-til-now favorite tutorial</a> is having some pretty <a href="https://internetingishard.netlify.app/html-and-css/">major issues</a>! <strong>But</strong> my still-favorite <span title="don't mock me, it's totally a thing">CSS YouTuber</span> very recently launched an introductory tutorial of his own. <strong>So</strong> I spent a bunch of time yesterday swapping out the tutorial assignments I'd had planned with the new ones you'll now find below.</p>
+    <p>Excitingly, the website for <a href="https://internetingishard.netlify.app/html-and-css/">my up-til-now favorite tutorial</a> is having some pretty major issues (at least intermittently)! <strong>But</strong> my still-favorite <span title="don't mock me, it's totally a thing">CSS YouTuber</span> very recently launched an introductory tutorial of his own. <strong>So</strong> I spent a bunch of time yesterday swapping out the tutorial assignments I'd had planned with the new ones you'll now find below.</p>
     <p>Please bear with me if the timings aren't quite as worked-out: in fact, if you can keep me up to date with how long you're spending on homework this unit, that will help me fine-tune the assignments in response.</p>
 </div>
 

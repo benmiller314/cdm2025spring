@@ -224,16 +224,9 @@ You'll want to come back to this when you're working on your own designs!
 
 ## Text Editor orientation, then start the homework tutorial
 
-For now, though, I suspect for many of you it'll be most useful to get your feet back on the ground.
+For now, though, I suspect for many of you it'll be most useful to get your feet back on the ground. I'll be asking you to work through some more concrete tutorials for homework, building out a simple site from a shared design so you can get a feel for the steps before building your own.
 
-I'll be asking you to work through the tutorials at [Interneting is Hard (but it doesn't have to be)](https://web.archive.org/web/20220809144627/https://internetingishard.netlify.app/html-and-css/index.html), starting with the first four chapters: that will take you from "what is HTML?" through "Hello, CSS!"
-
-<div class="alert alert-success"><p>Before you leave today, I want to make sure you're able to get up and running with your text editor and a browser, and seeing how they interact.</p></div>
-
-The first chapter of the tutorial ("Introduction") mostly covers what we just talked about, and – unlike every other chapter – doesn't include any hands-on code examples that you're supposed to copy. So for today's class, I'd like you to **start with the second chapter: "[Basic Web Pages](https://web.archive.org/web/20220809144627/https://internetingishard.netlify.app/html-and-css/basic-web-pages/)"**.
-
-
-### Key VS Code features that will make your life easier
+<div class="alert alert-success">Before you leave today, I want to make sure you're able to get up and running with your text editor and a browser, and seeing how they interact.</div>
 
 If you haven't yet done so, clone your forked repository onto your local computer, and open it up: GitHub Desktop should even give you the option to do so directly in your text editor of choice.
 
@@ -245,8 +238,13 @@ If at any time you need to open the files from VS Code directly, you can also op
 <figure><img src="../assets/img/vscode--open-folder.png" alt="VS Code's open folder button appears in the explorer when you haven't yet specified your workspace.'" style="max-height:40vh" />
 </figure>
 
-NB: If you're using another text editor, like Pulsar, rest assured that your editor can do these things, too!
+### Key code editing features that will make your life easier
 
+<aside>
+NB: If you're using another text editor, like Pulsar, rest assured that your editor can do these things, too! I'm mainly showing VS Code because, if anything, I find Pulsar a little more straightforward.
+</aside>
+
+**Let's confirm that you can...**
 
 * Create new files and folders within the explorer (right-click on a blank space)
 
@@ -258,29 +256,38 @@ NB: If you're using another text editor, like Pulsar, rest assured that your edi
 
 
 
-### Okay, go ahead and do chapter 2!
+### Okay, go ahead and start the tutorial!
 
-NB: I've already created folders for parts 1-3 in the GH repo you just forked and cloned, so you should be able to work in those folders and push.
-- Therefore, _you can skip the step of creating a new folder_ in chapters 2 and 3: you already have one.
-- You will, however, need to add your own folders for part 4 and thereafter.
+<div class="alert alert-warning">
+    <p>Excitingly, the website for <a href="https://internetingishard.netlify.app/html-and-css/">my up-til-now favorite tutorial</a> is having some pretty major issues (at least intermittently)! <strong>But</strong> my still-favorite <span title="don't mock me, it's totally a thing">CSS YouTuber</span>, Kevin Powell, very recently launched <a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">an introductory tutorial of his own.</a> <strong>So</strong> I spent a bunch of time yesterday swapping out the tutorial assignments I'd had planned with these new ones.</p>
+    <p>Please bear with me if the timings aren't quite as worked-out: in fact, if you can keep me up to date with how long you're spending on homework this unit, that will help me fine-tune the assignments in response.</p>
+</div>
+
+Get through as much as you can of...
+- The quick [introduction to the course](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/1-introduction/1-welcome-to-the-course)
+- [Module 2, on HTML](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/2-html/1-the-languages-that-make-up-the-web), which hopefully repeats and clarifies some of what we discussed today, before extending it
+- [Module 3, on CSS](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/3-css/1-what-is-css)
+
+**Show your work** by building out the model website he guides you through, _pushing your tutorial code to the tutorials folder of your project repository_. (Note, though, that the subfolders there referred to the old tutorial, so you'll want to replace them with the folders recommended in the new tutorial.)
+
+As Powell explains in the introduction, you can for the most part either read or view the videos – they mostly repeat each other at varying degrees of detail. Some people will find the videos easier to follow, others will find the text easier to search through as a reference. Do whichever you find clearest, or a combination!
 
 I'll float around and help.
 
 
-## EXT: Tour of unit resources
+## EXT: Web unit resources
 
-If possible, I do want to give you a quick overview of the assets and advice I've compiled so far on [the course site's resources page]({{site.github.url}}/resources).
+If possible, please at least skim through the assets and advice I've compiled so far on [the course site's resources page]({{site.github.url}}/resources).
 
 <div class="alert alert-info">
-If you're already experienced at web design and/or you find yourself breezing through the Interneting is Hard tutorial, you can find other self-paced learning opportunities here.
+If you're already experienced at web design and/or you find yourself breezing through the assigned tutorial, you can find other self-paced learning opportunities here.
 </div>
 
-<section id="vscode-extensions">
-  <h3>Of particular note: Extensions for VS Code</h3>
-   <p>NB: If there's something you expect VSCode to do, but it doesn't, chances are someone's already coded an Extension to make VSCode do it.</p>
-
+<details id="vscode-extensions"><summary><strong>Of particular note: Text editor extensions </strong>
+   <p>NB: If there's something you expect VSCode or Pulsar to do, but it doesn't, chances are someone's already coded an Extension to make the program do it.</p>
+  </summary>
   <div class="alert alert-info">
-  To search for, install, or otherwise manage extensions, <strong>go to View > Extensions</strong> or click on the icon that looks like building blocks. You can search from the top bar.
+  To search for, install, or otherwise manage extensions, <strong>in VS Code, go to View > Extensions</strong> or click on the icon that looks like building blocks. You can search from the top bar. <strong>In Pulsar, use Packages > Open Package Manager > + Install</strong>.
   </div>
 
   <p>Some extensions I expect you'll find useful:</p>
@@ -305,15 +312,10 @@ If you're already experienced at web design and/or you find yourself breezing th
       </ul>
 
   <p>Read the README inside any installed package for tips on how to use it. This will open just like any other file, so you can move it, split it, etc.</p>
-</section>
+</details>
 
 
 ## Homework for Next Time
-
-<div class="alert alert-warning">
-    <p>Excitingly, the website for <a href="https://web.archive.org/web/20220809145153/https://internetingishard.netlify.app/html-and-css/">my up-til-now favorite tutorial</a> is having some pretty <a href="https://internetingishard.netlify.app/html-and-css/">major issues</a>! <strong>But</strong> my still-favorite <span title="don't mock me, it's totally a thing">CSS YouTuber</span> very recently launched an introductory tutorial of his own. <strong>So</strong> I spent a bunch of time yesterday swapping out the tutorial assignments I'd had planned with the new ones you'll now find below.</p>
-    <p>Please bear with me if the timings aren't quite as worked-out: in fact, if you can keep me up to date with how long you're spending on homework this unit, that will help me fine-tune the assignments in response.</p>
-</div>
 
 * **Sign up** for Kevin Powell's [HTML & CSS for absolute beginners](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners). It requires a free login, but that's mainly to help save your progress; you shouldn't get any spam emails.
 * **Work through** the first three modules. Note that you should be able to *either* read the text *or* watch the videos: they mostly repeat each other's content. Use whichever suits your preferences!
