@@ -18,9 +18,9 @@
 
 **Plan for the day**:
 
-1. Introduction to markup and style
-2. Brief tour of key VSCode features (and key extensions)
-3. Start the tutorial (with chapter 2)
+1. Introduction to HTML markup and CSS style (30–40 min)
+2. Brief tour of key text editor features (5–10 min)
+3. Start the homework tutorial 
 4. EXT: Tour of unit resources
 5. HW for next time
 
