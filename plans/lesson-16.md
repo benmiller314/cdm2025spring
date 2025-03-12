@@ -321,6 +321,8 @@ If you're already experienced at web design and/or you find yourself breezing th
 ## Homework for Next Time
 
 * **Sign up** for Kevin Powell's [HTML & CSS for absolute beginners](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners). It requires a free login, but that's mainly to help save your progress; you shouldn't get any spam emails.
+    - If you're unable to log in, even at home (though I'm hopeful the delay will help), you can also work through the old tutorial at [Interneting is Hard (but it doesn't have to be)](https://internetingishard.netlify.app/html-and-css/). Work through *up through "Hello, CSS"*
+        - If you're zooming through: "float" layouts used to be a big deal, but aren't recommended any more: modern techniques like grid and flex are more flexible, and easier to get right. So please _skip that chapter_ and instead skip ahead to read about Web Typography and Semantic HTML. The [Resources](../resources) page also has links to some resources on Grid layout that will serve you better and that won't be covered in the old tutorial.
 * **Work through** the first three modules. Note that you should be able to *either* read the text *or* watch the videos: they mostly repeat each other's content. Use whichever suits your preferences!
     - The quick [introduction to the course](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/1-introduction/1-welcome-to-the-course)
     - [Module 2, on HTML](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/2-html/1-the-languages-that-make-up-the-web)
