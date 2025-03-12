@@ -20,7 +20,7 @@
 
 1. Introduction to HTML markup and CSS style (30–40 min)
 2. Brief tour of key text editor features (5–10 min)
-3. Start the homework tutorial 
+3. Start the homework tutorial
 4. EXT: Tour of unit resources
 5. HW for next time
 
@@ -28,12 +28,15 @@
 <aside>
     <p>A quick note about your proposals: First, I'm excited to see how many great ideas you have! If you haven't yet posted and want to talk to me, please email or come to office hours. And don't forget about those parachute prompt options...</p>
 
-    <p>Second: I want to warn you about the risks of scope creep. If you're still learning HTML and CSS, <em>you probably want to limit how much new material you need to actively research or compose.</em> Instead, <strong>plan around a minimum deliverable product</strong>, with stretch goals on top of that. For example, could you create a mockup with <a href="https://loremipsum.io/">Lorem Ipsum</a> (placeholder) text and images, and then work on replacing it if time allows? Could you try writing just one or two blog posts at first, but build space for where more will go?</p>
+    <p>Second: I want to warn you about the risks of scope creep. If you're still learning HTML and CSS, <em>you probably want to limit how much new material you need to actively research or compose.</em> Instead, <strong>plan around a minimum deliverable product</strong>, with stretch goals on top of that. For example, could you create a mockup with <a href="https://loremipsum.io/">Lorem Ipsum</a> (placeholder) text and images, and then work on replacing it if time allows? Could you try writing just one or two blog posts or location descriptions at first, but build space for where more will go?</p>
 </aside>
 
 
 
 ## 1. Introduction to markup and style
+
+Can I once again get a couple of volunteers to [take notes](https://docs.google.com/document/d/1m1RqbKSqK77jTssbd3VESc3GhEjDf5WNpdLkVKZzZVU/edit?tab=t.0#heading=h.5dpgm2qxflva) / monitor anonymous questions today?
+
 
 ### Begin in the garden
 Before we dive in deep, <strong>come with me to the <a href="http://www.csszengarden.com">CSS Zen Garden</a></strong>.
