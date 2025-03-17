@@ -1,6 +1,35 @@
 
 # Intro to Markup and Web Design
 
+<!--
+NOTES after SPRING 2025: This isn't working well. Too much talk, too little information. Need a new strategy.
+
+1. Keep the Zen Garden opening, but openly introduce it as a showcase of design strategies, giving a justification for finding that menu. Then just click through to different designs without reference to your notes. ASK THE STUDENTS to identify carry-overs from the previous unit.
+
+2. When you get up to the HTML source for that page, download it and open in a browser to show what it looks like to have no styling.
+
+3. Use the inspector tools to add some basic, mobile-first styling:
+    - padding on the body
+    - max-width and center
+    - change fonts everywhere
+    - over-ride rules on headers / multiselect
+    - border + 3px margin on divs
+    - make nested divs a different color (descendant selector); use the color picker
+THIS is how you show them what CSS does.
+
+4. Before you leave the inspector, make sure you show them where to go to save it.
+
+5a. Then send them to the CSS Diner, so they can learn about selectors? If so, point out that these are made-up HTML elements (XHTML) – but that for their own sites, they should use standard HTML5, which is why I'm assigning some tutorials.
+
+5b. Show how headings structure the document, using a web accessibility tool?
+
+5c. Have them use the inspector to modify the course site? The default Zen Garden stylesheet?
+
+6. Start the tutorial.
+
+-->
+
+
 <section class="prereqs">
     <details><summary><strong>Texts to have read</strong></summary>
         <ul>

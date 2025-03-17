@@ -1,125 +1,133 @@
 
 # Core Concepts of HTML & CSS + Studio
 
-<div class="alert alert-warning">We've had a request to activate the Zoom today. Please remind me if I forget?</div>
+<section class="prereqs">
+    <details><summary><strong>Texts to have read</strong></summary>
+    <ul>
+        <li>Kevin Powell's <a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">HTML & CSS for absolute beginners</a>, up through the end of the <a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/3-css/1-what-is-css">CSS module</a><ul>
+            <li>If you were unable to log in, you could also have done <a href="https://internetingishard.netlify.app/html-and-css/">Interneting is Hard (but it doesn't have to be)</a>, up through <a href="https://internetingishard.netlify.app/html-and-css/hello-css/">"Hello, CSS"</a></li>
+            </ul>
+        </li>
+    </ul>
+    </details>
+    <details><summary><strong>Work to have achieved</strong></summary>
+    <ul>
+        <li>Push your tutorial code to GitHub</li>
+    </ul>
+    </details>
+</section>
 
-**Work to have done**:
-* As much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.netlify.app/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS"); _push your tutorial code to GH_
 
 **Plan for the day**:
 
-0. Upcoming workshops (5 min)
-1. Key Concepts and Practical Takeaways (20-30 min)
-2. Intro to studio (5 min)
-3. Studio (35-45 min)
-
-## 0. Announcement: Accessible Web Design workshops 
-
-There's a series of workshops this Friday (html) and next (css), right here in this room, from 2:30-3:30, aimed at ways to make the web more navigable by more people. They're hosted by Lynn Priestley – who is, among other things, author of the [Loose Leaf cafe](https://cap-alt-delete.github.io/website-portfolio-2021spring/) website that I gave you as an example. She's also the host of a podcast on this subject, [Welcomed by Design](https://open.spotify.com/show/2fiqvtqdyyZfpGATtPLpgl?si=8582cbb529574d53). 
-
-If you can make the time, I highly encourage you to [register using this link](https://docs.google.com/forms/d/e/1FAIpQLSfPzuLPbCkRQ7k4--R8Ti7zkM1zzLP-jlZ7MwQIShlyeiU6Kw/viewform) to get demo / practice files! Here's a [flyer with more information](../uploads/AccessibleWebWorkshops.pdf). <span class="sr-only">And here's a background image description for the flyer, which should otherwise have embedded text accessible: Abstract, color-block representation of a desktop computer screen, with the introductory text placed on the main web page. The event details are on a coding sidebar, with the who/what/where/preregister headings wrapped to look like HTML tags. End of image description.</span>
+1. Tutorial check-in (~10 min)
+    - Who used which tutorial?
+    - Compare your results so far, discuss design choices & challenges
+2. Alt text activity (~20-30 min)
+3. Designing with dev tools (~10 min)
+4. Studio / practice (~30 min)
 
 
-There's also a workshop this Friday morning, 11:00-1:00, on _Alt-Text as Poetry_, hosted by the artist, writer, and disability activist Bojana Coklyat. That's across the street in 527 William Pitt Union. This workshop will be capped at 20 and is open to anyone at the university, though priority will be given to graduate and upper-level undergraduate students. You can [register here](https://pitt.co1.qualtrics.com/jfe/form/SV_6znqFaKfKQgazem).
+## 1. Tutorial check-in
+
+First question: was everyone able to log into the Kevin Powell site eventually? If not, who used Interneting is Hard?
+
+What I mostly want to do here is give you a chance to compare notes, and especially to **compare the tutorial-led websites you've been building so far**. Working in pairs or groups of 3, show each other what you've built:
+
+* What choices have you made in implementing the design spec in the Powell tutorial? Or what modifications have you made (if any) from the basic instructions in Interneting is Hard?
+* Is there anything you were _not_ able to achieve? See if you can figure it out together, and call me over if you need help.
+
+Let's take about 5-10 minutes here; any remaining questions you have, you're probably not alone, so let's talk about them together!
+
+## 2. Alt text activity
+
+As you should know by now, **every `<img>` on the web requires `alt=""`**. As this [guide from NCSU libraries](https://www.lib.ncsu.edu/accessibility-guide/alt-text) explains,
+
+> Good alt text describes **what is in the image**, focusing on what is most relevant to **the reason for including the image** and has the following properties:
+>
+> * it is as concise as reasonably possible
+> * it relates to the surrounding content of the page without being repetitive
+> * it avoids relying only on “sensory characteristics” to convey meaning
+> * its writing style is consistent with the writing style of the page
+>
+
+Notice that this emphasis on reasons and reasonability mean that context is really important – so it's hard to rely on an AI alt-text generator, even as they're getting better. Your human sense of purpose is part of what you're doing here.
+
+A few relevant metaphors: writing a text description of an image is kind of [like leading a Dungeons & Dragons campaign](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/ "thanks to Powell for this recommended reading!"), trying to bring readers/listeners along on a shared adventure; it's also a bit [like poetry](https://alt-text-as-poetry.net), trying to convey a wealth of subjective meaning using condensed, expressive language.
+
+The authors of the latter site also point out that alt text is a kind of _translation_: it always involves creative decisions, with no single correct answer, and you have to recognize that something will always be lost – but ideally something will be gained as well.
+
+### Practicing together
+
+I'm going to pull a random image or two from [unsplash](https://unsplash.com), but let's recognize that we'll need to imagine an artificial context. Some shout out if you see an image that starts to tell a story for you, and we can get it into our notes doc and write a few  descriptions for it.
 
 
+### Practicing in pairs – and on your own
 
-## 1. Key Concepts and Practical Takeaways (20-30 min) <!-- so for a 1:00 start, aim to be done by 3:25 In 2023, we start the solo round at around 1:10. All groups talking by 1:23. -->
+1. Working in groups of two, repeat the process: find a picture that suggests a context for you, that you could imagine writing alt text for.
+
+2. **Working solo first,** write a text description of the image, keeping your context in mind.
+
+3. Compare descriptions. What differences did you notice? What similarities?
+
+EXT: waiting for the others? Repeat the process, using pictures from your own camera roll. What do you emphasize when describing your own picture that your neighbor did not?
+
+### Full-group discussion
+
+* What surprised you, or what do you most want to remember from this experience?
+* How did/does subjectivity enter into text descriptions? In what contexts does that feel most or least helpful?
+
+Let's get some notes in the shared doc.
+
+
+## 3. Designing with dev tools
+
+Toward the end of the CSS module, Powell shows you how to use your browser to look for broken CSS rules. Did you know you can also use those tools to make changes on the fly?
+
+**Let's have a look at the CSS Zen Garden, stripped of its CSS.** (You can also [download this HTML file](https://www.csszengarden.com/examples/index) from https://www.csszengarden.com/.)
+
+* You can see how the HTML relates to what's displayed
+* You can add rules for the currently selected element
+    - NB: it will use the most specific selector available, which may not be what you want. We can come back to that.
+* You can edit existing rules to see what changes.
+* You can see the full list of rules we've applied: it's actually a new stylesheet!
+* If you don't save (rules from) the inspector stylesheet, those rules will be lost when you refresh the page.
+
+### Your turn (~5 min)
+
+You probably already have this lesson plan open; if not, go ahead and open it now.
+
+* Fire up the Chrome or Firefox inspector and explore the rules I already have in place.
+* Make some changes and see what happens. :)
+* If you have some new CSS you'd like to propose I adopt, please do send them my way!
+
+<aside class="ext">
+    <p>EXT: Open up the example sites from last year (from HW reading, and pasted again below for convenience), looking at the HTML with either View Source or your browser's inspector. How are the pages structured? Any surprises? Any changes you'd want to make? Anything you'd want to borrow for your own site?</p>
+
+    <details><summary>Convenient links</summary>
+        <ul>
+            <li> <a href="https://fatemaquaid987.github.io/website/index.html">Fatema Quaid</a>, by Fatema Quaid</li>
+            <li><a href="https://cmgo412.github.io/website-portfolio-2021spring/">Hi, I'm Caela</a>, by Caela Go</li>
+            <li><a href="https://cap-alt-delete.github.io/website-portfolio-2021spring/">Loose Leaf</a>, by Lynn Priestley</li>
+            <li><a href="https://shreyababu.github.io/website-portfolio-2020fall">The Rwandan Genocide: 100 Days of Silence</a>, by Shreya Babu</li>
+        </ul>
+    </details>
+</aside>
+
+## 4. Studio / Practice (45-60 min)
+
 <div class="alert alert-success">
-Start by answering each of the questions below <strong>on your own</strong> (skipping the EXTs for now). Write down your answers in your own space. <!-- FOR NEXT TIME: Have a downloadable quiz sheet so people don't feel like they have to waste time copying stuff out -->
+See below for options, then please go to <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes>our notes doc</a> and let me know what you're working on; this helps me figure out where I can be most helpful.
 </div>
-<p>(Note that some of the True/False questions are actually a little subtler than that framing suggests: e.g. *mostly* true, except when ____.)</p>
-
-
-Then **discuss your answers in groups** at your tables, and be ready to discuss tricky ones with the whole class if time allows. Some you should be able to go through rather quickly, while others may require more discussion. 
-
-<div class="alert alert-success">
-<strong>Please take turns within your group</strong> reading questions and proposing answers, so that everyone in the group bears responsibility. <!--Also, to help me keep track of where everyone's up to, <strong>please take notes in the <a href="http://bit.ly/cdm{{site.course.slugterm}}-notes">shared google doc</a></strong> -->.
-</div>
-
-**Speedy teams, note the EXTs** at the end. Conversely, feel free to **skip the EXTs in the middle if you're running behind** – we want to make sure you have enough working time in the second part of class.
-
-Call me in if you can't come to a resolution! I will share my answer key when your table is ready.
-
-<!-- <div class="alert alert-warning">
-To get async credit for this portion of the class, please answer these questions in your own space (i.e. not in the gdoc) and send your answers my way.
-
-You'll also want to do the generative exercise a bit further down!
-</div> -->
-
-
-### Organizing files
-
-1. True or False: filenames are not case sensitive, so it doesn't matter if something is uppercase or lowercase.
-2. T / F: web browsers know how to handle spaces in filenames, so it doesn't matter if you have spaces in a filename or not.
-3. T / F: all files referred to in an html document have to be in the same folder as that html document.
-4. What's one advantage of using a relative link? <!-- easier to change folder names / servers --> What's one risk? <!-- link could break, especially if you shift folder nesting levels -->
-
-EXT: What are some html elements can you use to refer to an external file? (Hint: you should know at least three already.) Where would you put the filename within each of those elements? <!-- <a href="">, <img src="">, <link href=""> -->
-
-
-### HTML basics
-1. What kind of information goes in the `<head>`?
-2. How do you mark up comments in HTML?
-3. T / F: every HTML element has an opening tag, some element content, and a closing tag.
-4. T / F: in rendering an HTML file, there's no difference between a space, a blank line, or five blank lines.
-
-EXT: What three tags should pretty much every published page's `<head>` include? <!-- <title>, <meta charset='UTF-8'/> (or whatever actual charset makes sense), <link rel="stylesheet"> -->
-
-### Image basics
-1. T / F: every `<img>` tag should specify a source file.
-2. T / F: every `<img>` tag should specify a width and a height.
-    - What happens if you only set one?
-3. T / F: every `<img>` tag should specify alternative text with `alt`.
-
-EXT: What makes .jpg files better for photographs than .png files? What makes .png files better for simple diagrams?
-
-### CSS basics
-1. What do the curly brackets and semicolons in CSS rules do?
-2. How can you apply a single CSS rule to multiple selectors?  
-3. How do you mark up comments in CSS?
-    - EXT: what's the shortcut in your text editor for (un)commenting out the current line?
-4. Name three different places you could store CSS rules. <!-- external stylesheet, page-specific <style> in the <head>, inline style in the attributes of an html element -->
-5. Why is it generally a bad idea to use inline styles?
-
-EXT: Given the three locations in question 4, when would you want to use each? What are the pros and cons?
-
-
-
-<div class="alert alert-info">
-<p>If your group finishes early, (a) let me know you're done, (b) <a href="../uploads">download my answer key</a> and confirm we're on the same page. If not, let me know that, too!</p>
-
-<p>Then (c) try the EXT activities below while you wait for the other groups to catch up.</p>
-</div>
-
-
-
-<!-- EXT 1: Flip through these <a href="http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/">example web-design sketches</a>. What design patterns do you notice? What drawing conventions? -->
-
-
-EXT: Talk through the example sites from last year (from HW reading before break, and pasted again below for convenience), looking at the HTML with either View Source or your browser's inspector. How are the pages structured? Any surprises? Any changes you'd want to make? Anything you'd want to borrow for your own site?
-<details><summary>Convenient links</summary>
-<ul><li> <a href="https://fatemaquaid987.github.io/website/index.html">Fatema Quaid</a>, by Fatema Quaid</li>
-<li><a href="https://cmgo412.github.io/website-portfolio-2021spring/">Hi, I'm Caela</a>, by Caela Go</li>
-<li><a href="https://cap-alt-delete.github.io/website-portfolio-2021spring/">Loose Leaf</a>, by Lynn Priestley</li>
-<li><a href="https://shreyababu.github.io/website-portfolio-2020fall">The Rwandan Genocide: 100 Days of Silence</a>, by Shreya Babu</li>
-</ul>
-</details>
-
-## 2. Anything to discuss further? (5-8 min) <!-- for a 1:00 start, you have to move on no later than 1:35. So aim to start discussion no later than 1:20... 1:15 would be better -->
-
-Let me know if you have any challenges or questions after reading my answer key!
-
-
-## 3. Studio / Practice (45-60 min) <!-- for a 1:00 start, you have to get here by 1:25, ending by 1:35 -->
-
-<div class="alert alert-success">See below for options, then please go to <a href="https://bit.ly/cdm{{site.course.slugterm}}-notes#heading=h.hiw73w6fl2zt#heading=h.jf786cdz1a2q">bit.ly/cdm{{site.course.slugterm}}-notes</a> and let me know what you're working on; this helps me figure out where I can be most helpful.</div>
 
 1. **If your tutorial pages aren't looking like the examples, tell me now, so I can help you get there!** You'll get a lot more out of the later tutorials if you've got these first ones solidly under your belt.
 
-2. The assignment for Thursday includes another two chapters in the tutorial and a game to play (or a blog post to read) about more advanced CSS selectors. If you haven't yet done so, why not start those homework assignments?
+2. The assignment for next class includes another two chapters in the tutorial and some optional texts on more advanced CSS selectors. If you haven't yet gotten that far, why not start those homework assignments?
 
-3. If you're feeling good about all that, start translating your website sketches – especially your website *content* – into HTML and then CSS. Begin by adapting the tutorials, once you know you've got them working, to include your own materials.
+3. How would you describe your own visual unit project if presenting it as alt text? Work up a couple options.
+
+4. If you're feeling good about all that, start translating your website sketches – especially your website *content* – into HTML and then CSS.
+    - Begin by adapting the tutorials, once you know you've got them working, to include your own materials: first build out the HTML tags you think you'll need, so you're sure they open/close appropriately, then write your content into the tags.
     - Use the _docs_ folder for files you'll eventually want to publish on the web.
     - Call the file for your landing/home page **index.html**. You can always change the `<title>`.
 
@@ -130,12 +138,13 @@ EXT: If you've already done the above, and you're good on what a CSS class is, a
 
 ## Homework for Next Time
 
-* **Do** more of the [tutorial](https://internetingishard.netlify.app/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
-  - Remember that I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule#current) to see which parts I expect you to read and do, and what's beyond baseline. You can probably skip Floats, for example... and I'll ask you to look at some Grid tutorials that aren't part of the main series.
-* Please do, though **read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/) *OR* if you prefer game-based learning to straight-up reading, try loading and clearing plates at the delightful [CSS Diner](https://flukeout.github.io/). (There's still reading, in the sidebar, which tells you how to win the round.)
-* As you're able to get the tutorials working, you can start adapting the files there to include your own content; save those more personalized files in the _docs_ folder.
-  - Save and commit as you go!
-
-<!-- * **View** screencast on using <nav><ul><li></a> and CSS to remove bullets ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model. -->
-
-Pi Day bonus! [https://www.youtube.com/watch?v=NmxPeBeX_38](LullaPi: A Piano Piece Inspired by the digits of Pi)
+* **Work through** more of the [HTML & CSS tutorial](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners):
+    - [Module 4: The box model](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/4-the-box-model/1-everything-is-a-box)
+    - [Module 5: Selectors, Specificity, and more styling](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/5-selectors-specificity-and-more-styling/1-time-for-version-2)
+* NB: If you still can't get in to that tutorial, the equivalent sections from Interneting is Hard are [The Box Model](https://internetingishard.netlify.app/html-and-css/css-box-model/) and [CSS Selectors](https://internetingishard.netlify.app/html-and-css/css-selectors/)
+* _Optional EXT:_ Want to get deeper?
+    - See if the old tutorial's page on [Web Typography](https://internetingishard.netlify.app/html-and-css/web-typography/) is up and running
+        - Remember your resources on fonts from the previous unit? They can help you here, too!
+    - Read more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
+    - Try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/).
+* Save and commit as you go!
