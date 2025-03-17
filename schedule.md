@@ -255,7 +255,7 @@ For next time:
 * Consider the collections of work you might want to gather
 * **Write** a _website proposal_, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
-<a id="current"/>
+
 <h3>Wednesday, Mar 12 – <a href="plans/lesson-16" id="lesson-16">Lesson 16</a> – Intro to Markup and Web Design</h3>
 
 For next time:
@@ -275,7 +275,7 @@ For next time:
 
 <!-- * *Optionally* bring headphones for sonic isolation during studio time -->
 
-
+<a id="current"/>
 <h3>Monday, Mar 17 – <a href="plans/lesson-17" id="lesson-17">Lesson 17</a> – Studio / Stylesheeting </h3>
 
 <!--
