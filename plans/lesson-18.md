@@ -76,6 +76,7 @@ Note that:
 You can then style that menu to your heart's content:
 
 ```css
+
 /***** Main menu styling *****/
   .main-nav {
     background-color: #eee; /* light gray */
@@ -88,21 +89,25 @@ You can then style that menu to your heart's content:
   .main-nav ul {
     list-style-type: none;  /* Hide the bullets */
     display: flex;          /* Arrange horizontally, not vertically */
+    flex-wrap: wrap;
   }
 
-  .main-nav li {
+  .main-nav li a {
+    display: block;
     padding: 1em 2em;           /* Add a little space around each link */
+    text-decoration: none;
   }
 
-  .main-nav .active {
+  .main-nav .active, .main-nav a:hover, .main-nav a:focus   {
     background-color: #4b8568;  /* dark green, same as link color */
-  }
-
-  .main-nav .active a {
     color: #eee;            /* light gray, same as navbar */
   }
 
-  /* etc */
+  .main-nav a:hover, .main-nav a:focus {
+    text-decoration: underline;
+  }
+
+/* etc */
 ```
 
 Note that:
