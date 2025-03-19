@@ -35,7 +35,7 @@ First question: was everyone able to log into the Kevin Powell site eventually? 
 What I mostly want to do here is give you a chance to compare notes, and especially to **compare the tutorial-led websites you've been building so far**. Working in pairs or groups of 3, show each other what you've built:
 
 * What choices have you made in implementing the design spec in the Powell tutorial? Or what modifications have you made (if any) from the basic instructions in Interneting is Hard?
-* Is there anything you were _not_ able to achieve? See if you can figure it out together, and call me over if you need help.
+* Is there anything you were _not_ able to achieve? See if you can figure it out together, and call me over if you need help. <!-- in particular: was everyone able to link to a separate stylesheet? did you successfully use a *relative path* to your stylesheet? discuss what could go wrong if you use an absolute path. -->
 
 Let's take about 5-10 minutes here; any remaining questions you have, you're probably not alone, so let's talk about them together!
 
@@ -53,16 +53,17 @@ As you should know by now, **every `<img>` on the web requires `alt=""`**. As th
 
 Notice that this emphasis on reasons and reasonability mean that context is really important – so it's hard to rely on an AI alt-text generator, even as they're getting better. Your human sense of purpose is part of what you're doing here.
 
-A few relevant metaphors: writing a text description of an image is kind of [like leading a Dungeons & Dragons campaign](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/ "thanks to Powell for this recommended reading!"), trying to bring readers/listeners along on a shared adventure; it's also a bit [like poetry](https://alt-text-as-poetry.net), trying to convey a wealth of subjective meaning using condensed, expressive language.
+A few relevant metaphors: writing a text description of an image is kind of [like leading a Dungeons & Dragons campaign](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/ "thanks to Powell for this recommended reading!"), trying to bring readers/listeners along on a shared adventure; it's also a bit [like poetry](https://alt-text-as-poetry.net), trying to convey a wealth of subjective meaning using condensed, expressive language. <!-- look for an example or two of color descriptions based on associations -->
 
 The authors of the latter site also point out that alt text is a kind of _translation_: it always involves creative decisions, with no single correct answer, and you have to recognize that something will always be lost – but ideally something will be gained as well.
 
 ### Practicing together
 
 I'm going to pull a random image or two from [unsplash](https://unsplash.com), but let's recognize that we'll need to imagine an artificial context. Some shout out if you see an image that starts to tell a story for you, and we can get it into our notes doc and write a few  descriptions for it.
-
+<!-- NOTES AFTER 2025 SPRING: Don't do rando unsplash, use the images from the Bouldering website. Start by having everyone list their descriptions in the gdoc, and look for what changes. Use those to talk about what different shades they fill in or leave out. Ask: why does it matter that ___? Does it matter? What does it add? -->
 
 ### Practicing in pairs – and on your own
+<!-- NOTES AFTER 2025 SPRING: this will work better as a callback exercise when students have their own images. Or ask them to choose some as part of the homework. -->
 
 1. Working in groups of two, repeat the process: find a picture that suggests a context for you, that you could imagine writing alt text for.
 
@@ -84,7 +85,7 @@ Let's get some notes in the shared doc.
 
 Toward the end of the CSS module, Powell shows you how to use your browser to look for broken CSS rules. Did you know you can also use those tools to make changes on the fly?
 
-**Let's have a look at the CSS Zen Garden, stripped of its CSS.** (You can also [download this HTML file](https://www.csszengarden.com/examples/index) from https://www.csszengarden.com/.)
+**Let's have a look at the CSS Zen Garden, stripped of its CSS.** (You can also [download this HTML file](https://www.csszengarden.com/examples/index) from https://www.csszengarden.com/.) <!-- NOTES AFTER 2025SPRING: That would have worked well for the first intro to HTML, but now it just felt weird and rushed and not related to what they'd done in the tutorial. Instead, again, inspect and modify *the tutorial site*: demo some of the quick changes you'd make to any site. Change font-color to #333 so it's not harsh black and change background-color to #ccc so it's not harsh white... then revert that for h3. Change font-family to sans-serif.  -->
 
 * You can see how the HTML relates to what's displayed
 * You can add rules for the currently selected element
