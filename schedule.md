@@ -275,7 +275,7 @@ For next time:
 
 <!-- * *Optionally* bring headphones for sonic isolation during studio time -->
 
-<a id="current"/>
+
 <h3>Monday, Mar 17 – <a href="plans/lesson-17" id="lesson-17">Lesson 17</a> – Studio / Stylesheeting </h3>
 
 <!--
@@ -299,7 +299,7 @@ EXT: [Improve Your Designs With The Principles Of Continuation And Common Fate (
     - Read more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
     - Try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/).
 
-
+<a id="current"/>
 <h3>Wednesday, Mar 19 – <a href="plans/lesson-18" id="lesson-18">Lesson 18</a> – Studio / Navigation</h3>
 
 <!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>.
@@ -330,13 +330,14 @@ For next time:
 
 * **Work through** tutorial [Module 6: Layouts](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/6-layouts/1-creating-layouts-with-css)
     - NB: when you get to [Flexible layouts with Flexbox](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/6-layouts/5-flexible-layouts-with-flexbox), there's a typo in the first interactive code block: he says there are two layouts, one using grid and one using flex, but the HTML only has one. You can fix it with a little copy-paste! Just edit the class on the outer `div` so you have one `<div class="flex">` and one `<div class="grid">`.
-* Also **watch** Powell's [Useful & Responsive Layouts, no Media Queries required](https://www.youtube.com/watch?v=p3_xN2Zp1TY).
-* **Compose and push** a _second draft_, now adding or updating layout for larger screens (i.e. desktop).
+* If you're doing the Interneting is Hard tutorials, once you've finished Semantic HTML and Web Typography, you're basically done: the rest we can leave for historical interest. For layout purposes, you'll instead **read** Josh Comeau's [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) and [Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+* Everyone will also probably benefit if you **watch** Powell's [Useful & Responsive Layouts, no Media Queries required](https://www.youtube.com/watch?v=p3_xN2Zp1TY) (11:02 runtime at full speed). It's got a bunch of ready-to-roll layout solutions that will apply broadly, but it will make much more sense if you're already familiar with Flex and Grid layouts.
+* Armed with all that info, **compose and push** a _second draft_, now adding or updating layout for larger screens (i.e. desktop).
     - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
 
-* EXT: Here are some things I was _planning_ to assign before I switched to the new tutorial. They're still great, and get into more depth than the Layouts tutorial does, but I'll make them _optional_ now:
-    - Josh Comeau's [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) and [Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-    - (This was always an EXT:) Want even *more* layout templates and examples? Try Rachel Andrew's [Grid By Example](https://gridbyexample.com/patterns/), which also has video tutorials.<!-- * **Test** your skills with https://flexboxfroggy.com/  - As a reminder, you should **write out the exercises in the tutorials** and push them to your repository – probably in the tutorials subfolder. Once you have them working as presented, feel free to update them to test out ideas for your own site! But do try to confirm you can get them working first. HTML, like all code, is fiddly: punctuation (including spaces) matters for things like close-tags and CSS selectors. -->
+* EXT for enthusiasts:
+    - If you're doing Powell's tutorial, check out the two Josh Comeau resources above, which get into more depth than Powell's Layouts chapter does.
+    - Want even *more* layout templates and examples? Try Rachel Andrew's [Grid By Example](https://gridbyexample.com/patterns/), which also has video tutorials.
 
 <!-- A full, workshop-ready draft of your website project is due in one week. -->
 
