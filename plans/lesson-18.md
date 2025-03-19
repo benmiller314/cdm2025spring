@@ -229,7 +229,8 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 
 # Homework for next time
 * **View** Kevin Powell's video on [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=4) (runtime: 15:53 at 1x speed)
-    - and catch up on any tutorial chapters you've missed so far. For Interneting is Hard users, that should include the chapter on Semantic HTML.
+    - The key sections are [The right mindset](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=3&t=102s) and [Start with global styling](https://www.youtube.com/watch?v=VQraviuwbzU&list=PL4-IK0AVhVjM6kuUoUexfmnD8vHtZkXdd&index=3&t=192s), but the rest will help you start next week in the right headspace!
+    - Also catch up on any tutorial chapters you've missed so far. For Interneting is Hard users, that should include the chapter on Semantic HTML.
 * **Compose and push** a _first draft_ of your website: a beginning, focused on html content and mobile (i.e. minimal) design.
     - If you've missed any of the expandable tips in today's lesson plan, please do check them out!
 * _Recommended EXT:_ **Read** [Getting Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started) and recall your knowledge of font choices from the visual unit to **choose** one main body font and one main header font (or consciously keep them the same, but at different weights / font sizes)
