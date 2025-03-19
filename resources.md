@@ -367,12 +367,15 @@ Under the <a href="#assets">assets listings</a> above, you might find FontSquirr
 In the <a href="#assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons)... in addition, of course, to the web frameworks themselves.
 
 <dl>
+<dt><a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">HTML & CSS for absolute beginners</a></dt>
+<dd>A one-stop shop for learning basic web architecture from the ground up, brought to you by my favorite CSS YouTuber (don't mock me, that's totally a thing), <a href="https://www.youtube.com/@KevinPowell/playlists">Kevin Powell</a>. I'll assign chapters from this over several homeworks. It came out in 2024, so it's got all the modern tools that make CSS layout much more user-friendly and flexible than it was even a few years ago.</dd>
+
 <dt><a href="https://internetingishard.netlify.app/">Interneting is Hard (but it doesn't have to be)</a></dt>
 <dt><a href="https://web.archive.org/web/20180704003252/https://www.internetingishard.netlify.app/">(WebArchive version, if the above doesn't load)</a></dt>
-<dd>Your one-stop shop for learning basic web architecture from the ground up, with clear explanations and cute illustrations. I'll assign chapters from this over several homeworks. </dd>
+<dd>An alternative one-stop shop for learning basic web architecture from the ground up, with clear explanations and cute illustrations. I'll assign chapters from this over several homeworks for those of you who can't log into the Powell course. </dd>
 
 <dt><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></dt>
-<dd>We'll walk through this demo <a href="{{site.github_url}}/plans/lesson-18#web-design-in-4-minutes-in-15-min">in class</a>; if you're at a loss for what to include in your stylesheet, you can do far worse than adding the basic spacing rules Jeremy Thomas sets up here.</dd>
+<dd>If you're at a loss for what to include in your stylesheet, you can do far worse than adding the basic spacing rules Jeremy Thomas sets up here.</dd>
 
 <dt><a href="https://css-tricks.com/how-css-selectors-work/">How CSS Selectors Work (CSS-Tricks)</a></dt>
 <dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the \*.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details... and if even that doesn't satisfy you, try their deep-dive in <a href="https://css-tricks.com/specifics-on-css-specificity/">Specifics on CSS Specificity</a>.</p>
