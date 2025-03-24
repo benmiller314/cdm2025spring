@@ -22,16 +22,16 @@
 1. Accessibility checks: check on your own, work with a neighbor to fix what needs fixing
     * document outline
     * alt text
-    * html validator
+    * contrast ratios
 2. Thoughts for studio
 3. Studio: toward a laid-out second preview
-  * Set Goals
-  * Go forth!
-  * Exit note
+    * Set Goals
+    * Go forth!
+    * Exit note
 
 ## 1. Accessibility checks
 
-The best way to make sure you're building a website that people can access is to work with accessibility in mind from the beginning. We already talked about alternative text representation of images: every image needs to declare alt text, or leave `alt=""` to signal that the image is purely decorative. We also talked about the importance of a sensible document outline, created by heading levels. Another is contrast: the Web Content Accessibility Guidelines (WCAG) recommends a minimum luminosity ratio of 4.5:1 between text and background, and ideally the ratio is even higher: 7:1.
+The best way to make sure you're building a website that people can access is to work with accessibility in mind from the beginning, and checking periodically along the way. We already talked about alternative text representation of images: every image needs to declare alt text, or leave `alt=""` to signal that the image is purely decorative. We also talked about the importance of a sensible document outline, created by heading levels, with exactly one `h1` and levels governed by content, not appearance. Another is contrast: the Web Content Accessibility Guidelines (WCAG) recommends a minimum luminosity ratio of 4.5:1 between text and background, and ideally the ratio is even higher: 7:1.
 
 Today I want to introduce a tool you can use to catch yourself making mistakes – or doing well! – with these and other accessibility concerns. It's called the Web Accessibility Evaluation Tool, or WAVE, and you can find it at **[https://wave.webaim.org/](wave.webaim.org/)**.
 
@@ -72,17 +72,17 @@ Keeping it brief this time:
 
 ### Set Goals
 
-What do you need to do to level up on HTML and CSS in the direction of your specific project? As usual, please write down some goals in the [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes), **set a goal for today**: what do you need to do to level up on HTML, CSS, and resource gathering to move toward your specific project?
+As usual, please write down some goals in the [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes), **setting a concrete plan for today**: what do you need to do to level up on HTML, CSS, and resource gathering to move toward your specific project?
 
 <div class="alert alert-info">
-For my sake and yours, please <strong>be as specific as possible:</strong> e.g. rather than “working on my site,” you might say, “choosing images for photo gallery” or “building grid for layout with top menu and featured image” etc etc.
+For my sake and yours, <strong>splease be as specific as possible:</strong> e.g. rather than “working on my site,” you might say, “choosing images for photo gallery” or “building grid for layout with top menu and featured image” etc.
 </div>
 
 EXT: *Already feeling done?* Ask yourself:
 
 - Are you repeating the same CSS rule in multiple places? Instead, see if you can reuse CSS classes in multiple places, extending them where you need to.
-- Does that div need to be there? If it's not for layout or semantic grouping, it might not be necessary.
-- Do you have style or presentation directly in the HTML? See if you can extract it out to the stylesheet.
+- Does that div need to be there? If it's not for layout or semantic grouping, it might not be necessary: remember that you can apply classes directly to elements.
+- Do you have style or presentation directly in the HTML? See if you can extract it out to the stylesheet for consistency, flexibility, and ease of maintenance.
 - Would it help to define colors relative to starting values? See [css-tricks.com/a-complete-guide-to-custom-properties/](https://css-tricks.com/a-complete-guide-to-custom-properties/).
 
 ### Go forth! And Don't forget to document your process
@@ -107,7 +107,7 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 1. **Work through** a tutorial on layout:
     - Kevin Powellists, do [Module 6: Layouts](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/6-layouts/1-creating-layouts-with-css).
         - NB: when you get to the section on [Flexible layouts with Flexbox](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/6-layouts/5-flexible-layouts-with-flexbox), there's a typo in the first interactive code block: he says there are two layouts, one using grid and one using flex, but the HTML only has one. You can fix it with a little copy-paste! Just edit the class on the outer `div` so you have one `<div class="flex">` and one `<div class="grid">`.
-    - If you've been doing Interneting is Hard, skip the layout chapters and instead **read** two pieces by Josh Comeau (formerly of CSS Tricks):
+    - If you've been doing Interneting is Hard, skip the layout chapters and instead **read** two pieces by Josh Comeau:
         - [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) and
         - [Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/).
         - NB: if Comeau's page on Flexbox feels too abstract, try [MDN's flexbox intro](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox) instead. But please do use Comeau's intro for Grid; it's one of the best I've seen.
