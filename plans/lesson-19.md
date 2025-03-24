@@ -75,7 +75,7 @@ Keeping it brief this time:
 As usual, please write down some goals in the [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes), **setting a concrete plan for today**: what do you need to do to level up on HTML, CSS, and resource gathering to move toward your specific project?
 
 <div class="alert alert-info">
-For my sake and yours, <strong>splease be as specific as possible:</strong> e.g. rather than “working on my site,” you might say, “choosing images for photo gallery” or “building grid for layout with top menu and featured image” etc.
+For my sake and yours, <strong>please be as specific as possible:</strong> e.g. rather than “working on my site,” you might say, “choosing images for photo gallery” or “building grid for layout with top menu and featured image” etc.
 </div>
 
 EXT: *Already feeling done?* Ask yourself:
