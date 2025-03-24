@@ -299,7 +299,7 @@ EXT: [Improve Your Designs With The Principles Of Continuation And Common Fate (
     - Read more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
     - Try loading and clearing plates at the [CSS Diner](https://flukeout.github.io/).
 
-<a id="current"/>
+
 <h3>Wednesday, Mar 19 – <a href="plans/lesson-18" id="lesson-18">Lesson 18</a> – Studio / Navigation</h3>
 
 <!-- Make sure everyone knows how to make a navigation menu using <nav><ul><li><a>.
@@ -316,7 +316,7 @@ For next time:
     - Dive back into design principles: [Improve Your Designs With The Principles Of Continuation And Common Fate (Part Three)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-the-principles-of-continuation-and-common-fate-part-three/)
     - Get into the weeds with web fonts: [Choosing web fonts: A beginner's all-in-one guide](https://fonts.google.com/knowledge/choosing_type/choosing_web_fonts_beginners_guide)
 
-
+<a id="current"/>
 <h3>Monday, Mar 24 – <a href="plans/lesson-19" id="lesson-19">Lesson 19</a> – Web Unit Studio / Accessibility and Layout</h3>
 
 <!--
