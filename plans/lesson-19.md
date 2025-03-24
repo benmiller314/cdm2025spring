@@ -33,13 +33,15 @@
 
 The best way to make sure you're building a website that people can access is to work with accessibility in mind from the beginning, and checking periodically along the way. We already talked about alternative text representation of images: every image needs to declare alt text, or leave `alt=""` to signal that the image is purely decorative. We also talked about the importance of a sensible document outline, created by heading levels, with exactly one `h1` and levels governed by content, not appearance. Another is contrast: the Web Content Accessibility Guidelines (WCAG) recommends a minimum luminosity ratio of 4.5:1 between text and background, and ideally the ratio is even higher: 7:1.
 
-Today I want to introduce a tool you can use to catch yourself making mistakes – or doing well! – with these and other accessibility concerns. It's called the Web Accessibility Evaluation Tool, or WAVE, and you can find it at **[https://wave.webaim.org/](wave.webaim.org/)**.
+Today I want to introduce a tool you can use to catch yourself making mistakes – or doing well! – with these and other accessibility concerns. It's called the Web Accessibility Evaluation Tool, or WAVE, and you can find it at **[wave.webaim.org/](https://wave.webaim.org/)**.
 
 There, you can [download an extension or add-on](https://wave.webaim.org/extension/) for either Chrome or Firefox (or Edge) that will run a quick inspection of the current page your browser has open – including local pages.
 
 <div class="alert alert-success">
 Please take a minute to install the plugin on your browser of choice, if you don't already have it.
 </div>
+
+UPDATE: To make this work with local files, you'll need to change the permissions of the extension. After installing, right-click on the icon and choose "manage extension" (or the equivalent for your browser). A new page will open with options; look for "Allow access to file URLs" and toggle that to _on_.
 
 ### Quick demo
 
