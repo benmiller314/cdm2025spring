@@ -317,7 +317,7 @@ For next time:
     - Get into the weeds with web fonts: [Choosing web fonts: A beginner's all-in-one guide](https://fonts.google.com/knowledge/choosing_type/choosing_web_fonts_beginners_guide)
 
 
-<h3>Monday, Mar 24 – <a href="plans/lesson-19" id="lesson-19">Lesson 19</a> – Web Unit Studio / Deployment</h3>
+<h3>Monday, Mar 24 – <a href="plans/lesson-19" id="lesson-19">Lesson 19</a> – Web Unit Studio / Accessibility and Layout</h3>
 
 <!--
 * Make sure everyone has successfully activated GitHub Pages before they leave.
@@ -334,6 +334,7 @@ For next time:
     - NB: when you get to [Flexible layouts with Flexbox](https://learn.kevinpowell.co/course/html-css-for-absolute-beginners/6-layouts/5-flexible-layouts-with-flexbox), there's a typo in the first interactive code block: he says there are two layouts, one using grid and one using flex, but the HTML only has one. You can fix it with a little copy-paste! Just edit the class on the outer `div` so you have one `<div class="flex">` and one `<div class="grid">`.
 * If you're doing the Interneting is Hard tutorials, once you've finished Semantic HTML and Web Typography, you've basically gotten the best they can offer you: the rest we can leave for historical interest. But you'll still need advice on layout!
     - For that, you'll need to **read** Josh Comeau's [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) and [Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+    - If the Comeau Flexbox page is too abstract, as an alternative you can [try MDN's flexbox intro](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox); make sure to catch the [Test your skills](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox_skills) challenge at the bottom.
 * Everyone will also probably benefit if you **watch** Powell's [Useful & Responsive Layouts, no Media Queries required](https://www.youtube.com/watch?v=p3_xN2Zp1TY) (11:02 runtime at full speed). It's got a bunch of ready-to-roll layout solutions that will apply broadly. Do the reading above first, though: it will make much more sense if you're already familiar with Flex and Grid layouts.
 * Armed with all that info, **compose and push** a _second draft_, now adding or updating layout for larger screens (i.e. desktop).
     - **Email me with any questions**, noting that I can help fastest if you include screenshots and links to your site/repo. Better yet, [create a New Issue]({{site.github.issues_url}}/new/choose)! Then my answer to you can help others, too.
