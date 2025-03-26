@@ -316,7 +316,7 @@ For next time:
     - Dive back into design principles: [Improve Your Designs With The Principles Of Continuation And Common Fate (Part Three)](https://www.smashingmagazine.com/2016/05/improve-your-designs-with-the-principles-of-continuation-and-common-fate-part-three/)
     - Get into the weeds with web fonts: [Choosing web fonts: A beginner's all-in-one guide](https://fonts.google.com/knowledge/choosing_type/choosing_web_fonts_beginners_guide)
 
-<a id="current"/>
+
 <h3>Monday, Mar 24 – <a href="plans/lesson-19" id="lesson-19">Lesson 19</a> – Web Unit Studio / Accessibility and Layout</h3>
 
 <!--
@@ -345,13 +345,11 @@ For next time:
 
 <!-- A full, workshop-ready draft of your website project is due in one week. -->
 
+<a id="current"/>
 <h3>Wednesday, Mar 26 – <a href="plans/lesson-20" id="lesson-20">Lesson 20</a> – Web Unit Criteria and Stretch Goals / Studio</h3>
 
 <!--
-* Model building a design from a hand-drawn sketch.
-* Self-paced tutorial-ing / applications of tutorial to your own content, in breakouts
-* Q&A with Ben, especially if your tutorials aren't working as expected.
-* Remind people that local file paths aren't going to work! Show them the browser extension for replacing images with their alt text / detecting accessibility problems.
+Remind people that there are instructions in the docs folder for how to get your site live on the internet.
 -->
 For next time:
 
