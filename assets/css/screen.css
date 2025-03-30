@@ -500,6 +500,7 @@ details summary h3 {
 /* But don't do this inside a colored alert */
 .alert summary {
     background-color: inherit;
+    border: inherit;
 }
 
 aside {
