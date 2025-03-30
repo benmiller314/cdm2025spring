@@ -68,7 +68,7 @@ For a minimum grade of B, all projects for this unit must…
 <li>Include at least 3 navigable html locations (separate pages or distinct scrolling locations on the same page)</li>
 <li>Include a sitewide CSS stylesheet (i.e. an organized visual theme)</li>
 <li>Link internally from all pages (no dead ends)</li>
-<li>Include at least one legally useable image, <em>with alt text</em></li>
+<li>Include at least one licensed or fair-use image, <em>with alt text</em></li>
 <li>Credit all assets correctly on the site itself (or link to credits in the repo), including Title, Author, Source, and License</li>
 <li>Successfully load all elements in a web browser, at least locally (i.e. file paths should work on any computer)</li>
 <li>Use meaningful commit messages that say what’s changing (or even why)</li>
