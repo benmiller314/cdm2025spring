@@ -110,6 +110,7 @@ For a minimum grade of B, all projects for this unit must…
     <li>Make a clear argument in your reflection as to why you met enough of the aspirational criteria to be stretching the abilities you came in with: e.g. clarify what skills you came in with, and what was new</li>
     <li>Justify the website's structure for its intended purpose / audience</li>
     <li>(For all of the above, clarify your compositional choices and goals (e.g. design hierarchy)</li>
+    <li>Refer to specific tutorials or reference materials that helped you in your design</li>
     <li>Discuss what you would do if you had more time, and why you didn't have time now</li>
 </ul>
 </details>
