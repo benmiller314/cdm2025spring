@@ -181,3 +181,5 @@ I said above that even late peer reviews are due ideally by Thursday morning; ev
     - This will let us preserve the last few weeks of class for consolidation / integration, which might look like continued revision of any project so far, or (if you're happy with your earlier products) one more quick project cycle, possibly in collaboration with partners.
 * Toward that latter end, as I did at the same point in the audio and visual units, I'm inviting you to think forward into the final unit: what further possibilities of digital composition might you want to explore? How might your earlier projects fit into a larger context or series? See <a href="{{site.github.issues_url}}">the issue queue</a> for more details.
     * There is no minimum length for this post, but this is a good time to start gears turning about potential collaborations...
+
+Oh, and one more thing! We'll be joined on Wednesday by one of my colleagues, Dr. Alexandra Hidalgo. We're visiting each other's classes to provide teacherly feedback in much the same way you're visiting each other's websites to provide design feedback. Let's please make her welcome!
