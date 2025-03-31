@@ -345,7 +345,6 @@ For next time:
 
 <!-- A full, workshop-ready draft of your website project is due in one week. -->
 
-<a id="current"/>
 <h3>Wednesday, Mar 26 – <a href="plans/lesson-20" id="lesson-20">Lesson 20</a> – Web Unit Criteria and Stretch Goals / Studio</h3>
 
 <!--
@@ -359,6 +358,7 @@ For next time:
   * If you haven't already done so in class, test that your website portfolio is ready for your workshop partners to download: **try to clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop.
     - (You should then also <em>delete that extra copy</em>, before you get confused as to where you're revising and pushing from.)
 
+<a id="current"/>
 <h3>Monday, Mar 31 – <a href="plans/lesson-21" id="lesson-21">Lesson 21</a> – Web Unit Workshop </h3>
 For next time:
 
