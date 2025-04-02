@@ -225,7 +225,7 @@ Before you leave, as a way for me to check in, I'd like to hear more about what 
 
 # Homework for next time
 
-* Continue revising forward on your website, aiming to **push a finished-for-now version by 10pm on Sunday, April 6** so you can submit a reflection to the <a href="{{site.github_url}}/issues">issue queue</a> by **noon on Monday, April 7.** This should include, as usual...
+* Continue revising forward on your website, aiming to **push a finished-for-now version by 10pm on Sunday, April 6** so you can submit a reflection to the <a href="{{site.github.issues_url}}">issue queue</a> by **noon on Monday, April 7.** This should include, as usual...
     - at least 500 words describing the work you did and the design decisions you made
     - at least two screenshots showing your work in progress
     - at least one screenshot of feedback that you responded to in revising, and what you did in response
