@@ -358,7 +358,6 @@ For next time:
   * If you haven't already done so in class, test that your website portfolio is ready for your workshop partners to download: **try to clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop.
     - (You should then also <em>delete that extra copy</em>, before you get confused as to where you're revising and pushing from.)
 
-<a id="current"/>
 <h3>Monday, Mar 31 – <a href="plans/lesson-21" id="lesson-21">Lesson 21</a> – Web Unit Workshop </h3>
 For next time:
 
@@ -375,7 +374,7 @@ For next time:
 </div>
 -->
 
-
+<a id="current"/>
 <h3>Wednesday, Apr 2 – <a href="plans/lesson-22" id="lesson-22">Lesson 22</a> – Post-workshop Studio </h3> <!-- Eid Mubarak 2025! Feeling done with your project? Head over to <a href="{{site.github.issues_url}}">the issue queue</a> and read through final-unit proposals. Anything you want to collaborate on? (NB: Collaboration is not required for the final unit.) -->
 
 For next time:
