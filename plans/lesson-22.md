@@ -1,7 +1,20 @@
 
 # Web Unit Post-Workshop Studio
 
-**Work to have done**: asynchronous peer-review; optional [forum post about possible consolidation-unit projects]({{site.github.issues_url}}/13)
+<section class="prereqs">
+    <details><summary><strong>Texts to have read</strong></summary>
+        <ul>
+            <li>Your partners' websites, if you didn't complete peer review <a href="lesson-21">last class</a>.</li>
+        </ul>
+    </details>
+    <details><summary><strong>Work to have achieved</strong></summary>
+        <ul>
+            <li>Any remaining describe/evaluate/suggest reviews you owe partners from <a href="lesson-21">last class's workshop</a></li>
+            <li>Optionally, a short <a href="{{site.github.issues_url}}">blog post about possible future projects or revisions</a></li>
+        </ul>
+    </details>
+</section>
+
 
 **Plan for the day**:
 
