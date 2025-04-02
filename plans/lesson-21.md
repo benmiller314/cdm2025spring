@@ -27,7 +27,7 @@
 **Plan for the day**:
 
 1. Update the workshop cycle for our unit (3 times 15-20 min)
-  - Describe what you see in the HTML, then in the browser
+  - Describe what you see in the HTML, then in the browser <!-- NOTE AFTER 2025spring: reverse this, probably -->
   - Evaluate using our shared criteria
   - Suggest ways to level up
   - Post comments on the latest commit
@@ -48,6 +48,8 @@ It takes practice! Please do try: it helps make your comments more concrete and 
 
 ### 1a. Describe what you see
 Begin by saying back what's there, so your partner knows whether their intentions are being understood. NB: For this unit, in which display is a separate – and often challenging – concern, I'm going to ask you to use a <em>two-step description</em>:
+
+<!-- NOTE AFTER 2025spring: reverse this, probably -->
 
 * **First look at the HTML, and say back what you see there.** What seem to be the major content areas? What's given top-level focus? (e.g. what kind of things are getting their own pages, or what's at `<h1>` status within a page?) What's next in the hierarchy?
 * Once you've done that, **turn to the browser and repeat the process for the display.** What's given visual weight? What falls "above the fold"? Where are you invited to go next?
