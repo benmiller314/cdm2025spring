@@ -374,7 +374,7 @@ For next time:
 </div>
 -->
 
-<a id="current"/>
+
 <h3>Wednesday, Apr 2 – <a href="plans/lesson-22" id="lesson-22">Lesson 22</a> – Post-workshop Studio </h3> <!-- Eid Mubarak 2025! Feeling done with your project? Head over to <a href="{{site.github.issues_url}}">the issue queue</a> and read through final-unit proposals. Anything you want to collaborate on? (NB: Collaboration is not required for the final unit.) -->
 
 For next time:
@@ -383,7 +383,7 @@ For next time:
 * By **noon on Monday,** post a prose reflection to <a href="{{site.github.issues_url}}">the issue queue</a> that incorporates screenshots of your feedback and of your source files and/or browser output as the project developed.
     - Annotations on these screenshots are optional but I've found them helpful in the past, and you might, too.
 
-
+<a id="current"/>
 ## Unit V: Putting it Together (Bit by Bit)<a href="https://youtu.be/rJFz-ucuTvs?t=328"><span class="hidden">*</span><sup>*</sup></a>
 {: .unit #unit-5}
 
