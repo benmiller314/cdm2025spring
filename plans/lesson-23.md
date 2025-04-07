@@ -254,7 +254,7 @@ If you'd like me to set up breakout rooms to talk as a group, let me know! I'm h
 
 * *Preparing one final project or revision:*
     3. _By the end of next class_, you should decide (together, if working on a team) what would constitute a minimum deliverable project for the consolidation/integration unit, and what series of stretch goals you'll try for beyond that minimum.
-    4. To get there, work through the questions from the EXT above, and write a brief project pitch on the [shared Google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes). (The doc, rather than the forum, so it's easier to add comments and questions.)
+    4. To get there, work through the questions from the EXT above, and **write a brief project pitch** on the [shared Google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes). (The doc, rather than the forum, so it's easier to add comments and questions.)
 
 
 
