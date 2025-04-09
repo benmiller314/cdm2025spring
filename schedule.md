@@ -383,7 +383,7 @@ For next time:
 * By **noon on Monday,** post a prose reflection to <a href="{{site.github.issues_url}}">the issue queue</a> that incorporates screenshots of your feedback and of your source files and/or browser output as the project developed.
     - Annotations on these screenshots are optional but I've found them helpful in the past, and you might, too.
 
-<a id="current"/>
+
 ## Unit V: Putting it Together (Bit by Bit)<a href="https://youtu.be/rJFz-ucuTvs?t=328"><span class="hidden">*</span><sup>*</sup></a>
 {: .unit #unit-5}
 
@@ -402,7 +402,7 @@ For next time:
 * *Preparing one final project or revision:*
   * Work through the questions in the lesson plan's EXT, if you didn't yet, to develop an informal _project pitch_ and **post it** to our [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes). (The doc, rather than the issue queue, will make it easier for potential collaborators to annotate and for you to edit together in our next class.)
 
-
+<a id="current"/>
 <h3>Wednesday, Apr 9 – <a href="plans/lesson-24" id="lesson-24">Lesson 24</a> – Consolidation Unit Pitch Market and Studio</h3><!-- #4c25 workshops today: travel after class? You present Thursday afternoon, Pesach starts Saturday -->
 
 For next time:
