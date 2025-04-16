@@ -402,7 +402,7 @@ For next time:
 * *Preparing one final project or revision:*
   * Work through the questions in the lesson plan's EXT, if you didn't yet, to develop an informal _project pitch_ and **post it** to our [shared google doc](https://bit.ly/cdm{{site.course.slugterm}}-notes). (The doc, rather than the issue queue, will make it easier for potential collaborators to annotate and for you to edit together in our next class.)
 
-<a id="current"/>
+
 <h3>Wednesday, Apr 9 – <a href="plans/lesson-24" id="lesson-24">Lesson 24</a> – Consolidation Unit Pitch Market and Studio</h3><!-- #4c25 workshops today: travel after class? You present Thursday afternoon, Pesach starts Saturday -->
 
 For next time:
@@ -423,8 +423,8 @@ For next time:
 * **Push** a _preview_ of your project, i.e. get something started, so you can assess your needs.
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push, repeat.
 
-
-<h3>Wednesday, Apr 16 – <a href="plans/lesson-25" id="lesson-25">Lesson 25</a> – Consolidation Unit Studio / Preparing the Final Reflective Letter </h3>
+<a id="current"/>
+<h3>Wednesday, Apr 16 – <a href="plans/lesson-25" id="lesson-25">Lesson 25</a> – Consolidation Unit Studio / Preparing (for) the Final Reflective Letter </h3>
 
 For next time:
 
@@ -439,6 +439,7 @@ For next time:
 
 <!-- Asynchronous writing toward final portfolio reflection -->
 <!-- Sharing gifts and acknowledgments -->
+<!-- in-class time for OMETs -->
 
 For next time:
 
