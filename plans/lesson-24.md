@@ -26,55 +26,7 @@
     * Goals for just today
 4. Studio time
 
-<!--
-## About those final reflections
-
-The final reflection can be written informally, like the others. The goal is less a restatement of what you’ve already written than an opportunity to _think synthetically, across units and into the future._ The reflection will have two main components, or really aspects, which you can move back and forth between:
-
-1. An **articulation of your learning in the class**, focused more on transferable skills than individual tools.
-
-2. An **incorporation of the specific projects** in your portfolio, calling attention to features of these multimodal texts that you hope will _illustrate, clarify, or provide evidence_ for the claims you make about your learning.
-
-<div class="alert alert-info">
-These two aspects should work together, binding the abstract to the concrete and vice versa.</div>
-
-The questions below are meant to help you develop your thoughts toward that first aspect, in part through consideration of the second. While you need not answer these questions separately, or in strict order, I do hope you will endeavor to answer them all.
-
-<details open><summary>Guiding questions for the end-of-term reflection</summary>
-
-<ol class="lalpha">
-    <li>
-        <p>What <strong>advice or ideas</strong> have been most helpful to your thinking about composing, about digital environments or tools, about mediation? In other words, what do you most want to remember for future digital composition? </p>
-
-        <p>These may come from comments on your own projects, discussions of your classmates' work, office hour or class-time conversations, or assigned readings. </p>
-    </li>
-    <li>
-        <p>When you look back at the <strong>unit goals and overall course outcomes</strong>, where do you feel you’ve been most successful? The most challenged? If something’s held you back, how might you get around that barrier? (Or would you change the goal for yourself?) </p>
-
-        <p>Note that this is another way of asking a common end-of-term question: what do you see as the strengths of the work you've done for this course, and what are the areas in which you feel you’ve most improved? </p>
-
-        <p>Make specific references to projects or revisions.</p>
-    </li>
-    <li>
-        <p>What, if anything, <strong>surprised</strong> you during the course? Now that you’ve seen how it all pans out, are there any suggestions you’d make for a revision in the course structure or assignments? (I update my syllabi every time, so your feedback is truly welcome!)</p>
-    </li>
-    <li>
-        <p>Moving forward, what are your <strong>plans</strong> for continuing to develop your digital media skills? Will you continue working on any of these projects, in other classes or outside class?
-        </p>
-    </li>
-</ol>
-
-<p>NB: If at any point you’re tempted to say "all of it" (or “none,” though I hope that’s not true), that’s a fine start, but then prioritize: name something specific and concrete, even if it's just one example, so it's written somewhere you’ll be able to find it later.</p>
-
-</details>
-
-<aside class="smaller">
-NB: Should you want it, I have a <a href="../uploads/handout--final-portfolio-prompt.docx?raw=true">handout</a> summing up the above information, including the guiding questions for reflection and a checklist for submitting the final portfolio.
-</aside>
-
-
-What questions, comments, or concerns do you have about this now?
--->
+<!-- could talk about final reflections now instead of next class -->
 
 ## Think for yourself
 
