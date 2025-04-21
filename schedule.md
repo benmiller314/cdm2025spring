@@ -423,7 +423,7 @@ For next time:
 * **Push** a _preview_ of your project, i.e. get something started, so you can assess your needs.
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push, repeat.
 
-<a id="current"/>
+
 <h3>Wednesday, Apr 16 – <a href="plans/lesson-25" id="lesson-25">Lesson 25</a> – Consolidation Unit Studio / Preparing (for) the Final Reflective Letter </h3>
 
 For next time:
@@ -434,7 +434,7 @@ For next time:
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push, repeat.
 * _Optional_: **choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll share these in the last class.
 
-
+<a id="current"/>
 <h3>Monday, Apr 21 – <a href="plans/lesson-26" id="lesson-26">Lesson 26</a> – Last day of class! Looking back and looking forward</h3>
 
 <!-- Asynchronous writing toward final portfolio reflection -->
