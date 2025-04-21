@@ -98,6 +98,53 @@ In addition, after reading through the drafts and comments, I've come up with th
   <p>That last rule selects <code>h1</code> elements only if they're inside a <code>&lt;body class="home"&gt;</code>. You add the class to the opening <code>&lt;body&gt;</code> tag at the top of the file, and voila! A per-page style within a single sitewide stylesheet.</p>
 </details>
 
+<!--<details><summary>Writing a lot of the same CSS rules for different selectors?</summary>
+    <p>You may want to take those repeated rules and make them a new class, and leave only the different things behind. Elements are allowed to have more than one class, so even if you were using a class selector, you can just apply both the old (now simplified) class and the new one (containing the shared rules).</p>
+    <p>For example, instead of this:</p>
+    <pre><code>
+.page-one-header {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    color: #336adf;
+    margin-bottom: 2em;
+}
+
+.page-two-header {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    color: #df6a33;
+    margin-bottom: 2em;
+}
+</code></pre>
+    <p>you could instead have this:</p>
+    <pre><code>
+.header {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 2em;
+}
+
+.page-one {
+    color: #336adf;
+}
+
+.page-two {
+    color: #df6a33;
+}
+</code></pre>
+    <p>Then all you'd need in the html is:</p>
+    <pre><code>
+&lt;h2 class="header page-one"&gt;
+</code></pre>
+    <p>etc.</p>
+    <p>That's a pretty simple example, but it starts to make a bigger difference if you're repeating the rules over 3, 5, 8, 11 elements... you get the idea.</p>
+</details>
+<details><summary>If you have a <code>&lt;div class="header"&gt;</code> (or footer or nav)...</summary>
+    <p>You can just call it a <code>header</code> or <code>footer</code> or <code>nav</code>. Your selector for any relevant rules would then just need to drop the dot at the front, so you're selecting an element rather than a class.</p>
+    <p>This may seem trivial, but it makes the html easier to parse, both for humans (including yourselves!) and for machines, which can use that semantic information to build summaries and announce site structure (especially for readers using accessibility devices).</p>
+</details>
+-->
+
 <details><summary>Use alt text to convey significance as well as the basic facts.</summary>
     <p>Text-alternatives, which you add to images using <code>&lt;img alt="text description here" src="path/to/source.jpg"&gt;</code>, are a required element in validated html. They're also really helpful, and not only to blind users: they make the html file more readable on its own, and thus more semantic, and they help you troubleshoot layout when image paths are broken by showing you where each image is trying to appear.</p>
     <p>But alt text can also be <em>fun</em>: its purpose is to provide a way for more users to experience your site. If the image is there to help us get a sense of <em>you</em>, the words should do the same. If the image is there to add beauty, let your words add beauty; if the image is there to make us smile, relax, laugh, cry, imagine ways you might get us there – at least part of the way – with words.</p>
